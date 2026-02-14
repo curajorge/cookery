@@ -143,40 +143,95 @@ Whisk everything together. Should taste bright, savory, slightly sweet, aromatic
 
 ---
 
-## Full Shopping List — Whole Foods
+## Shopping List — Whole Foods Store Route
 
-| Item | Amount | Section |
+### 1. Produce (entry area)
+
+| Item | Amount | For |
 |---|---|---|
-| Sushi-grade ahi tuna | 150g | Fish counter |
-| Dry-aged NY strip | 450–500g | Butcher counter |
-| Guanciale (or pancetta) | 100g | Deli/cheese counter |
-| 00 flour (Caputo red bag) | 200g (buy 1kg bag) | Baking aisle |
-| Pecorino Romano DOP | 60g | Cheese counter |
-| Parmigiano-Reggiano | 30g | Cheese counter |
-| Large eggs | 8 | Dairy |
-| Baby arugula | 80g | Produce |
-| Avocado | 1 small | Produce |
-| Pine nuts | 20g | Bulk/nuts |
-| Lemon | 1 | Produce |
-| Garlic | 1 head | Produce |
-| Shallot | 1 | Produce |
-| Fresh ginger | 5g | Produce |
-| Fresh thyme | 1 bunch | Herbs |
-| Chives | 3g | Herbs |
-| Microgreens | 5g | Produce |
-| Black peppercorns (Tellicherry) | 8g | Spice aisle |
-| Toasted sesame seeds (black + white) | 3g | Bulk/spice |
-| Low-sodium soy sauce | 15g | Asian aisle |
-| Yuzu juice | 10g (smallest bottle) | Asian aisle |
-| Rice vinegar | 8g | Asian aisle |
-| Toasted sesame oil | 8g total | Asian aisle |
-| Dijon mustard | 5g | Condiments |
-| Honey | 3g | Pantry |
-| Extra virgin olive oil | 25g | Oil aisle |
-| Unsalted butter | 30g | Dairy |
-| Avocado/grapeseed oil | 20g total | Oil aisle |
-| Kosher salt (Diamond Crystal) | 36g | Baking |
-| Flaky sea salt (Maldon) | 2g | Spice aisle |
+| Baby arugula | 80g | Salad |
+| Avocado | 1 small | Tartare — bed under tuna |
+| Lemon | 1 | Salad — vinaigrette |
+| Garlic | 1 head | Steak — butter baste |
+| Shallot | 1 | Tartare — into the mix |
+| Fresh ginger | 5g (small knob) | Tartare — microplaned into sauce |
+| Microgreens | 5g | Tartare — garnish |
+
+### 2. Fresh Herbs (near produce)
+
+| Item | Amount | For |
+|---|---|---|
+| Fresh thyme | 1 bunch | Steak — butter baste |
+| Chives | 3g | Tartare — folded into tuna |
+
+### 3. Fish Counter
+
+| Item | Amount | For |
+|---|---|---|
+| Sushi-grade ahi tuna | 150g | Tartare — ask them to confirm sushi-grade |
+
+### 4. Butcher Counter
+
+| Item | Amount | For |
+|---|---|---|
+| Dry-aged NY strip | 450–500g | Steak — main course protein |
+
+### 5. Deli / Cheese Counter
+
+| Item | Amount | For |
+|---|---|---|
+| Guanciale (or pancetta) | 100g | Carbonara — rendered fat is the sauce base |
+| Pecorino Romano DOP | 60g | Carbonara — grate on Microplane |
+| Parmigiano-Reggiano | 30g | Salad — shaved with peeler |
+
+### 6. Dairy (refrigerated wall)
+
+| Item | Amount | For |
+|---|---|---|
+| Large eggs | 8 | Carbonara (5) + Pasta dough (3) |
+| Unsalted butter | 30g | Steak — basting |
+
+### 7. Bulk / Nuts
+
+| Item | Amount | For |
+|---|---|---|
+| Pine nuts | 20g | Salad — toasted garnish |
+| Sesame seeds (black + white) | 3g | Tartare — toasted garnish |
+
+### 8. Asian / International Aisle
+
+| Item | Amount | For |
+|---|---|---|
+| Low-sodium soy sauce | 15g | Tartare — sauce base |
+| Yuzu juice | smallest bottle | Tartare — sauce acid (lime if unavailable) |
+| Rice vinegar | 8g | Tartare — sauce |
+| Toasted sesame oil | 1 small bottle (need 8g) | Tartare — sauce + mix |
+
+### 9. Baking Aisle
+
+| Item | Amount | For |
+|---|---|---|
+| 00 flour (Caputo red bag) | 1kg bag | Pasta dough |
+| Kosher salt (Diamond Crystal) | box | All courses — 36g total |
+
+### 10. Oils / Condiments Aisle
+
+| Item | Amount | For |
+|---|---|---|
+| Extra virgin olive oil | bottle | Salad — vinaigrette |
+| Avocado or grapeseed oil | bottle | Steak + Tartare — high-heat sear + sauce body |
+| Dijon mustard | jar | Salad — vinaigrette emulsifier |
+| Honey | bottle | Tartare — rounds the acid in sauce |
+
+### 11. Spice Aisle
+
+| Item | Amount | For |
+|---|---|---|
+| Black peppercorns (Tellicherry) | jar | Carbonara + Steak + Salad |
+| Flaky sea salt (Maldon) | box | Tartare + Salad — finishing salt |
+
+> **Skip if you already have:** olive oil, avocado oil, Dijon, honey, kosher salt, peppercorns.
+> **Must-buys:** tuna, strip steak, guanciale, cheeses, 00 flour, eggs, yuzu juice.
 
 ---
 
