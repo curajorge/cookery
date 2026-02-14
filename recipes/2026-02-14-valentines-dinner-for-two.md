@@ -102,10 +102,11 @@
 | Extra virgin olive oil | 25g (≈2 Tbsp) | Good quality, fruity not bitter |
 | Fresh lemon juice | 15g (≈1 Tbsp) | About half a lemon |
 | Dijon mustard | 5g (≈1 tsp) | Emulsifier + flavor |
+| Diamond Crystal kosher salt | 1g (¼ tsp) | Dissolves into vinaigrette |
 | Flaky sea salt | 1g | Maldon or similar, to finish |
 | Black pepper | 0.5g | Fresh cracked |
 
-**Vinaigrette:** Whisk lemon + mustard + olive oil. Toss arugula. Top with Parm shavings + toasted pine nuts.
+**Vinaigrette:** Whisk lemon + mustard + 1g kosher salt until salt dissolves, then stream in olive oil. Season arugula needs salt before acid or it wilts unevenly. Toss greens, finish with flaky salt, Parm shavings + toasted pine nuts.
 
 **Why this salad:** Peppery arugula cuts the richness of both steak and carbonara. Lemon vinaigrette provides acid contrast — the meal's biggest gap otherwise (very fat/umami-heavy). Shaved Parm echoes Pecorino without repeating it. Pine nuts add texture against all the soft/silky elements.
 
@@ -206,7 +207,7 @@
 10. **Rest steak on cutting board** — loosely tent, 5 min → final ~130–135°F (medium)
 11. **Drop fresh pasta** — 2–3 min only, reserve 150g pasta water
 12. **Finish carbonara** — pasta into guanciale pan OFF heat, egg/cheese mixture + 60–80g pasta water, toss hard
-13. **Dress salad** — lemon + mustard + oil, toss, top with Parm + pine nuts
+13. **Dress salad** — whisk lemon + mustard + kosher salt, stream in oil, toss greens, finish with flaky salt + Parm + pine nuts
 14. **Plate** — slice steak against the grain, twirl carbonara, salad alongside
 
 ---
