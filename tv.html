@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=3840, initial-scale=1.0">
+<title>Valentine's Dinner — Mise en Place</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    font-size: 28px;
+    background: #0d0d0d;
+    color: #e8e0d8;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    padding: 80px 120px;
+    max-width: 3840px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 3.2rem;
+    color: #fff;
+    margin-bottom: 0.2em;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    font-size: 1.2rem;
+    color: #b8756d;
+    margin-bottom: 2.5rem;
+    font-weight: 500;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    margin-bottom: 60px;
+  }
+
+  .card {
+    background: #1a1816;
+    border: 1px solid #2a2622;
+    border-radius: 20px;
+    padding: 48px;
+  }
+
+  .card.full {
+    grid-column: 1 / -1;
+  }
+
+  .card h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.8rem;
+    color: #e8c8a0;
+    margin-bottom: 0.6em;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .card h2 .tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.55rem;
+    background: #b8756d;
+    color: #0d0d0d;
+    padding: 4px 14px;
+    border-radius: 6px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card h3 {
+    font-size: 1.15rem;
+    color: #c9a87c;
+    margin: 1.4em 0 0.5em;
+    font-weight: 700;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.8em 0;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.7rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 8px 16px 12px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  tbody td {
+    padding: 12px 16px;
+    font-size: 0.95rem;
+    border-bottom: 1px solid #1f1d1a;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .amount {
+    color: #e8c8a0;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .note {
+    color: #8a8078;
+    font-size: 0.85rem;
+  }
+
+  ol {
+    padding-left: 1.5em;
+    margin: 0.6em 0;
+  }
+
+  ol li {
+    margin-bottom: 0.5em;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  ol li strong {
+    color: #e8c8a0;
+  }
+
+  .highlight {
+    color: #b8756d;
+    font-weight: 700;
+  }
+
+  .section-divider {
+    text-align: center;
+    color: #2a2622;
+    font-size: 2rem;
+    margin: 20px 0;
+    letter-spacing: 0.5em;
+  }
+
+  .timeline-card {
+    background: linear-gradient(135deg, #1a1816 0%, #1e1510 100%);
+    border: 1px solid #3a2a22;
+  }
+
+  .step-row {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 14px 0;
+    border-bottom: 1px solid #2a2218;
+    font-size: 0.95rem;
+  }
+
+  .step-row:last-child { border-bottom: none; }
+
+  .step-num {
+    font-family: 'DM Serif Display', serif;
+    color: #b8756d;
+    font-size: 1.3rem;
+    min-width: 36px;
+  }
+
+  .mix-row {
+    background: #22201c;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #c9a87c;
+    font-weight: 500;
+  }
+
+  footer {
+    text-align: center;
+    color: #3a3632;
+    font-size: 0.7rem;
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 1px solid #1a1816;
+  }
+</style>
+</head>
+<body>
+
+<h1>Valentine's Dinner for Two</h1>
+<p class="subtitle">Mise en Place &amp; Action Plan — 2026-02-14</p>
+
+<div class="grid">
+
+  <!-- SALT THE STEAK -->
+  <div class="card">
+    <h2>Salt the Steak <span class="tag">Do First</span></h2>
+    <ol>
+      <li>Pat the <strong>620g strip</strong> bone dry with paper towels</li>
+      <li>Weigh out <strong class="highlight">6g kosher salt</strong> (~1.5 tsp Diamond Crystal)</li>
+      <li>Season all sides evenly</li>
+      <li>Place on a wire rack, leave uncovered — <strong>sits 45 min minimum</strong> while you work</li>
+    </ol>
+  </div>
+
+  <!-- PASTA DOUGH -->
+  <div class="card">
+    <h2>Make Pasta Dough <span class="tag">Do First</span></h2>
+    <table>
+      <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>
+      <tbody>
+        <tr><td>00 flour</td><td class="amount">200g</td></tr>
+        <tr><td>Fine salt</td><td class="amount">2g</td></tr>
+        <tr><td>Whole eggs</td><td class="amount">2 (~100g)</td></tr>
+        <tr><td>Egg yolk</td><td class="amount">1 (~17g)</td></tr>
+      </tbody>
+    </table>
+    <ol>
+      <li>Flour + salt in bowl, paddle attachment</li>
+      <li>Add eggs + yolk, mix low until shaggy — <strong>1–2 min</strong></li>
+      <li>Switch to dough hook, medium-low <strong>8–10 min</strong> until smooth & elastic</li>
+      <li>Wrap tight in plastic, rest <strong>30 min minimum</strong></li>
+    </ol>
+  </div>
+
+  <div class="section-divider">- - -</div>
+
+  <!-- CARBONARA MISE -->
+  <div class="card full">
+    <h2>Carbonara Mise</h2>
+    <p class="note" style="margin-bottom: 1em;">Prep while dough rests (~30 min)</p>
+    <table>
+      <thead><tr><th>Prep</th><th>Amount</th><th>How</th></tr></thead>
+      <tbody>
+        <tr><td>Guanciale</td><td class="amount">100g</td><td>Cut into 1/2 cm strips / lardons</td></tr>
+        <tr><td>Pecorino Romano</td><td class="amount">60g</td><td>Microplane into a bowl</td></tr>
+        <tr><td>Egg yolks</td><td class="amount">4 (~68g)</td><td>Separate into the Pecorino bowl</td></tr>
+        <tr><td>Whole egg</td><td class="amount">1 (~50g)</td><td>Add to same bowl</td></tr>
+        <tr><td>Black pepper</td><td class="amount">5g</td><td>Crack coarse — mortar or towel + pan</td></tr>
+      </tbody>
+    </table>
+    <div class="mix-row">Mix it all together in one bowl: yolks + egg + Pecorino + pepper = your sauce</div>
+  </div>
+
+  <!-- SALAD MISE -->
+  <div class="card">
+    <h2>Salad Mise</h2>
+    <table>
+      <thead><tr><th>Prep</th><th>Amount</th><th>How</th></tr></thead>
+      <tbody>
+        <tr><td>Pine nuts</td><td class="amount">20g</td><td>Toast dry pan 2–3 min, set aside</td></tr>
+        <tr><td>Parm</td><td class="amount">30g</td><td>Peeler shavings, set aside</td></tr>
+        <tr><td>Lemon juice</td><td class="amount">15g</td><td>Squeeze half a lemon</td></tr>
+        <tr><td>Dijon</td><td class="amount">5g</td><td></td></tr>
+        <tr><td>Olive oil</td><td class="amount">25g</td><td></td></tr>
+      </tbody>
+    </table>
+    <div class="mix-row">Whisk lemon + Dijon + oil — vinaigrette done, set aside</div>
+  </div>
+
+  <!-- STEAK MISE -->
+  <div class="card">
+    <h2>Steak Mise</h2>
+    <p class="note" style="margin-bottom: 1em;">Set by the stove for later</p>
+    <table>
+      <thead><tr><th>Prep</th><th>Amount</th><th>How</th></tr></thead>
+      <tbody>
+        <tr><td>Garlic</td><td class="amount">2 cloves</td><td>Smash, skin on, set by stove</td></tr>
+        <tr><td>Thyme</td><td class="amount">3–4 sprigs</td><td>Set by stove</td></tr>
+        <tr><td>Butter</td><td class="amount">30g</td><td>Set by stove</td></tr>
+        <tr><td>Neutral oil</td><td class="amount">10g</td><td>By the cast iron</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section-divider">- - -</div>
+
+  <!-- ROLL & CUT PASTA -->
+  <div class="card">
+    <h2>Roll &amp; Cut Pasta</h2>
+    <p class="note" style="margin-bottom: 0.8em;">After 30 min dough rest</p>
+    <ol>
+      <li>Flour the surface generously</li>
+      <li>Roll to <strong>2mm thick</strong> — rotate, don't stretch</li>
+      <li>Lightly flour, fold loosely, cut <strong>2–3mm strips</strong> (tonnarelli)</li>
+      <li>Toss in semolina <strong>(30g)</strong>, nest loosely on a tray</li>
+    </ol>
+  </div>
+
+  <!-- STEAK INTO OVEN -->
+  <div class="card timeline-card">
+    <h2>Steak Into the Oven</h2>
+    <div class="step-row"><span class="step-num">1</span> <span><strong>Oven Pro → Bake → 200°F</strong>, wire rack over tray</span></div>
+    <div class="step-row"><span class="step-num">2</span> <span>Probe thermometer in the thickest part</span></div>
+    <div class="step-row"><span class="step-num">3</span> <span>Walk away — <strong>45–55 min</strong> to <strong class="highlight">120°F</strong></span></div>
+    <div class="mix-row">Everything is prepped. You're just waiting on the probe now.</div>
+  </div>
+
+</div>
+
+<footer>Cookery — Valentine's Dinner 2026</footer>
+
+</body>
+</html>
