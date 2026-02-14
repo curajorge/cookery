@@ -10,13 +10,13 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   html {
-    font-size: 28px;
+    font-size: clamp(24px, 1.4vw, 36px);
     background: #0d0d0d;
     color: #e8e0d8;
   }
 
   body {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
     padding: 80px 120px;
     max-width: 3840px;
     margin: 0 auto;
@@ -24,7 +24,7 @@
   }
 
   h1 {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
     font-size: 3.2rem;
     color: #fff;
     margin-bottom: 0.2em;
@@ -57,7 +57,7 @@
   }
 
   .card h2 {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
     font-size: 1.8rem;
     color: #e8c8a0;
     margin-bottom: 0.6em;
@@ -67,7 +67,7 @@
   }
 
   .card h2 .tag {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
     font-size: 0.55rem;
     background: #b8756d;
     color: #0d0d0d;
@@ -168,7 +168,7 @@
   .step-row:last-child { border-bottom: none; }
 
   .step-num {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
     color: #b8756d;
     font-size: 1.3rem;
     min-width: 36px;
