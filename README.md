@@ -1,10 +1,14 @@
 # Cookery
 
+![Cookery](assets/cover.png)
+
 A food science knowledge base powered by Claude Code. Type casual descriptions, get Michelin-caliber recipes back — precise to the gram, grounded in real food science from 30+ books.
 
 No code, no dependencies. Just markdown files + Claude Code slash commands + git.
 
 ## How It Works
+
+![Architecture](assets/architecture.png)
 
 One file (`food-knowledge.md`) contains distilled food science from books like Lopez-Alt's *The Food Lab*, McGee's *On Food and Cooking*, Nosrat's *Salt Fat Acid Heat*, and 25+ others. When you run a command, Claude reads this file into context — it activates deep knowledge that produces much better output than a generic "make me a recipe" request.
 
