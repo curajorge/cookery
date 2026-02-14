@@ -2,58 +2,12 @@
 
 **Date:** 2026-02-14
 **Occasion:** Valentine's dinner
-**Courses:** 4 (appetizer, pasta, steak, salad)
+**Courses:** 3 (pasta, steak, salad)
 **Status:** Planning
 
 ---
 
-## Course 1 — Tuna Tartare with Soy-Yuzu-Ginger Sauce
-
-### Tartare
-
-| Ingredient | Amount | Notes |
-|---|---|---|
-| Sushi-grade ahi tuna | 150g | Fish counter, confirm sushi-grade |
-| Shallot | 10g | Minced as fine as possible |
-| Chives | 3g | Finely sliced |
-| Toasted sesame oil | 3g | Into the tartare mix (just a whisper) |
-| Flaky sea salt | 0.5g | Maldon, to finish on top |
-
-Dice tuna into clean 5mm cubes. Keep on ice until plating. Gently fold in shallot, chives, sesame oil. Don't mash — you want distinct cubes.
-
-### The Sauce
-
-| Ingredient | Amount | Notes |
-|---|---|---|
-| Low-sodium soy sauce | 15g | San-J or Kikkoman |
-| Yuzu juice | 10g | Asian aisle (small bottle) — if unavailable, fresh lime juice |
-| Rice vinegar | 8g | Seasoned is fine |
-| Fresh ginger | 5g | Microplane-grated, squeeze through fingers — juice only, discard fiber |
-| Toasted sesame oil | 5g | |
-| Honey | 3g | Just a touch to round the acid |
-| Neutral oil | 10g | Avocado oil — gives body and gloss |
-
-Whisk everything together. Should taste bright, savory, slightly sweet, aromatic. Pools beautifully on a plate — glossy, restaurant-level.
-
-### Base & Garnish
-
-| Ingredient | Amount | Notes |
-|---|---|---|
-| Avocado (ripe) | 1 small (≈80g flesh) | Thin slices or small dice as a bed |
-| Toasted sesame seeds (white + black mix) | 3g | Dry pan, 1 min |
-| Microgreens | 5g | Any mix from produce section |
-
-### Plating
-
-1. Pool half the sauce on each plate (spoon it, let it spread naturally)
-2. Fan avocado slices in the center (or small mound of diced avocado)
-3. Ring mold or freehand the tuna on top of the avocado
-4. Drizzle remaining sauce around/on top
-5. Sesame seeds, microgreens, flaky salt to finish
-
----
-
-## Course 2 — Fresh Pasta Carbonara (Tonnarelli)
+## Course 1 — Fresh Pasta Carbonara (Tonnarelli)
 
 ### Fresh Pasta Dough
 
@@ -101,30 +55,44 @@ Whisk everything together. Should taste bright, savory, slightly sweet, aromatic
 
 ---
 
-## Course 3 — Dry-Aged NY Strip, Butter Basted
+## Course 2 — Dry-Aged NY Strip, Reverse Sear (Our Place Oven Pro)
 
 | Ingredient | Amount | Notes |
 |---|---|---|
-| Dry-aged NY strip | 450–500g | Whole Foods dry-aged section |
-| Unsalted butter | 30g | For basting |
+| Dry-aged NY strip | 620g | Thick cut — perfect for reverse sear |
+| Unsalted butter | 30g | For basting during sear |
 | Garlic | 2 cloves (≈10g) | Smashed, skin on |
 | Fresh thyme | 3–4 sprigs (≈3g) | For butter baste |
 | Kosher salt | 6g | Salt 45 min before cooking (or right before — not in between) |
 | Black pepper | 2g | After searing, not before (pepper burns at high heat) |
-| Neutral oil | 10g | Avocado or grapeseed, for initial sear |
+| Neutral oil | 10g | Avocado or grapeseed, for final sear |
 
-**Technique:**
-- Pat completely dry
-- Salt 45 min ahead on a rack (or right before — never 5–30 min, draws moisture without time to reabsorb)
-- Screaming hot cast iron + neutral oil
-- Sear 3–4 min/side
-- Add butter + garlic + thyme, tilt pan, baste continuously 1–2 min
-- Pull at 5–10°F below target (carryover will finish it)
-- Rest on rack minimum 5 min, loosely tented
+### Reverse Sear Method — Our Place Oven Pro
+
+**Phase 1: Low oven (sous vide–style)**
+
+1. Pat steak completely dry with paper towels — surface moisture is the enemy of Maillard later
+2. Salt 45 min ahead, place on wire rack uncovered (or right before — never 5–30 min, draws moisture without time to reabsorb)
+3. Set **Our Place Oven Pro → Bake → 200°F** — the Pro goes down to 80°F, but 200°F is the sweet spot: low enough for edge-to-edge even doneness, high enough to stay food-safe
+4. Place steak on the oven's wire rack over the tray (elevated = air circulation on all sides, no hot spot on the bottom)
+5. Insert probe thermometer through the thickest part, cable out the door
+6. **No flipping needed** — the countertop oven surrounds with even heat, unlike a full-size oven with hot spots
+7. Cook until probe reads **120°F internal** — estimated **45–55 min** for a thick 620g strip at 200°F. Start checking at 35 min
+8. Remove steak, rest uncovered on a rack for **5 min** — surface dries further, carryover is minimal (~2–3°F) because the oven temp was so low
+
+**Phase 2: The sear**
+
+9. While steak rests, heat cast iron to **screaming hot** — high heat, 2–3 min with neutral oil just below smoke point
+10. Sear **45–60 seconds per side** — that's all you need, the dry surface from the oven phase browns instantly (Lopez-Alt's whole point: reverse sear = better crust because less surface moisture)
+11. Add butter + garlic + thyme, tilt pan, **baste continuously 30–45 seconds**
+12. Transfer to cutting board, rest **5 min loosely tented**
+13. **Final internal: ~130–135°F (medium)** — the sear adds 10–15°F to your 120°F pull temp
+
+**Why reverse sear > traditional for this steak:** A thick 620g strip seared traditionally would have a grey band of overcooked meat ½ inch deep before hitting the pink center. Reverse sear gives you edge-to-edge even pink with a paper-thin crust. The low oven also activates cathepsins (tenderizing enzymes) that denature above 122°F — you're riding that window the entire cook.
 
 ---
 
-## Course 4 — Arugula Salad with Lemon Vinaigrette
+## Course 3 — Arugula Salad with Lemon Vinaigrette
 
 | Ingredient | Amount | Notes |
 |---|---|---|
@@ -150,33 +118,22 @@ Whisk everything together. Should taste bright, savory, slightly sweet, aromatic
 | Item | Amount | For |
 |---|---|---|
 | Baby arugula | 80g | Salad |
-| Avocado | 1 small | Tartare — bed under tuna |
 | Lemon | 1 | Salad — vinaigrette |
 | Garlic | 1 head | Steak — butter baste |
-| Shallot | 1 | Tartare — into the mix |
-| Fresh ginger | 5g (small knob) | Tartare — microplaned into sauce |
-| Microgreens | 5g | Tartare — garnish |
 
 ### 2. Fresh Herbs (near produce)
 
 | Item | Amount | For |
 |---|---|---|
 | Fresh thyme | 1 bunch | Steak — butter baste |
-| Chives | 3g | Tartare — folded into tuna |
 
-### 3. Fish Counter
-
-| Item | Amount | For |
-|---|---|---|
-| Sushi-grade ahi tuna | 150g | Tartare — ask them to confirm sushi-grade |
-
-### 4. Butcher Counter
+### 3. Butcher Counter
 
 | Item | Amount | For |
 |---|---|---|
-| Dry-aged NY strip | 450–500g | Steak — main course protein |
+| Dry-aged NY strip | 620g | Steak — thick cut for reverse sear |
 
-### 5. Deli / Cheese Counter
+### 4. Deli / Cheese Counter
 
 | Item | Amount | For |
 |---|---|---|
@@ -184,72 +141,73 @@ Whisk everything together. Should taste bright, savory, slightly sweet, aromatic
 | Pecorino Romano DOP | 60g | Carbonara — grate on Microplane |
 | Parmigiano-Reggiano | 30g | Salad — shaved with peeler |
 
-### 6. Dairy (refrigerated wall)
+### 5. Dairy (refrigerated wall)
 
 | Item | Amount | For |
 |---|---|---|
 | Large eggs | 8 | Carbonara (5) + Pasta dough (3) |
 | Unsalted butter | 30g | Steak — basting |
 
-### 7. Bulk / Nuts
+### 6. Bulk / Nuts
 
 | Item | Amount | For |
 |---|---|---|
 | Pine nuts | 20g | Salad — toasted garnish |
-| Sesame seeds (black + white) | 3g | Tartare — toasted garnish |
 
-### 8. Asian / International Aisle
-
-| Item | Amount | For |
-|---|---|---|
-| Low-sodium soy sauce | 15g | Tartare — sauce base |
-| Yuzu juice | smallest bottle | Tartare — sauce acid (lime if unavailable) |
-| Rice vinegar | 8g | Tartare — sauce |
-| Toasted sesame oil | 1 small bottle (need 8g) | Tartare — sauce + mix |
-
-### 9. Baking Aisle
+### 7. Baking Aisle
 
 | Item | Amount | For |
 |---|---|---|
 | 00 flour (Caputo red bag) | 1kg bag | Pasta dough |
-| Kosher salt (Diamond Crystal) | box | All courses — 36g total |
+| Kosher salt (Diamond Crystal) | box | All courses |
 
-### 10. Oils / Condiments Aisle
+### 8. Oils / Condiments Aisle
 
 | Item | Amount | For |
 |---|---|---|
 | Extra virgin olive oil | bottle | Salad — vinaigrette |
-| Avocado or grapeseed oil | bottle | Steak + Tartare — high-heat sear + sauce body |
+| Avocado or grapeseed oil | bottle | Steak — high-heat sear |
 | Dijon mustard | jar | Salad — vinaigrette emulsifier |
-| Honey | bottle | Tartare — rounds the acid in sauce |
 
-### 11. Spice Aisle
+### 9. Spice Aisle
 
 | Item | Amount | For |
 |---|---|---|
 | Black peppercorns (Tellicherry) | jar | Carbonara + Steak + Salad |
-| Flaky sea salt (Maldon) | box | Tartare + Salad — finishing salt |
+| Flaky sea salt (Maldon) | box | Salad — finishing salt |
 
-> **Skip if you already have:** olive oil, avocado oil, Dijon, honey, kosher salt, peppercorns.
-> **Must-buys:** tuna, strip steak, guanciale, cheeses, 00 flour, eggs, yuzu juice.
+> **Skip if you already have:** olive oil, avocado oil, Dijon, kosher salt, peppercorns.
+> **Must-buys:** strip steak, guanciale, cheeses, 00 flour, eggs.
 
 ---
 
 ## Execution Timeline
 
-1. **Make pasta dough** — mixer 10 min, wrap, rest 30 min *(do this first)*
-2. **Salt the strip** — leave uncovered on rack
-3. **While dough rests** — prep tartare sauce (whisk, refrigerate), dice tuna (keep on ice, don't mix yet), grate Pecorino, crack pepper, mix carbonara egg bowl, toast pine nuts + sesame seeds
-4. **Roll & cut pasta** — 2mm thick, cut tonnarelli/fettuccine, dust with semolina, nest on tray
-5. **Plate & serve tartare** ← *appetizer goes out first, buys 10–15 min while you work the hot station*
-6. **Boil pasta water** — 3L + 30g salt
-7. **Start guanciale cold pan** — medium-low, 8–10 min
-8. **Sear steak** — screaming hot cast iron, butter baste at end
-9. **Rest steak on rack** — while you finish pasta
-10. **Drop fresh pasta** — 2–3 min only, reserve 150g pasta water
-11. **Finish carbonara** — pasta into guanciale pan OFF heat, egg/cheese mixture + 60–80g pasta water, toss hard
-12. **Dress salad** — lemon + mustard + oil, toss, top with Parm + pine nuts
-13. **Plate** — slice steak, twirl carbonara, salad alongside
+**T-minus 1:45 before dinner**
+
+1. **Salt the strip** — pat dry, 6g kosher salt, place on rack uncovered (45 min ahead minimum)
+2. **Make pasta dough** — mixer 10 min, wrap tight in plastic, rest 30 min at room temp
+
+**T-minus 1:00**
+
+3. **Steak into the Oven Pro** — Bake mode, 200°F, wire rack over tray, probe thermometer in. Target: 120°F internal. ~45–55 min hands-off
+4. **While steak slow-cooks** — grate Pecorino, crack pepper, mix carbonara egg bowl (yolks + whole egg + cheese + pepper), toast pine nuts
+
+**T-minus 0:30**
+
+5. **Roll & cut pasta** — 2mm thick, cut tonnarelli/fettuccine, dust with semolina, nest on tray
+6. **Boil pasta water** — 3L + 30g salt (start heating now)
+7. **Start guanciale cold pan** — medium-low, 8–10 min render
+
+**When probe hits 120°F:**
+
+8. **Pull steak from Oven Pro** — rest uncovered on rack 5 min (surface dries for sear)
+9. **Sear steak** — screaming hot cast iron + neutral oil, 45–60 sec/side, butter baste with garlic + thyme 30–45 sec
+10. **Rest steak on cutting board** — loosely tent, 5 min → final ~130–135°F (medium)
+11. **Drop fresh pasta** — 2–3 min only, reserve 150g pasta water
+12. **Finish carbonara** — pasta into guanciale pan OFF heat, egg/cheese mixture + 60–80g pasta water, toss hard
+13. **Dress salad** — lemon + mustard + oil, toss, top with Parm + pine nuts
+14. **Plate** — slice steak against the grain, twirl carbonara, salad alongside
 
 ---
 
