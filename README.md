@@ -61,6 +61,8 @@ Recipes are saved as `.md` files. You iterate on them in conversation. Git track
 
 **Example:** See [`guides/valentines-dinner-for-two-guide.html`](guides/valentines-dinner-for-two-guide.html) — a 4-course dinner broken into 5 timed phases.
 
+![Cook View Example](assets/cook-view-example.png)
+
 ## Project Structure
 
 ```
