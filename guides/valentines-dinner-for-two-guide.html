@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=3840, initial-scale=1.0">
+<title>Valentine's Dinner for Two — Full Guide</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    font-size: clamp(22px, 1.3vw, 34px);
+    background: #0d0d0d;
+    color: #e8e0d8;
+  }
+
+  body {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    padding: 60px 100px;
+    max-width: 3840px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: #b8756d;
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+
+  .phase {
+    margin: 50px 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .phase h2 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: #fff;
+    white-space: nowrap;
+  }
+
+  .phase .time-badge {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.7rem;
+    background: #b8756d;
+    color: #0d0d0d;
+    padding: 6px 18px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+
+  .phase-line {
+    flex: 1;
+    height: 1px;
+    background: #2a2622;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    background: #1a1816;
+    border: 1px solid #2a2622;
+    border-radius: 18px;
+    padding: 36px 40px;
+  }
+
+  .card.full {
+    grid-column: 1 / -1;
+  }
+
+  .card h3 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    color: #e8c8a0;
+    margin-bottom: 0.4em;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .card h3 .tag {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.5rem;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 3px 12px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card h4 {
+    font-size: 0.85rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.2em 0 0.4em;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5em 0;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.65rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 6px 14px 10px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  tbody td {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #1f1d1a;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .amount {
+    color: #e8c8a0;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  ol {
+    padding-left: 1.4em;
+    margin: 0.5em 0;
+  }
+
+  ol li {
+    margin-bottom: 0.45em;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  ol li strong {
+    color: #e8c8a0;
+  }
+
+  .highlight {
+    color: #b8756d;
+    font-weight: 700;
+  }
+
+  .note {
+    color: #8a8078;
+    font-size: 0.8rem;
+  }
+
+  .callout {
+    background: #22201c;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: #c9a87c;
+    font-weight: 500;
+    border-left: 3px solid #b8756d;
+  }
+
+  .callout.warn {
+    border-left-color: #d4443e;
+    color: #e8a8a4;
+  }
+
+  .callout.go {
+    border-left-color: #6daa6d;
+    color: #a8d4a8;
+  }
+
+  .temp {
+    display: inline-block;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+
+  .divider {
+    text-align: center;
+    color: #2a2622;
+    font-size: 1.5rem;
+    margin: 30px 0 10px;
+    letter-spacing: 0.5em;
+  }
+
+  .timeline-card {
+    background: linear-gradient(135deg, #1a1816 0%, #1e1510 100%);
+    border: 1px solid #3a2a22;
+  }
+
+  footer {
+    text-align: center;
+    color: #3a3632;
+    font-size: 0.65rem;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 1px solid #1a1816;
+  }
+</style>
+</head>
+<body>
+
+<h1>Valentine's Dinner for Two</h1>
+<p class="subtitle">Tuna Tartare &bull; Fresh Pasta Carbonara &bull; Butter-Basted NY Strip &bull; Arugula Salad &mdash; 2026-02-14</p>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PHASE 1: FIRST MOVES -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 1: First Moves</h2>
+  <span class="time-badge">T &minus; 1:30</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Salt the Steak <span class="tag">Do First</span></h3>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Dry-aged NY strip</td><td class="amount">450&ndash;500g</td><td>Unwrap, bring to counter</td></tr>
+        <tr><td>Diamond Crystal kosher salt</td><td class="amount">6g</td><td>Weigh out (~1.5 tsp)</td></tr>
+        <tr><td>Wire rack + sheet tray</td><td class="amount">1</td><td>Set up on counter</td></tr>
+        <tr><td>Paper towels</td><td class="amount">3&ndash;4</td><td></td></tr>
+      </tbody>
+    </table>
+
+    <h4>Instructions</h4>
+    <ol>
+      <li>Pat steak <strong>bone dry</strong> on all sides &mdash; surface moisture blocks searing later</li>
+      <li>Season evenly with <strong class="highlight">6g kosher salt</strong> on all sides</li>
+      <li>Place on wire rack over tray, <strong>leave uncovered</strong></li>
+      <li>Let sit <strong>45 min minimum</strong> &mdash; salt draws moisture out, then it reabsorbs carrying salt deep into the meat</li>
+    </ol>
+    <div class="callout warn">Never salt 5&ndash;30 min before cooking &mdash; draws moisture out without time to reabsorb = wet surface = no sear</div>
+  </div>
+
+  <div class="card">
+    <h3>Make Pasta Dough <span class="tag">Do First</span></h3>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>00 flour (Caputo)</td><td class="amount">200g</td><td>Weigh into mixer bowl</td></tr>
+        <tr><td>Fine salt</td><td class="amount">2g</td><td>Add to flour</td></tr>
+        <tr><td>Whole eggs</td><td class="amount">2 (~100g)</td><td>Room temp, cracked into a cup</td></tr>
+        <tr><td>Egg yolk</td><td class="amount">1 (~17g)</td><td>Room temp, add to cup</td></tr>
+        <tr><td>Plastic wrap</td><td class="amount">1 sheet</td><td></td></tr>
+      </tbody>
+    </table>
+
+    <h4>Instructions</h4>
+    <ol>
+      <li>Flour + salt in mixer bowl with <strong>paddle attachment</strong></li>
+      <li>Add eggs + yolk, mix on <strong>low until shaggy</strong> &mdash; <strong>1&ndash;2 min</strong></li>
+      <li>Switch to <strong>dough hook</strong>, knead <strong>medium-low 8&ndash;10 min</strong> until smooth, elastic, springs back when poked</li>
+      <li>Wrap tight in plastic</li>
+      <li>Rest <strong>30 min minimum</strong> at room temp &mdash; gluten must relax or it fights you when rolling</li>
+    </ol>
+    <div class="callout">Timer starts now: 30 min rest. Use this time for all mise en place in Phase 2.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PHASE 2: ALL MISE EN PLACE -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 2: Mise en Place</h2>
+  <span class="time-badge">While Dough Rests &bull; ~25 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full">
+    <h3>Tuna Tartare Prep</h3>
+
+    <h4>Tartare</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Sushi-grade ahi tuna</td><td class="amount">150g</td><td>Dice into clean <strong>5mm cubes</strong>, keep on ice</td></tr>
+        <tr><td>Shallot</td><td class="amount">10g</td><td>Minced as fine as possible</td></tr>
+        <tr><td>Chives</td><td class="amount">3g</td><td>Finely sliced</td></tr>
+        <tr><td>Toasted sesame oil</td><td class="amount">3g</td><td>Into the tartare mix (just a whisper)</td></tr>
+        <tr><td>Flaky sea salt</td><td class="amount">0.5g</td><td>Maldon, to finish on top</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Soy-Yuzu-Ginger Sauce</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Low-sodium soy sauce</td><td class="amount">15g</td><td>San-J or Kikkoman</td></tr>
+        <tr><td>Yuzu juice</td><td class="amount">10g</td><td>Fresh lime juice if unavailable</td></tr>
+        <tr><td>Rice vinegar</td><td class="amount">8g</td><td>Seasoned is fine</td></tr>
+        <tr><td>Fresh ginger</td><td class="amount">5g</td><td>Microplane-grated, squeeze through fingers &mdash; juice only</td></tr>
+        <tr><td>Toasted sesame oil</td><td class="amount">5g</td><td></td></tr>
+        <tr><td>Honey</td><td class="amount">3g</td><td>Rounds the acid</td></tr>
+        <tr><td>Neutral oil (avocado)</td><td class="amount">10g</td><td>Gives body and gloss</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Base &amp; Garnish</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Avocado (ripe)</td><td class="amount">1 small (~80g)</td><td>Thin slices or small dice</td></tr>
+        <tr><td>Sesame seeds (black + white)</td><td class="amount">3g</td><td>Dry pan, <strong>1 min</strong></td></tr>
+        <tr><td>Microgreens</td><td class="amount">5g</td><td>Any mix</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Whisk all sauce ingredients</strong> together &mdash; should taste bright, savory, slightly sweet</li>
+      <li>Refrigerate sauce until plating</li>
+      <li>Dice tuna into <strong>clean 5mm cubes</strong> &mdash; keep on ice, do NOT mix with other ingredients yet</li>
+      <li>Toast sesame seeds in a dry pan &mdash; <strong>1 min</strong>, set aside</li>
+    </ol>
+    <div class="callout warn">Keep tuna below <span class="temp">40&deg;F</span> at all times. Dice it, put it back on ice. Don't let it sit at room temp &mdash; sushi-grade means safe to eat raw, not safe to abuse.</div>
+  </div>
+
+  <div class="card full">
+    <h3>Carbonara Prep</h3>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Guanciale</td><td class="amount">100g</td><td>Cut into <strong>1/2 cm strips</strong> (lardons)</td></tr>
+        <tr><td>Pecorino Romano DOP</td><td class="amount">60g</td><td>Finely grate on <strong>Microplane</strong> into a bowl</td></tr>
+        <tr><td>Egg yolks</td><td class="amount">4 (~68g)</td><td>Separate &mdash; add directly to Pecorino bowl</td></tr>
+        <tr><td>Whole egg</td><td class="amount">1 (~50g)</td><td>Add to same Pecorino bowl</td></tr>
+        <tr><td>Black peppercorns</td><td class="amount">5g</td><td>Crack <strong>coarsely</strong> &mdash; mortar and pestle, or towel + heavy pan</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Combine the Sauce</h4>
+    <ol>
+      <li>In one bowl: <strong>yolks + whole egg + grated Pecorino + cracked pepper</strong></li>
+      <li>Whisk until combined &mdash; this is your entire sauce</li>
+      <li>Set aside at room temp (cold sauce = scrambled eggs later)</li>
+    </ol>
+    <div class="callout warn">No cream. Ever. The sauce is egg yolk + cheese + pasta water, emulsified by heat control.</div>
+  </div>
+
+  <div class="card">
+    <h3>Salad Prep</h3>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Baby arugula</td><td class="amount">80g</td><td>Wash + <strong>dry completely</strong></td></tr>
+        <tr><td>Pine nuts</td><td class="amount">20g</td><td>Toast in dry pan <strong>2&ndash;3 min</strong></td></tr>
+        <tr><td>Parmigiano-Reggiano</td><td class="amount">30g</td><td><strong>Peeler shavings</strong>, not grated</td></tr>
+        <tr><td>Fresh lemon juice</td><td class="amount">15g</td><td>Squeeze half a lemon</td></tr>
+        <tr><td>Dijon mustard</td><td class="amount">5g</td><td>~1 tsp</td></tr>
+        <tr><td>Extra virgin olive oil</td><td class="amount">25g</td><td>Good quality, fruity</td></tr>
+        <tr><td>Diamond Crystal kosher salt</td><td class="amount">1g</td><td>For the vinaigrette</td></tr>
+        <tr><td>Flaky sea salt (Maldon)</td><td class="amount">1g</td><td>Finishing salt</td></tr>
+        <tr><td>Black pepper</td><td class="amount">0.5g</td><td>Fresh cracked</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Make the Vinaigrette Now</h4>
+    <ol>
+      <li>Small bowl: <strong>lemon juice + Dijon + 1g kosher salt</strong></li>
+      <li>Whisk until salt dissolves &mdash; salt in acid first, before oil</li>
+      <li>Stream in <strong class="highlight">25g olive oil</strong> while whisking &mdash; emulsion forms</li>
+      <li>Taste, adjust salt if needed</li>
+      <li>Set aside &mdash; <strong>do NOT dress greens yet</strong></li>
+    </ol>
+    <div class="callout">Arugula + Parm shavings + pine nuts stay separate until plating. Vinaigrette goes on last minute &mdash; dressed greens wilt fast.</div>
+  </div>
+
+  <div class="card">
+    <h3>Steak Sear Prep</h3>
+    <p class="note" style="margin-bottom: 0.5em;">Set all this by the stove &mdash; you'll need it fast later</p>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Garlic</td><td class="amount">2 cloves (~10g)</td><td><strong>Smash with knife</strong>, leave skin on</td></tr>
+        <tr><td>Fresh thyme</td><td class="amount">3&ndash;4 sprigs (~3g)</td><td>Leave whole</td></tr>
+        <tr><td>Unsalted butter</td><td class="amount">30g</td><td>Unwrap, set on a small plate</td></tr>
+        <tr><td>Neutral oil</td><td class="amount">10g</td><td>Avocado or grapeseed &mdash; by the cast iron</td></tr>
+        <tr><td>Black pepper</td><td class="amount">2g</td><td>Cracked &mdash; goes on <strong>after</strong> searing</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Equipment Check</h4>
+    <ol>
+      <li><strong>Cast iron skillet</strong> &mdash; clean, dry, on the stove (not heated yet)</li>
+      <li><strong>Instant-read thermometer</strong> &mdash; for checking doneness</li>
+      <li><strong>Cutting board + sharp knife</strong> &mdash; for resting &amp; slicing</li>
+      <li><strong>Tongs</strong> &mdash; for the sear and basting</li>
+    </ol>
+    <div class="callout go">All mise en place is done. Check on the pasta dough &mdash; if 30 min have passed, move to Phase 3.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PHASE 3: ROLL, CUT & FIRST COURSE -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 3: Roll, Cut &amp; First Course</h2>
+  <span class="time-badge">After 30 min Dough Rest &bull; ~20 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full">
+    <h3>Tonnarelli</h3>
+
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Rested pasta dough</td><td class="amount">~320g</td><td>Unwrap from plastic</td></tr>
+        <tr><td>Extra flour or semolina</td><td class="amount">30g</td><td>For dusting surface + cut pasta</td></tr>
+        <tr><td>Sheet tray</td><td class="amount">1</td><td>For nesting finished pasta</td></tr>
+      </tbody>
+    </table>
+
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Flour the surface generously</strong> &mdash; dough should not stick at any point</li>
+      <li>Roll to <strong>~2mm thick</strong> &mdash; rotate the sheet 90&deg; frequently, don't stretch it</li>
+      <li>Lightly flour the top of the sheet</li>
+      <li>Fold loosely into thirds (like a letter)</li>
+      <li>Cut <strong>2&ndash;3mm wide strips</strong> for tonnarelli (square-cut spaghetti)</li>
+      <li>Unfurl the strips, toss in <strong>30g semolina</strong> to prevent sticking</li>
+      <li>Nest loosely on the tray &mdash; do not stack or compress</li>
+    </ol>
+    <div class="callout go">Pasta holds fine at room temp for 1+ hours. Set tray aside and move on.</div>
+  </div>
+
+  <div class="card full">
+    <h3>Plate &amp; Serve Tuna Tartare <span class="tag">Appetizer</span></h3>
+
+    <h4>Assembly</h4>
+    <ol>
+      <li>Gently fold <strong>shallot, chives, 3g sesame oil</strong> into the diced tuna &mdash; don't mash, keep distinct cubes</li>
+      <li><strong>Pool half the sauce</strong> on each plate &mdash; spoon it, let it spread naturally</li>
+      <li>Fan <strong>avocado slices</strong> in the center (or small mound of dice)</li>
+      <li>Ring mold or freehand the <strong>tuna on top of the avocado</strong></li>
+      <li>Drizzle remaining sauce around and on top</li>
+      <li>Finish with <strong>sesame seeds, microgreens, 0.5g flaky salt</strong></li>
+    </ol>
+    <div class="callout go">Serve the tartare now &mdash; this buys you 10&ndash;15 min while your guest enjoys the appetizer and you fire up the hot station.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PHASE 4: THE HOT STATION -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 4: The Hot Station</h2>
+  <span class="time-badge">Main Course Sequence &bull; ~25 min to Plating</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>A. Start Water &amp; Guanciale</h3>
+    <p class="note" style="margin-bottom: 0.5em;">Begin both of these at the same time</p>
+
+    <h4>Pasta Water</h4>
+    <ol>
+      <li>Bring <strong>3L water</strong> (3000g) to a rolling boil</li>
+      <li>Add <strong class="highlight">30g kosher salt</strong> &mdash; 1% by weight, non-negotiable</li>
+      <li>Keep at boil &mdash; you'll drop pasta in ~15 min</li>
+    </ol>
+
+    <h4>Render Guanciale</h4>
+    <ol>
+      <li>Place <strong>100g guanciale strips</strong> in a <strong>cold pan</strong></li>
+      <li>Turn to <strong>medium-low heat</strong></li>
+      <li>Render slowly <strong>8&ndash;10 min</strong> &mdash; fat goes glassy, meat goes crispy</li>
+      <li>When crispy: add <strong>cracked pepper</strong> into the fat &mdash; <strong>30 sec</strong> to bloom the piperine</li>
+      <li><strong>Kill heat, leave pan on burner</strong> &mdash; the fat stays warm</li>
+    </ol>
+    <div class="callout">Cold start is critical &mdash; dropping guanciale into hot oil fries the outside before the fat renders out. Low and slow extracts maximum glassy fat.</div>
+  </div>
+
+  <div class="card timeline-card">
+    <h3>B. Sear the Steak</h3>
+    <p class="note" style="margin-bottom: 0.5em;">Start once guanciale is rendering &mdash; parallel cooking</p>
+
+    <h4>Sear (8&ndash;10 min total)</h4>
+    <ol>
+      <li>Pat steak <strong>dry again</strong> &mdash; the 45-min salt rest will have left the surface slightly damp</li>
+      <li>Heat <strong>cast iron</strong> on <strong>high</strong> for <strong>2&ndash;3 min</strong> &mdash; screaming hot</li>
+      <li>Add <strong>10g neutral oil</strong> &mdash; should shimmer instantly, just below smoke point</li>
+      <li>Sear steak <strong class="highlight">3&ndash;4 min per side</strong> &mdash; don't move it, let the crust form</li>
+      <li>Add <strong>30g butter + garlic + thyme</strong>, tilt pan</li>
+      <li><strong>Baste continuously 1&ndash;2 min</strong> &mdash; spoon foaming butter over the top</li>
+      <li>Check internal temp: pull at <span class="temp">125&deg;F</span> for medium-rare</li>
+      <li>Transfer to cutting board</li>
+    </ol>
+
+    <h4>Rest (5 min minimum)</h4>
+    <ol>
+      <li>Season with <strong>2g cracked black pepper</strong> now &mdash; pepper burns at sear temps, so it goes on after</li>
+      <li>Rest on a rack, <strong>loosely tented</strong> with foil &mdash; <strong>5 min</strong></li>
+      <li>Carryover brings final internal to <span class="temp">130&ndash;135&deg;F</span> (medium-rare)</li>
+    </ol>
+    <div class="callout warn">Start pasta the moment the steak goes to rest &mdash; timing syncs perfectly. You have exactly 5 min.</div>
+  </div>
+
+  <div class="card full">
+    <h3>C. Drop Pasta &amp; Finish Carbonara</h3>
+    <p class="note" style="margin-bottom: 0.5em;">Steak is resting &mdash; you have exactly 5 min. Go.</p>
+
+    <h4>Cook the Pasta (2&ndash;3 min)</h4>
+    <ol>
+      <li>Drop fresh tonnarelli into the salted boiling water</li>
+      <li>Cook <strong class="highlight">2&ndash;3 min only</strong> &mdash; it's fresh, not dried. Taste at 2 min</li>
+      <li><strong>Before draining:</strong> ladle out <strong class="highlight">150g pasta water</strong> into a measuring cup &mdash; you need this</li>
+      <li>Drain pasta (or use tongs to transfer directly to guanciale pan)</li>
+    </ol>
+
+    <h4>Finish the Carbonara (1&ndash;2 min)</h4>
+    <ol>
+      <li>Transfer pasta into the <strong>guanciale pan</strong></li>
+      <li><strong class="highlight">TURN OFF HEAT</strong> &mdash; pan must be OFF. Residual heat only.</li>
+      <li>Toss pasta in the rendered fat &mdash; <strong>15 sec</strong></li>
+      <li>Pour in the <strong>egg/Pecorino/pepper mixture</strong></li>
+      <li>Add <strong>60&ndash;80g reserved pasta water</strong></li>
+      <li><strong>Toss vigorously</strong> for 30&ndash;60 sec &mdash; the sauce emulsifies into a silky, creamy coating</li>
+      <li>If too thick: add more pasta water, <strong>15g at a time</strong></li>
+      <li>If too loose: keep tossing, it thickens as it cools slightly</li>
+    </ol>
+    <div class="callout warn">Residual heat cooks egg to <span class="temp">65&ndash;70&deg;C</span> (silky). If pan is too hot &rarr; scrambled eggs. If you see curds, add cold pasta water immediately and toss.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PHASE 5: PLATE & SERVE -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 5: Plate &amp; Serve</h2>
+  <span class="time-badge">Final 3 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Dress the Salad</h3>
+    <p class="note" style="margin-bottom: 0.5em;">Last minute &mdash; greens wilt fast once dressed</p>
+
+    <h4>Assembly (1 min)</h4>
+    <ol>
+      <li>Place <strong>80g arugula</strong> in a bowl</li>
+      <li>Pour vinaigrette over, <strong>toss gently</strong> with hands or tongs</li>
+      <li>Add <strong>0.5g cracked black pepper</strong></li>
+      <li>Top with <strong>Parm shavings</strong> (30g)</li>
+      <li>Scatter <strong>toasted pine nuts</strong> (20g)</li>
+      <li>Finish with <strong class="highlight">1g flaky Maldon salt</strong></li>
+    </ol>
+  </div>
+
+  <div class="card timeline-card">
+    <h3>Plate &amp; Serve</h3>
+
+    <h4>Plating</h4>
+    <ol>
+      <li><strong>Slice steak</strong> against the grain, <strong>1 cm thick</strong> &mdash; fan on the plate</li>
+      <li>Pour any board juices over the slices</li>
+      <li><strong>Twirl carbonara</strong> with tongs + a fork into a nest on the plate (or separate bowl)</li>
+      <li><strong>Salad alongside</strong> &mdash; keep it tall, don't flatten</li>
+    </ol>
+    <div class="callout go">Done. Serve immediately &mdash; carbonara waits for no one.</div>
+  </div>
+
+</div>
+
+<footer>Cookery &mdash; Valentine's Dinner for Two &mdash; 2026-02-14</footer>
+
+</body>
+</html>

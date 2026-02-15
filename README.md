@@ -23,6 +23,7 @@ Recipes are saved as `.md` files. You iterate on them in conversation. Git track
 | `/adjust` | `/adjust swap pine nuts for walnuts, scale to 4 servings` | Edit the active recipe file in place |
 | `/save-recipe` | `/save-recipe` | Mark recipe as final, git commit |
 | `/find-recipe` | `/find-recipe carbonara` | Search saved recipes by name, ingredient, or technique |
+| `/cook-view` | `/cook-view` | Generate a standalone HTML cooking guide with phased mise en place |
 | `/save` | `/save` | Git add + commit + push everything |
 
 ## Typical Workflow
@@ -47,6 +48,19 @@ Recipes are saved as `.md` files. You iterate on them in conversation. Git track
   → Marks as Final, commits to git
 ```
 
+## Cook View — HTML Cooking Guides
+
+`/cook-view` turns any recipe into a standalone, dark-themed HTML cooking guide designed for a kitchen screen or TV. No JS, no build step — just a single `.html` file you can open in any browser.
+
+**What it generates:**
+- Phased mise en place — ingredients grouped by when you need them, not dumped in one list
+- Side-by-side cards for parallel tasks (e.g., "salt the steak" + "make pasta dough" at the same time)
+- Time badges on each phase so you know where you are in the cook
+- Callout boxes for food safety warnings, technique tips, and phase completion markers
+- Temperature badges inline with instructions
+
+**Example:** See [`guides/valentines-dinner-for-two-guide.html`](guides/valentines-dinner-for-two-guide.html) — a 4-course dinner broken into 5 timed phases.
+
 ## Project Structure
 
 ```
@@ -55,8 +69,9 @@ cookery/
 ├── food-knowledge.md      # The brain — 30+ books, 10 food science categories
 ├── .claude/
 │   ├── settings.local.json
-│   └── commands/          # 6 slash commands
+│   └── commands/          # 7 slash commands
 ├── recipes/               # Saved recipes (YYYY-MM-DD-slug.md)
+├── guides/                # Generated HTML cooking guides
 └── README.md
 ```
 
