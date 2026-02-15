@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=3840, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Gambas al Ajillo — Full Guide</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
@@ -10,22 +10,22 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   html {
-    font-size: clamp(22px, 1.3vw, 34px);
+    font-size: 16px;
     background: #0d0d0d;
     color: #e8e0d8;
   }
 
   body {
     font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
-    padding: 60px 100px;
-    max-width: 3840px;
+    padding: 24px 20px;
+    max-width: 900px;
     margin: 0 auto;
     line-height: 1.5;
   }
 
   h1 {
     font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
-    font-size: 3rem;
+    font-size: 2rem;
     color: #fff;
     margin-bottom: 0.15em;
     letter-spacing: -0.02em;
@@ -39,15 +39,16 @@
   }
 
   .phase {
-    margin: 50px 0 24px;
+    margin: 36px 0 16px;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 12px;
+    flex-wrap: wrap;
   }
 
   .phase h2 {
     font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
-    font-size: 2rem;
+    font-size: 1.4rem;
     color: #fff;
     white-space: nowrap;
   }
@@ -73,16 +74,16 @@
 
   .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    margin-bottom: 20px;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
   }
 
   .card {
     background: #1a1816;
     border: 1px solid #2a2622;
-    border-radius: 18px;
-    padding: 36px 40px;
+    border-radius: 14px;
+    padding: 20px 22px;
   }
 
   .card.full {
@@ -91,12 +92,13 @@
 
   .card h3 {
     font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: #e8c8a0;
     margin-bottom: 0.4em;
     display: flex;
     align-items: center;
-    gap: 14px;
+    gap: 10px;
+    flex-wrap: wrap;
   }
 
   .card h3 .tag {
@@ -223,13 +225,29 @@
     border: 1px solid #3a2a22;
   }
 
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
   footer {
     text-align: center;
     color: #3a3632;
-    font-size: 0.65rem;
-    margin-top: 50px;
-    padding-top: 30px;
+    font-size: 0.75rem;
+    margin-top: 40px;
+    padding-top: 20px;
     border-top: 1px solid #1a1816;
+  }
+
+  /* Tablet and up */
+  @media (min-width: 700px) {
+    html { font-size: 18px; }
+    body { padding: 40px 48px; }
+    h1 { font-size: 2.5rem; }
+    .phase h2 { font-size: 1.7rem; }
+    .grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+    .card { padding: 28px 32px; }
   }
 </style>
 </head>
