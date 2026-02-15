@@ -12,7 +12,7 @@
 | Ingredient | Amount | Notes |
 |---|---|---|
 | Egg whites | 5 (~150g) | Leftover from carbonara + pasta dough — room temp |
-| Granulated sugar | 300g | Added gradually — do not dump |
+| Caster sugar | 300g | Finer crystal dissolves faster — still add gradually |
 | Cornstarch | 7g (~1 Tbsp) | Absorbs internal moisture, keeps center marshmallowy |
 | White vinegar | 5g (~1 tsp) | Acid denatures protein more gently — soft center, crisp shell |
 | Vanilla extract | 5g (~1 tsp) | |
@@ -23,7 +23,7 @@
 | Ingredient | Amount | Notes |
 |---|---|---|
 | Heavy cream | 120g | Cold — whips better |
-| Granulated sugar | 10g | Just enough to stabilize |
+| Caster sugar | 10g | Just enough to stabilize |
 | Fresh berries | 150g | Strawberries, raspberries, or mixed — whatever looks best |
 
 ## Method
@@ -32,7 +32,7 @@
 
 2. **Whip whites + salt on medium speed until foamy** — about 1 min. Whites should be opaque, no liquid pooling at the bottom.
 
-3. **Increase to high, add sugar 1–2 Tbsp at a time.** Wait 15–20 sec between additions. This takes **8–10 min total** — rushing it makes grainy meringue. The sugar dissolves into the protein matrix, increasing viscosity and stabilizing the foam (Corriher).
+3. **Increase to high, add sugar 1–2 Tbsp at a time.** Wait 10–15 sec between additions. This takes **6–8 min total** — caster's finer crystals dissolve faster than granulated, so you reach stiff glossy peaks sooner. The sugar dissolves into the protein matrix, increasing viscosity and stabilizing the foam (Corriher).
 
 4. **Test for doneness:** rub a small amount between your fingers. **No grit = ready.** Peaks should be stiff, glossy, and hold their shape when you lift the whisk.
 
