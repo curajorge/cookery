@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gambas al Ajillo — Full Guide</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    font-size: 16px;
+    background: #0d0d0d;
+    color: #e8e0d8;
+  }
+
+  body {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    padding: 24px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: #b8756d;
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+
+  .phase {
+    margin: 36px 0 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .phase h2 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 1.4rem;
+    color: #fff;
+    white-space: nowrap;
+  }
+
+  .phase .time-badge {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.7rem;
+    background: #b8756d;
+    color: #0d0d0d;
+    padding: 6px 18px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+
+  .phase-line {
+    flex: 1;
+    height: 1px;
+    background: #2a2622;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .card {
+    background: #1a1816;
+    border: 1px solid #2a2622;
+    border-radius: 14px;
+    padding: 20px 22px;
+  }
+
+  .card.full {
+    grid-column: 1 / -1;
+  }
+
+  .card h3 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 1.25rem;
+    color: #e8c8a0;
+    margin-bottom: 0.4em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .card h3 .tag {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.5rem;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 3px 12px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card h4 {
+    font-size: 0.85rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.2em 0 0.4em;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5em 0;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.65rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 6px 14px 10px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  tbody td {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #1f1d1a;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .amount {
+    color: #e8c8a0;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  ol {
+    padding-left: 1.4em;
+    margin: 0.5em 0;
+  }
+
+  ol li {
+    margin-bottom: 0.45em;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  ol li strong {
+    color: #e8c8a0;
+  }
+
+  .highlight {
+    color: #b8756d;
+    font-weight: 700;
+  }
+
+  .note {
+    color: #8a8078;
+    font-size: 0.8rem;
+  }
+
+  .callout {
+    background: #22201c;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: #c9a87c;
+    font-weight: 500;
+    border-left: 3px solid #b8756d;
+  }
+
+  .callout.warn {
+    border-left-color: #d4443e;
+    color: #e8a8a4;
+  }
+
+  .callout.go {
+    border-left-color: #6daa6d;
+    color: #a8d4a8;
+  }
+
+  .temp {
+    display: inline-block;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+
+  .divider {
+    text-align: center;
+    color: #2a2622;
+    font-size: 1.5rem;
+    margin: 30px 0 10px;
+    letter-spacing: 0.5em;
+  }
+
+  .timeline-card {
+    background: linear-gradient(135deg, #1a1816 0%, #1e1510 100%);
+    border: 1px solid #3a2a22;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  footer {
+    text-align: center;
+    color: #3a3632;
+    font-size: 0.75rem;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #1a1816;
+  }
+
+  /* Tablet and up */
+  @media (min-width: 700px) {
+    html { font-size: 18px; }
+    body { padding: 40px 48px; }
+    h1 { font-size: 2.5rem; }
+    .phase h2 { font-size: 1.7rem; }
+    .grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+    .card { padding: 28px 32px; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Gambas al Ajillo</h1>
+<p class="subtitle">Trader Joe's Red Argentinian Shrimp &mdash; Spanish Garlic Style over Valentine's Salad &mdash; 2026-02-15</p>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- PHASE 1: MISE EN PLACE                            -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 1: Mise en Place</h2>
+  <span class="time-badge">10 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Shrimp Prep <span class="tag">Do First</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Red Argentinian shrimp</td><td class="amount">454g (1 lb)</td><td>Thawed, shell-off, deveined</td></tr>
+        <tr><td>Diamond Crystal kosher salt</td><td class="amount">4g</td><td>For seasoning shrimp (~1 tsp DC)</td></tr>
+        <tr><td>Black pepper</td><td class="amount">1g</td><td>Fresh cracked</td></tr>
+        <tr><td>Smoked paprika</td><td class="amount">2g</td><td>~1 tsp</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Pat shrimp aggressively dry</strong> &mdash; lay on paper towels, press with more towels on top. Flip and repeat. <span class="highlight">Surface moisture is the enemy of sear.</span></li>
+      <li><strong>Season shrimp</strong> &mdash; toss with <span class="highlight">4g salt</span>, black pepper, and smoked paprika. Set aside on a plate in a single layer.</li>
+    </ol>
+    <div class="callout">Maillard reaction requires surface temps above <span class="temp">300&deg;F</span>. Moisture = steam = gray, rubbery shrimp. The 60 seconds you spend drying is the most important step in this recipe (McGee, Lopez-Alt).</div>
+    <div class="callout warn">Red Argentinian shrimp are naturally red when raw &mdash; you cannot use color to judge doneness. Use shape: loose C = done, tight O = overcooked.</div>
+  </div>
+
+  <div class="card">
+    <h3>Aromatics &amp; Fats</h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Garlic</td><td class="amount">5 cloves (~20g)</td><td>Thinly sliced lengthwise, not minced</td></tr>
+        <tr><td>Extra virgin olive oil</td><td class="amount">40g (~3 tbsp)</td><td>&mdash;</td></tr>
+        <tr><td>Unsalted butter</td><td class="amount">14g (~1 tbsp)</td><td>&mdash;</td></tr>
+        <tr><td>Red pepper flakes</td><td class="amount">1g</td><td>Pinch to &frac14; tsp &mdash; adjust to heat preference</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Slice garlic thin</strong> &mdash; lengthwise, ~2mm thick. Slices (not minced) so they toast into visible golden chips and don't burn instantly.</li>
+      <li><strong>Measure oil and butter</strong> &mdash; have them next to the stove. Butter goes in with the oil to raise the smoke point while adding flavor.</li>
+    </ol>
+    <div class="callout">Sliced garlic gives you a wider window before burning vs. minced. Whole slices go from raw &rarr; golden &rarr; bitter over about 90 seconds. Minced does that in 30. You want golden, nutty, not acrid (Nosrat).</div>
+    <div class="callout go">Everything prepped and next to the stove? Good. From here it's 5 minutes of active cooking. Don't walk away.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- PHASE 2: BUILD THE BASE                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 2: Build the Garlic Oil</h2>
+  <span class="time-badge">2&ndash;3 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full timeline-card">
+    <h3>Garlic &amp; Chili in Cool Oil <span class="tag">Low &amp; Slow</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Cold pan start</strong> &mdash; add <span class="highlight">40g olive oil + 14g butter</span> and the sliced garlic to a <span class="highlight">cold</span> pan. Starting cold gives the garlic time to infuse the oil as the temp climbs.</li>
+      <li><strong>Heat to medium-low</strong> &mdash; let garlic sizzle gently. You want tiny, lazy bubbles &mdash; not rapid frying. Pan surface around <span class="temp">275&ndash;300&deg;F</span>.</li>
+      <li><strong>Toast until light gold</strong> &mdash; about <span class="highlight">2 minutes</span>. Edges just starting to color, kitchen smells incredible.</li>
+      <li><strong>Remove garlic chips</strong> &mdash; use a slotted spoon, set aside on a small plate. They'll go back in at the end.</li>
+      <li><strong>Add red pepper flakes</strong> &mdash; <span class="highlight">1g</span> into the hot garlic oil. Let bloom for <span class="highlight">10 seconds</span>. The oil will tint slightly and the flakes will darken.</li>
+    </ol>
+    <div class="callout">Blooming spices in fat activates volatile compounds (terpenes, capsaicinoids) that are oil-soluble, not water-soluble. 10 seconds is enough &mdash; longer and the flakes go bitter (McGee, Sercarz). This infused oil IS the sauce.</div>
+    <div class="callout warn">Pull the garlic before it goes past light gold. Residual heat in the chips will carry them to perfect golden. Dark brown garlic = bitter garlic = start over.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- PHASE 3: SEAR THE SHRIMP                          -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 3: Sear the Shrimp</h2>
+  <span class="time-badge">3 min &mdash; fast &amp; hot</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full timeline-card">
+    <h3>The Sear <span class="tag">High Heat</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Crank heat to medium-high</strong> &mdash; let the garlic oil come up to temp. You want a shimmer, not smoking. Pan surface around <span class="temp">375&ndash;400&deg;F</span>.</li>
+      <li><strong>Lay shrimp in a single layer</strong> &mdash; do NOT crowd. If your pan is small, work in two batches. Each shrimp needs direct contact with the hot pan surface. <span class="highlight">No stacking, no overlapping.</span></li>
+      <li><strong>Sear side one</strong> &mdash; <span class="highlight">90 seconds</span>, untouched. Don't move them. You're building a Maillard crust on that first side. Look for the edges turning opaque about halfway up.</li>
+      <li><strong>Flip once</strong> &mdash; <span class="highlight">60 seconds</span> on side two. They cook faster now because the pan is hotter and the shrimp are already partially cooked through.</li>
+      <li><strong>Check doneness</strong> &mdash; target internal temp <span class="temp">120&deg;F</span>. Carryover will bring them to <span class="temp">130&deg;F</span> which is perfect: juicy, tender, slightly translucent center. Shape check: <span class="highlight">loose C = done. Tight O = overcooked.</span></li>
+      <li><strong>Kill the heat immediately.</strong></li>
+    </ol>
+    <div class="callout warn">These shrimp cook FAST &mdash; they're delicate deep-water shrimp, much softer than Gulf whites or tigers. At <span class="temp">140&deg;F</span> they're rubber bands. Pull early and trust the carryover. Use a thermometer if you have one (Lopez-Alt).</div>
+    <div class="callout">Temperature &gt; time for proteins. "90 seconds per side" is a guideline, not gospel. If your shrimp are smaller or your pan is hotter, they'll be done sooner. Watch the shape, probe the temp (Food Lab).</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- PHASE 4: FINISH & PLATE                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 4: Finish &amp; Plate</h2>
+  <span class="time-badge">1 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Reunite &amp; Sauce</h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Return garlic chips</strong> &mdash; toss them back into the pan with the shrimp. The residual heat will warm them without further cooking.</li>
+      <li><strong>Optional: squeeze of lemon</strong> &mdash; if you have one, half a lemon squeezed into the pan right now adds brightness that makes the garlic pop. Acid is the most underused finishing tool.</li>
+      <li><strong>Tilt the pan</strong> &mdash; spoon the garlic-chili butter-oil over the shrimp 3&ndash;4 times. This is your sauce. It's olive oil + butter + garlic + paprika + chili &mdash; liquid gold.</li>
+    </ol>
+    <div class="callout">Nosrat's framework: if something tastes good but feels like it's missing something, it almost always needs acid. A squeeze of lemon here lifts the dish from "good garlic shrimp" to "restaurant garlic shrimp."</div>
+  </div>
+
+  <div class="card">
+    <h3>Over the Salad <span class="tag">Serve Warm</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Plate the Valentine's salad</strong> &mdash; divide onto plates or pile onto one platter.</li>
+      <li><strong>Arrange shrimp on top</strong> &mdash; warm, straight from the pan. Scatter the garlic chips visibly.</li>
+      <li><strong>Spoon the pan sauce over everything</strong> &mdash; the warm garlic oil will slightly wilt the greens where it hits. This is a feature, not a bug &mdash; it's a warm dressing now.</li>
+    </ol>
+    <div class="callout go">Done. 1 pound of shrimp is perfect for two over salad. The warm pan sauce replaces any dressing you'd normally use &mdash; don't add vinaigrette on top of this.</div>
+  </div>
+
+</div>
+
+<div class="divider">&mdash;&mdash;&mdash;</div>
+
+<div class="grid">
+  <div class="card full">
+    <h3>Quick Rationale</h3>
+    <ol>
+      <li>Gambas al ajillo is a Spanish tapa built on the principle that garlic + olive oil + chili + heat = a complete sauce &mdash; the technique is the recipe. Starting garlic in cold oil (confiting) extracts maximum flavor without burning, while the brief high-heat sear on the shrimp triggers Maillard browning for savory depth.</li>
+      <li>Red Argentinian shrimp are naturally sweet and tender, so the entire cook is about <em>not overcooking</em> &mdash; pulling at <span class="temp">120&deg;F</span> and trusting carryover to <span class="temp">130&deg;F</span> keeps them succulent where most home cooks turn them to rubber at <span class="temp">160&deg;F</span>.</li>
+      <li>Serving warm over cold salad greens creates a temperature contrast that makes both components more interesting, and the infused oil doubles as a warm vinaigrette.</li>
+    </ol>
+  </div>
+</div>
+
+<footer>Cookery &mdash; Gambas al Ajillo &mdash; 2026-02-15</footer>
+</body>
+</html>
