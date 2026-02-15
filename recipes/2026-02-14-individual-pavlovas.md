@@ -3,7 +3,7 @@
 **Date:** 2026-02-14
 **Serves:** 2
 **Prep time:** 15 min | **Cook time:** 60 min + 30 min cool in oven | **Total:** ~1 hr 45 min
-**Status:** Draft
+**Status:** Final
 
 ---
 
@@ -12,7 +12,7 @@
 | Ingredient | Amount | Notes |
 |---|---|---|
 | Egg whites | 5 (~150g) | Leftover from carbonara + pasta dough — room temp |
-| Caster sugar | 300g | Finer crystal dissolves faster — still add gradually |
+| Caster sugar | 250g | Finer crystal dissolves faster — still add gradually |
 | Cornstarch | 7g (~1 Tbsp) | Absorbs internal moisture, keeps center marshmallowy |
 | White vinegar | 5g (~1 tsp) | Acid denatures protein more gently — soft center, crisp shell |
 | Vanilla extract | 5g (~1 tsp) | |
@@ -32,7 +32,7 @@
 
 2. **Whip whites + salt on medium speed until foamy** — about 1 min. Whites should be opaque, no liquid pooling at the bottom.
 
-3. **Increase to high, add sugar 1–2 Tbsp at a time.** Wait 10–15 sec between additions. This takes **6–8 min total** — caster's finer crystals dissolve faster than granulated, so you reach stiff glossy peaks sooner. The sugar dissolves into the protein matrix, increasing viscosity and stabilizing the foam (Corriher).
+3. **Increase to high, add sugar 1–2 Tbsp at a time.** Wait 10–15 sec between additions. This takes **5–7 min total** — less sugar + caster's finer crystals means you reach stiff glossy peaks faster. The sugar dissolves into the protein matrix, increasing viscosity and stabilizing the foam (Corriher).
 
 4. **Test for doneness:** rub a small amount between your fingers. **No grit = ready.** Peaks should be stiff, glossy, and hold their shape when you lift the whisk.
 
@@ -50,7 +50,7 @@
 
 ## Quick Rationale
 
-Five leftover whites from the Valentine's dinner are exactly enough for two generous pavlovas — the 1:2 white-to-sugar ratio (by weight) produces a meringue stable enough to hold its shape as nests. The Oven Pro at 250°F is ideal: its small cavity delivers even, gentle heat that dries the shell without browning, and the 200–250°F range keeps you well below Maillard territory (~300°F) so the meringue stays white. Cornstarch + acid is the Pavlova technique (vs. plain French meringue) — it gives you that signature crisp shell that shatters into a soft, marshmallowy center.
+Five leftover whites from the Valentine's dinner at a 1:1.67 white-to-sugar ratio (150g:250g) — less sweet than the classic 1:2 but still enough sugar to stabilize the foam and crisp the shell. The Oven Pro at 250°F is ideal: its small cavity delivers even, gentle heat that dries the shell without browning, and the 200–250°F range keeps you well below Maillard territory (~300°F) so the meringue stays white. Cornstarch + acid is the Pavlova technique (vs. plain French meringue) — it gives you that signature crisp shell that shatters into a soft, marshmallowy center.
 
 ## Notes & Adjustments
 
