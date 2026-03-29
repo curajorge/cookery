@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=3840, initial-scale=1.0">
+<title>Fettuccine in Creamy Tomato Pancetta + Tiras de Asado — Full Guide</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    font-size: clamp(22px, 1.3vw, 34px);
+    background: #0d0d0d;
+    color: #e8e0d8;
+  }
+
+  body {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    padding: 60px 100px;
+    max-width: 3840px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: #b8756d;
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+
+  .phase {
+    margin: 50px 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .phase h2 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: #fff;
+    white-space: nowrap;
+  }
+
+  .phase .time-badge {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.7rem;
+    background: #b8756d;
+    color: #0d0d0d;
+    padding: 6px 18px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+
+  .phase-line {
+    flex: 1;
+    height: 1px;
+    background: #2a2622;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    background: #1a1816;
+    border: 1px solid #2a2622;
+    border-radius: 18px;
+    padding: 36px 40px;
+  }
+
+  .card.full {
+    grid-column: 1 / -1;
+  }
+
+  .card h3 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    color: #e8c8a0;
+    margin-bottom: 0.4em;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .card h3 .tag {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.5rem;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 3px 12px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card h4 {
+    font-size: 0.85rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.2em 0 0.4em;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5em 0;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.65rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 6px 14px 10px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  tbody td {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #1f1d1a;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .amount {
+    color: #e8c8a0;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  ol {
+    padding-left: 1.4em;
+    margin: 0.5em 0;
+  }
+
+  ol li {
+    margin-bottom: 0.45em;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  ol li strong {
+    color: #e8c8a0;
+  }
+
+  .highlight {
+    color: #b8756d;
+    font-weight: 700;
+  }
+
+  .note {
+    color: #8a8078;
+    font-size: 0.8rem;
+  }
+
+  .callout {
+    background: #22201c;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: #c9a87c;
+    font-weight: 500;
+    border-left: 3px solid #b8756d;
+  }
+
+  .callout.warn {
+    border-left-color: #d4443e;
+    color: #e8a8a4;
+  }
+
+  .callout.go {
+    border-left-color: #6daa6d;
+    color: #a8d4a8;
+  }
+
+  .temp {
+    display: inline-block;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+
+  .divider {
+    text-align: center;
+    color: #2a2622;
+    font-size: 1.5rem;
+    margin: 30px 0 10px;
+    letter-spacing: 0.5em;
+  }
+
+  .timeline-card {
+    background: linear-gradient(135deg, #1a1816 0%, #1e1510 100%);
+    border: 1px solid #3a2a22;
+  }
+
+  footer {
+    text-align: center;
+    color: #3a3632;
+    font-size: 0.65rem;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 1px solid #1a1816;
+  }
+</style>
+</head>
+<body>
+
+<h1>Fettuccine in Creamy Tomato Pancetta + Tiras de Asado</h1>
+<p class="subtitle">Fresh pasta &amp; Argentine short ribs &mdash; Dinner for two &mdash; 2026-03-28</p>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PHASE 1 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 1: Dough &amp; Salt the Ribs</h2>
+  <span class="time-badge">10 min active + 30 min rest</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Fresh Fettuccine Dough <span class="tag">Do First</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>00 flour (Tipo 00)</td><td class="amount">200g</td><td>Caputo red bag</td></tr>
+        <tr><td>Whole eggs</td><td class="amount">2 (~100g)</td><td>Room temp</td></tr>
+        <tr><td>Egg yolk</td><td class="amount">1 (~17g)</td><td>Room temp</td></tr>
+        <tr><td>Fine salt</td><td class="amount">2g</td><td>Into the dough</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Flour + salt</strong> in KitchenAid bowl with paddle. Add eggs + yolk, mix on <span class="highlight">low until shaggy</span> (1&ndash;2 min)</li>
+      <li><strong>Switch to dough hook</strong> &mdash; knead on <span class="highlight">medium-low for 8&ndash;10 min</span>. Done when smooth, elastic, springs back when poked</li>
+      <li><strong>Wrap tight in plastic</strong> &mdash; rest <span class="highlight">30 min at room temp</span></li>
+    </ol>
+    <div class="callout">Gluten must relax before rolling or the dough fights you. Don&rsquo;t skip the rest &mdash; the extra yolk makes this dough richer and more golden than a standard 2-egg pasta (Vetri ratio: 100g flour per egg + enrichment yolk).</div>
+  </div>
+
+  <div class="card">
+    <h3>Salt the Ribs <span class="tag">Do Now</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Flanken-cut short ribs</td><td class="amount">450g</td><td>~1cm thick, bone-in</td></tr>
+        <tr><td>Coarse kosher salt</td><td class="amount">5g</td><td>Both sides</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Salt ribs generously</strong> on both sides &mdash; <span class="highlight">5g coarse kosher salt</span></li>
+      <li><strong>Rest on a wire rack</strong> uncovered for <span class="highlight">20 min minimum</span></li>
+    </ol>
+    <div class="callout">Nosrat principle: salt draws surface moisture out, dissolves, then reabsorbs back into the meat &mdash; seasoning deeper than surface level. 20 min is the sweet spot for thin flanken cuts. Pat dry before cooking for better Maillard crust.</div>
+    <div class="callout go">Both tasks start together. While the dough rests and ribs salt, move to Phase 2 mise en place.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PHASE 2 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 2: Mise en Place &amp; Roll Pasta</h2>
+  <span class="time-badge">15 min &mdash; during dough rest</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Prep All Components <span class="tag">While Dough Rests</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Garlic</td><td class="amount">10g (2 cloves)</td><td>Minced</td></tr>
+        <tr><td>San Marzano tomatoes</td><td class="amount">250g</td><td>Just under half the can, crush by hand</td></tr>
+        <tr><td>Heavy cream</td><td class="amount">90g</td><td>Measure out</td></tr>
+        <tr><td>Pecorino Romano</td><td class="amount">40g</td><td>Microplane &mdash; grate right before use</td></tr>
+        <tr><td>Parmigiano-Reggiano</td><td class="amount">20g</td><td>Microplane</td></tr>
+        <tr><td>Red chili flakes</td><td class="amount">1g</td><td></td></tr>
+        <tr><td>Black pepper</td><td class="amount">2g</td><td>Fresh cracked</td></tr>
+      </tbody>
+    </table>
+    <div class="callout">Mise en place is not optional &mdash; once heat is on, you&rsquo;re running three things at once. Everything weighed, prepped, within arm&rsquo;s reach.</div>
+  </div>
+
+  <div class="card">
+    <h3>Roll &amp; Cut Fettuccine <span class="tag">After 30 Min Rest</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Semolina or extra flour</td><td class="amount">30g</td><td>For dusting</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Divide dough in 4 pieces</strong> &mdash; keep unused pieces wrapped</li>
+      <li><strong>KitchenAid roller attachment</strong> &mdash; start at <span class="highlight">widest setting</span>, pass through twice per setting, work down to <span class="highlight">setting 5 (~2mm)</span></li>
+      <li><strong>Switch to fettuccine cutter</strong> &mdash; feed each sheet through</li>
+      <li><strong>Toss cut pasta in semolina</strong> &mdash; nest loosely on a tray</li>
+    </ol>
+    <div class="callout">Rotate and don&rsquo;t stretch the sheets. If the dough springs back aggressively, let it rest 5 more minutes. Two passes per roller setting builds even gluten structure (Funke technique).</div>
+    <div class="callout go">Pasta is ready. Set tray aside. Move to Phase 3.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PHASE 3 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 3: Air Fry the Ribs</h2>
+  <span class="time-badge">20 min total &mdash; 5 preheat + 14 cook</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full timeline-card">
+    <h3>Tiras de Asado &mdash; Wonder Oven Pro <span class="tag">Air Fry</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Preheat Wonder Oven Pro</strong> &mdash; <span class="temp">Air Fry 400&deg;F</span>, <span class="highlight">5 min preheat</span>, Deep bake pan on bottom rack to catch drip</li>
+      <li><strong>Pat ribs completely dry</strong> with paper towels &mdash; surface moisture is the enemy of Maillard browning</li>
+      <li><strong>Place ribs on middle rack</strong> &mdash; single layer, no overlap, bone side down first</li>
+      <li><strong>Cook <span class="highlight">6&ndash;7 min per side</span></strong> &mdash; flip once. Target: deep brown crust, slightly pink center</li>
+      <li><strong>Rest on cutting board 3 min</strong> &mdash; cut between bones to separate into individual pieces</li>
+    </ol>
+    <div class="callout">Argentine asado philosophy: salt + fire + good beef. The convection fan in Air Fry mode circulates <span class="temp">400&deg;F</span> air around the ribs &mdash; Maillard crust from all sides while intramuscular fat renders through the cross-cut marbling. Less smoke than broil because fat drips down, not up into the element.</div>
+    <div class="callout warn">Don&rsquo;t open the oven during cooking &mdash; you lose convection heat. One flip at the halfway mark, that&rsquo;s it.</div>
+    <div class="callout go">Ribs resting. Start the sauce and pasta water NOW &mdash; you want everything to finish together.</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PHASE 4 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 4: Sauce &amp; Pasta</h2>
+  <span class="time-badge">15 min &mdash; everything converges</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>Render Pancetta &amp; Build Sauce</h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Pancetta (cubed)</td><td class="amount">100g</td><td>Already in lardons</td></tr>
+        <tr><td>Garlic (minced)</td><td class="amount">10g</td><td>From Phase 2 prep</td></tr>
+        <tr><td>Red chili flakes</td><td class="amount">1g</td><td></td></tr>
+        <tr><td>San Marzano tomatoes</td><td class="amount">200g</td><td>Hand-crushed</td></tr>
+        <tr><td>Heavy cream</td><td class="amount">60g</td><td></td></tr>
+        <tr><td>Black pepper</td><td class="amount">2g</td><td>Fresh cracked</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Pancetta in cold pan</strong> &mdash; <span class="highlight">medium-low, 8&ndash;10 min</span> until fat is glassy, edges crisp</li>
+      <li><strong>Add garlic + chili flakes</strong> to the rendered fat &mdash; <span class="highlight">30 seconds</span> until fragrant</li>
+      <li><strong>Add hand-crushed tomatoes</strong> &mdash; simmer <span class="highlight">8&ndash;10 min</span>, stir occasionally, until sauce thickens and oil separates at edges</li>
+      <li><strong>Add cream</strong> &mdash; stir through, simmer <span class="highlight">2 min</span></li>
+      <li><strong>Season with pepper</strong> &mdash; hold on salt until after cheese is added</li>
+    </ol>
+    <div class="callout">Cold start for pancetta = even render. Fat melts before the exterior crisps, so you get glassy translucent cubes, not burnt shells with raw centers. Bloom chili + garlic in pork fat to activate volatile compounds (McGee: fat-soluble aromatics need a lipid carrier).</div>
+    <div class="callout">Cream stabilizes the tomato emulsion and rounds the acidity &mdash; this is the vodka-sauce architecture without the vodka. The rendered pork fat does the same flavor-extraction work.</div>
+  </div>
+
+  <div class="card">
+    <h3>Cook &amp; Finish Fettuccine <span class="tag">Timing Critical</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Water</td><td class="amount">3000g (3L)</td><td>Boiling</td></tr>
+        <tr><td>Kosher salt (pasta water)</td><td class="amount">30g</td><td>1% by weight</td></tr>
+        <tr><td>Fresh fettuccine</td><td class="amount">All of it</td><td>From tray</td></tr>
+        <tr><td>Pecorino Romano</td><td class="amount">40g</td><td>Microplaned</td></tr>
+        <tr><td>Parmigiano-Reggiano</td><td class="amount">20g</td><td>Microplaned</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Boil 3L water + 30g salt</strong> &mdash; start when pancetta goes in so it&rsquo;s ready in time</li>
+      <li><strong>Drop fettuccine</strong> &mdash; <span class="highlight">2&ndash;3 min only</span>, it&rsquo;s fresh</li>
+      <li><strong>Reserve <span class="highlight">100g pasta water</span></strong> before draining</li>
+      <li><strong>Using tongs, transfer drained fettuccine directly into the pan with the tomato-cream sauce.</strong> Add <span class="highlight">50g reserved pasta water</span>. Toss over <span class="highlight">low heat for 30 sec</span> so the pasta absorbs the sauce</li>
+      <li><strong>Kill the heat.</strong> Add pecorino + parm, <span class="highlight">toss vigorously 15 sec</span>. Too thick? Add more pasta water a splash at a time until it coats the noodles like silk</li>
+    </ol>
+    <div class="callout warn">Fresh pasta cooks in 2&ndash;3 min &mdash; not 8&ndash;10 like dried. Watch it. Overcooked fresh fettuccine turns to mush. Taste at 2 min.</div>
+    <div class="callout">Starch from pasta water + melted cheese + rendered pork fat = emulsified silk. The starch acts as a binder (Lopez-Alt: pasta water concentration is why less water = starchier = better sauce).</div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PHASE 5 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div class="phase">
+  <h2>Phase 5: Plate &amp; Serve</h2>
+  <span class="time-badge">2 min</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+
+  <div class="card full">
+    <h3>The Plate</h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Twirl fettuccine</strong> with tongs into the center of each warm plate &mdash; let the sauce pool naturally</li>
+      <li><strong>Lay 2&ndash;3 rib pieces</strong> alongside the pasta, cut side showing the bone cross-section</li>
+      <li><strong>Drizzle good EVOO</strong> (~10g) over the pasta &mdash; adds brightness against the cream and pork fat</li>
+      <li><strong>Finish:</strong> extra grated pecorino over the pasta, cracked black pepper, a pinch of chili flakes if you like heat</li>
+    </ol>
+    <div class="callout go">Dinner is served. The creamy tomato pasta is rich and silky, the ribs are beefy and simple. Pour something red. Enjoy it with your wife.</div>
+  </div>
+
+</div>
+
+<div class="divider">&bull; &bull; &bull;</div>
+
+<footer>Cookery &mdash; Fettuccine in Creamy Tomato Pancetta + Tiras de Asado &mdash; 2026-03-28</footer>
+</body>
+</html>
