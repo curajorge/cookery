@@ -1,4 +1,4 @@
-# Gochujang-Marinated Eggs (Mayak Gyeran — Korean "Drug" Eggs)
+# Thai Chili-Marinated Eggs (Mayak Gyeran — Korean "Drug" Eggs)
 
 **Date:** 2026-04-02
 **Serves:** 4 eggs
@@ -12,11 +12,11 @@
 | Ingredient | Amount | Notes |
 |---|---|---|
 | Large eggs | 4 | Straight from fridge |
-| Soy sauce | 60ml (60g) | Reduced — gochujang adds salt |
-| Water | 80ml (80g) | Extra to thin the paste |
+| Soy sauce | 80ml (80g) | |
+| Water | 60ml (60g) | |
 | Sherry vinegar | 15ml (15g) | Nutty brightness |
-| Sugar | 8g | Reduced — gochujang has fermented rice sweetness |
-| Gochujang | 30g (~2 Tbsp) | Lucky Seoul — fermented chili paste, adds umami + heat |
+| Sugar | 15g | Balances the sharp fresh chili heat |
+| Fresh Thai chilies | 3–4 (12g) | Thinly sliced, seeds in for full heat |
 | Garlic | 2 cloves (10g) | Minced |
 | Scallions | 2 stalks (20g) | Sliced into rings |
 | Sesame seeds | 5g | Toasted |
@@ -24,15 +24,16 @@
 ## Method
 
 1. **Boil eggs 6 min 30 sec** in rolling boiling water. Ice bath 5 min. Peel.
-2. **Make marinade.** Whisk gochujang into soy, water, sherry vinegar, and sugar until smooth. Stir in garlic, scallions, and sesame seeds. The paste needs to fully dissolve — no lumps.
-3. **Marinate.** Submerge eggs in a jar or zip-lock. Refrigerate **6–12 hrs**, flipping once. Gochujang's fermented starches and amino acids coat the whites with a glossy red-orange and deliver deeper, funkier heat than raw chili flakes.
+2. **Make marinade.** Stir soy, water, sherry vinegar, and sugar until sugar dissolves. Add sliced Thai chilies, garlic, scallions, and sesame seeds. Slicing thin exposes the placental tissue where capsaicin concentrates — it leaches into the brine within hours.
+3. **Marinate.** Submerge eggs in a jar or zip-lock. Refrigerate **6–12 hrs**, flipping once. The fresh chilies deliver bright, sharp heat that builds — very different from dried chili's slow burn.
 4. **Serve.** Halve over hot rice. Spoon the scallion-gochugaru bits on top.
 
 ## Quick Rationale
 
-Mayak gyeran ("drug eggs") are addictive because they hit every taste receptor — salty, sweet, spicy, umami, and acidic. Gochujang's fermented complexity (rice starch + soybeans + chili) gives deeper umami than raw chili flakes alone.
+Mayak gyeran ("drug eggs") are addictive because they hit every taste receptor — salty, sweet, spicy, umami, and acidic. Fresh Thai chilies bring a brighter, more aggressive heat than dried Korean chili — the sugar and sherry vinegar keep it in check.
 
 ## Notes & Adjustments
 
 - Add 5ml sesame oil to the marinade for nuttiness
-- These keep 3 days refrigerated; flavor intensifies daily
+- Remove chilies after 12 hrs if you don't want the heat to keep climbing
+- These keep 3 days refrigerated; heat intensifies daily
