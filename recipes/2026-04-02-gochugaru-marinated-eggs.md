@@ -14,7 +14,7 @@
 | Large eggs | 4 | Straight from fridge |
 | Soy sauce | 80ml (80g) | |
 | Water | 60ml (60g) | |
-| Rice vinegar | 15ml (15g) | Brightness to cut the heat |
+| Sherry vinegar | 15ml (15g) | Nutty brightness — sub for rice vinegar |
 | Sugar | 15g | |
 | Gochugaru | 8g (~1 Tbsp) | Korean red pepper flakes — fruity, moderate heat |
 | Garlic | 2 cloves (10g) | Minced |
