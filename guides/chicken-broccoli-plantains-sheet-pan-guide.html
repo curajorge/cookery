@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=3840, initial-scale=1.0">
+<title>One-Pan Chicken, Broccoli &amp; Plantains — Full Guide</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    font-size: clamp(22px, 1.3vw, 34px);
+    background: #0d0d0d;
+    color: #e8e0d8;
+  }
+
+  body {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    padding: 60px 100px;
+    max-width: 3840px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: #b8756d;
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+
+  .phase {
+    margin: 50px 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .phase h2 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: #fff;
+    white-space: nowrap;
+  }
+
+  .phase .time-badge {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.7rem;
+    background: #b8756d;
+    color: #0d0d0d;
+    padding: 6px 18px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+
+  .phase-line {
+    flex: 1;
+    height: 1px;
+    background: #2a2622;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    background: #1a1816;
+    border: 1px solid #2a2622;
+    border-radius: 18px;
+    padding: 36px 40px;
+  }
+
+  .card.full {
+    grid-column: 1 / -1;
+  }
+
+  .card h3 {
+    font-family: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    color: #e8c8a0;
+    margin-bottom: 0.4em;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .card h3 .tag {
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.5rem;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 3px 12px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card h4 {
+    font-size: 0.85rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.2em 0 0.4em;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5em 0;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.65rem;
+    color: #7a7068;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 6px 14px 10px;
+    border-bottom: 1px solid #2a2622;
+  }
+
+  tbody td {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #1f1d1a;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .amount {
+    color: #e8c8a0;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  ol {
+    padding-left: 1.4em;
+    margin: 0.5em 0;
+  }
+
+  ol li {
+    margin-bottom: 0.45em;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  ol li strong {
+    color: #e8c8a0;
+  }
+
+  .highlight {
+    color: #b8756d;
+    font-weight: 700;
+  }
+
+  .note {
+    color: #8a8078;
+    font-size: 0.8rem;
+  }
+
+  .callout {
+    background: #22201c;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: #c9a87c;
+    font-weight: 500;
+    border-left: 3px solid #b8756d;
+  }
+
+  .callout.warn {
+    border-left-color: #d4443e;
+    color: #e8a8a4;
+  }
+
+  .callout.go {
+    border-left-color: #6daa6d;
+    color: #a8d4a8;
+  }
+
+  .temp {
+    display: inline-block;
+    background: #3a2a22;
+    color: #e8c8a0;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+
+  .divider {
+    text-align: center;
+    color: #2a2622;
+    font-size: 1.5rem;
+    margin: 30px 0 10px;
+    letter-spacing: 0.5em;
+  }
+
+  .timeline-card {
+    background: linear-gradient(135deg, #1a1816 0%, #1e1510 100%);
+    border: 1px solid #3a2a22;
+  }
+
+  footer {
+    text-align: center;
+    color: #3a3632;
+    font-size: 0.65rem;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 1px solid #1a1816;
+  }
+</style>
+</head>
+<body>
+
+<h1>One-Pan Chicken, Broccoli &amp; Plantains</h1>
+<p class="subtitle">Sheet pan dinner &mdash; smart probe drives timing &mdash; 2026-04-13</p>
+
+<!-- ============================================ -->
+<!-- PHASE 1: MISE EN PLACE                       -->
+<!-- ============================================ -->
+
+<div class="phase">
+  <h2>Phase 1: Mise en Place</h2>
+  <span class="time-badge">10 min &mdash; before oven</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h3>Chicken Breast <span class="tag">Protein</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Marinated chicken breast</td><td class="amount">as portioned</td><td>Pat surface dry with paper towels &mdash; leave marinade flavor, remove surface moisture</td></tr>
+      </tbody>
+    </table>
+    <div class="callout">Dry surfaces brown. Maillard reaction needs surface temps above <span class="temp">300&deg;F</span>. Moisture = steam = no browning. Even marinated chicken benefits from a quick pat-dry (Lopez-Alt).</div>
+  </div>
+
+  <div class="card">
+    <h3>Broccoli &amp; Plantains <span class="tag">Veg &amp; Starch</span></h3>
+    <h4>Mise en Place</h4>
+    <table>
+      <thead><tr><th>Item</th><th>Amount</th><th>Prep</th></tr></thead>
+      <tbody>
+        <tr><td>Broccoli</td><td class="amount">1 head (~300g)</td><td>Cut into florets, halve any larger than a golf ball</td></tr>
+        <tr><td>Olive oil (for broccoli)</td><td class="amount">15g</td><td>Toss with broccoli</td></tr>
+        <tr><td>Kosher salt (Diamond Crystal)</td><td class="amount">3g</td><td>For broccoli</td></tr>
+        <tr><td>Black pepper</td><td class="amount">1g</td><td>For broccoli</td></tr>
+        <tr><td>Garlic powder</td><td class="amount">2g</td><td>For broccoli</td></tr>
+        <tr><td>Frozen plantains</td><td class="amount">1 package</td><td>Keep frozen until pan goes in &mdash; do not thaw</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Toss broccoli</strong> in a bowl with olive oil, salt, pepper, and garlic powder. Set aside &mdash; it goes in <span class="highlight">last</span>.</li>
+      <li><strong>Leave plantains in the bag</strong> until the moment you add them to the hot pan.</li>
+    </ol>
+    <div class="callout">Frozen plantains go in straight from the freezer. The ice flash-steams on the hot pan, then evaporates &mdash; after that the surface dries and caramelization begins. No thawing needed.</div>
+  </div>
+</div>
+
+<div class="grid">
+  <div class="card full">
+    <h3>Oven Setup</h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Preheat oven</strong> to <span class="temp">425&deg;F / 218&deg;C</span>, rack in center position.</li>
+      <li><strong>Line a sheet pan</strong> with foil or parchment for easy cleanup.</li>
+      <li><strong>Set your smart probe target</strong> to <span class="highlight">157&deg;F / 69&deg;C</span>.</li>
+    </ol>
+    <div class="callout go">Oven hot? Probe ready? Pan lined? Move to Phase 2.</div>
+  </div>
+</div>
+
+<!-- ============================================ -->
+<!-- PHASE 2: CHICKEN + PLANTAINS IN              -->
+<!-- ============================================ -->
+
+<div class="phase">
+  <h2>Phase 2: Chicken &amp; Plantains</h2>
+  <span class="time-badge">First in the oven &mdash; T = 0:00</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+  <div class="card full timeline-card">
+    <h3>Load the Pan <span class="tag">Probe goes in now</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Place chicken breast</strong> in the center of the sheet pan. <strong>Insert the smart probe</strong> into the <span class="highlight">thickest part of the breast</span>, approaching from the side so the tip sits dead-center of the meat.</li>
+      <li><strong>Arrange frozen plantains</strong> in a single layer around the chicken. Give each piece space &mdash; crowding traps steam and prevents browning.</li>
+      <li><strong>Slide pan into oven.</strong> Start the probe cook program. The probe now controls your timeline.</li>
+    </ol>
+    <div class="callout warn">Probe placement matters. If the tip touches the pan or pokes through the top, you'll get a false reading. Aim for the geometric center of the thickest section &mdash; that's the last point to reach target temp (McGee).</div>
+    <div class="callout">The probe will give you an estimated total cook time. Once you have that number, you know when to add the broccoli: <span class="highlight">subtract 12 minutes from the estimated finish</span> &mdash; that's your broccoli add time.</div>
+  </div>
+</div>
+
+<!-- ============================================ -->
+<!-- PHASE 3: ADD BROCCOLI                        -->
+<!-- ============================================ -->
+
+<div class="phase">
+  <h2>Phase 3: Add Broccoli</h2>
+  <span class="time-badge">~12 min before probe target &mdash; or when probe reads ~120&deg;F</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+  <div class="card full timeline-card">
+    <h3>Broccoli Goes In <span class="tag">Watch the probe</span></h3>
+    <h4>Trigger</h4>
+    <table>
+      <thead><tr><th>Signal</th><th>Value</th><th>Action</th></tr></thead>
+      <tbody>
+        <tr><td>Probe reads</td><td class="amount">~120&deg;F / 49&deg;C</td><td>Add broccoli now</td></tr>
+        <tr><td>OR estimated time remaining</td><td class="amount">~12 min</td><td>Add broccoli now</td></tr>
+      </tbody>
+    </table>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Pull pan out briefly.</strong> Work fast to keep oven heat loss minimal.</li>
+      <li><strong>Spread seasoned broccoli</strong> in a single layer, <span class="highlight">cut-side down</span> on the pan for maximum char surface.</li>
+      <li><strong>Flip plantains</strong> while the pan is out &mdash; they should be starting to color on the bottom side by now.</li>
+      <li><strong>Return pan to oven.</strong> Continue cooking until the probe hits target.</li>
+    </ol>
+    <div class="callout">Cut-side down = flat surface on hot metal = direct conduction = Maillard browning on the broccoli. Floret-side down just steams in its own moisture (Lopez-Alt).</div>
+  </div>
+</div>
+
+<!-- ============================================ -->
+<!-- PHASE 4: PULL & REST                         -->
+<!-- ============================================ -->
+
+<div class="phase">
+  <h2>Phase 4: Pull &amp; Rest</h2>
+  <span class="time-badge">Probe hits 157&deg;F &mdash; 5 min rest</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h3>Chicken <span class="tag">Rest required</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Remove chicken</strong> from the pan to a cutting board when probe reads <span class="temp">157&deg;F / 69&deg;C</span>.</li>
+      <li><strong>Rest for <span class="highlight">5 minutes</span></strong> &mdash; loosely tented with foil. Carryover will push internal temp to <span class="temp">165&deg;F / 74&deg;C</span>.</li>
+      <li><strong>Slice against the grain</strong> after resting.</li>
+    </ol>
+    <div class="callout warn">Do not skip the rest. Cutting immediately loses juice &mdash; myosin proteins need time off-heat to gel and trap moisture. 5 minutes minimum (Nosrat, Lopez-Alt).</div>
+  </div>
+
+  <div class="card">
+    <h3>Broccoli &amp; Plantains <span class="tag">Optional extra time</span></h3>
+    <h4>Instructions</h4>
+    <ol>
+      <li><strong>Check plantains</strong> &mdash; they should be golden-brown and caramelized at edges. If not, return the pan (without the chicken) to the oven for <span class="highlight">2&ndash;3 more minutes</span>.</li>
+      <li><strong>Check broccoli</strong> &mdash; tips should be charred, stems tender-crisp. Same fix: a couple extra minutes if needed.</li>
+      <li><strong>Plate everything</strong> once the chicken has rested.</li>
+    </ol>
+    <div class="callout go">Chicken rested, plantains golden, broccoli charred at the tips? You're done. Plate and eat.</div>
+  </div>
+</div>
+
+<!-- ============================================ -->
+<!-- QUICK REFERENCE                              -->
+<!-- ============================================ -->
+
+<div class="divider">&bull; &bull; &bull;</div>
+
+<div class="phase">
+  <h2>Quick Reference</h2>
+  <span class="time-badge">Cheat sheet</span>
+  <span class="phase-line"></span>
+</div>
+
+<div class="grid">
+  <div class="card full">
+    <h3>Oven Add Order</h3>
+    <table>
+      <thead><tr><th>Order</th><th>Item</th><th>When</th><th>Key Detail</th></tr></thead>
+      <tbody>
+        <tr><td class="amount">1st</td><td>Chicken breast + probe</td><td>T = 0:00</td><td>Center of pan, probe in thickest part</td></tr>
+        <tr><td class="amount">1st</td><td>Frozen plantains</td><td>T = 0:00</td><td>Single layer around chicken, straight from freezer</td></tr>
+        <tr><td class="amount">2nd</td><td>Seasoned broccoli</td><td>~12 min before done (probe ~120&deg;F)</td><td>Cut-side down, flip plantains while pan is out</td></tr>
+      </tbody>
+    </table>
+    <div class="callout">Oven temp: <span class="temp">425&deg;F / 218&deg;C</span> &nbsp;&bull;&nbsp; Probe target: <span class="temp">157&deg;F / 69&deg;C</span> &nbsp;&bull;&nbsp; Rest: 5 min &rarr; carryover to <span class="temp">165&deg;F / 74&deg;C</span></div>
+  </div>
+</div>
+
+<footer>Cookery &mdash; One-Pan Chicken, Broccoli &amp; Plantains &mdash; 2026-04-13</footer>
+</body>
+</html>
