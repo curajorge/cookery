@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message at 2026-10-05T19:01:52-04:00
+**Latest checkpoint:** User message at 2026-10-05T19:04:05-04:00; cooking progress unchanged from 19:01:52
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -30,15 +30,21 @@ Turn the burner **off while measuring**; preserve the skillet's brown fond. Tran
 
 Set the oven to **350 F / 175 C**, but do not log preheating as complete until reported.
 
-Prepare separately:
-- Wine: **3/4 cup = 12 measuring tablespoons**.
-- Beef broth: **2 1/4 cups = 36 measuring tablespoons**.
-- Flour: **1/2 cup = 8 level measuring tablespoons**, loose, not packed.
-- Paprika: **1 level measuring tablespoon**.
-- Oregano: **1 level measuring tablespoon**.
-- Black pepper: **1 level measuring teaspoon = 1/3 tablespoon**.
-- Remaining oil allowance: **1 1/2 tablespoons** for aromatics; use less if the skillet already has enough fat to coat the bottom.
-- No further salt until actual prior salt use is established or fully cooked gravy can be tasted.
+### Group ingredients by addition time
+
+Set out six containers in this order. These are preparation instructions, not confirmation that the user has grouped or added them.
+
+| Container | Can be measured together | Addition time |
+|---|---|---|
+| 1 - Aromatics | Chopped onions + chopped celery | First, medium heat, 7-10 minutes. Add enough remaining oil to coat skillet, up to 1 1/2 tablespoons if needed. |
+| 2 - Garlic and paprika | About 12 chopped garlic cloves + 1 level tablespoon smoked paprika | After onions/celery soften, stir 30 seconds. |
+| 3 - Flour | 1/2 cup flour = 8 level measuring tablespoons, loose, not packed | Next, stir 1-2 minutes. |
+| 4 - Wine | 3/4 cup red wine = 12 measuring tablespoons | Next, gradually stir in and simmer 3-5 minutes. |
+| 5 - Broth and late spices | 2 1/4 cups beef broth = 36 measuring tablespoons + 1 level tablespoon oregano + 1 teaspoon black pepper (1/3 tablespoon) | After wine simmers; stir/pour gradually, then simmer 2-3 minutes. |
+| 6 - Later vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Keep aside until after the first 90 minutes of covered oven braising. |
+
+Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
+
 
 Then resume **medium heat** and soften onions/celery for **7-10 minutes**. Add garlic and paprika **30 seconds**; flour **1-2 minutes**; gradually add wine and simmer **3-5 minutes**, then broth/oregano/pepper for **2-3 minutes**.
 
@@ -96,6 +102,8 @@ Earlier entries without exact times retain their order rather than inventing a t
 | 18:42 | Proper measuring tablespoons available; exact spoon amounts | Gave last brand-specific table reproduced above. Brand/actual dose remained unconfirmed. |
 | **18:48** | Are these veggies enough? Meat salted and searing; veggies chopped; create branch/history | Onion/celery amounts visually suitable; use full carrot bag. **Salted = complete, searing = underway, onion/celery chopping = visually confirmed.** Created this branch, current recipe and log. |
 | **19:01** | Meat cooked, pan hot; garlic/celery/carrots available; wine/flour and "beef" not measured; requests gravy mise en place/spices | **Searing marked complete** in this stage context. Immediate guidance: burner off while measuring. "Beef" interpreted as beef broth. Cup/tablespoon conversions supplied; onions/celery next, carrots/potatoes later. Aromatics/gravy/oven steps remain unconfirmed. |
+
+| **19:04** | Requests ingredients grouped by what can enter pan together | Supplied six groups: onions/celery; garlic/paprika; flour; wine; broth/oregano/pepper; potatoes/carrots for later. This is preparation guidance only; no new completion reported. |
 
 ## How to maintain this log
 
