@@ -10,16 +10,17 @@
 
 ## Current cooking checkpoint
 
-At the user's 2026-10-05 19:01:52 America/New_York message:
-- Beef searing is complete, based on the user's report that they have cooked the meat and now have a hot pan. This is completion of browning, not confirmation of final braised tenderness.
-- Meat has already been salted; brand and actual salt quantity remain unknown.
-- Onions and celery were chopped in prior photos. User now says garlic, celery and carrots are available; do not infer they have been added to the skillet.
-- Wine and flour are explicitly not measured. User also says "beef" in the measurement list; interpreted in context as beef broth, which still needs measuring.
-- Aromatic cooking, gravy preparation, oven preheating and oven entry are not confirmed.
-- Immediate guidance: turn the burner off during mise en place; transfer beef to the roasting tray if not already there; preserve brown fond.
-- Measure 3/4 cup wine (12 tbsp), 2 1/4 cups broth (36 tbsp), 1/2 cup flour (8 level tbsp), 1 tbsp paprika, 1 tbsp oregano, 1 tsp pepper (1/3 tbsp), and up to 1 1/2 tbsp remaining oil for aromatics.
-- Next cooking step: medium heat, onions and celery for 7-10 minutes, then garlic and paprika for 30 seconds. Keep potatoes/carrots for the later braising stage.
-- Do not add more salt now or assume oven timing has started.
+At the user's 2026-10-05 19:16:04 America/New_York message:
+- Meat has already been salted and searing was previously reported finished. Salt brand and actual amount added remain unknown.
+- **Onions and celery are cooking now: IN PROGRESS, user confirmed.**
+- User is preparing the ingredient groups; do not assume all quantities have been measured or that any later group has been added.
+- Garlic/paprika, flour, wine, broth/oregano/pepper additions are not yet reported complete.
+- Oven preheating, tray sealing and oven entry remain unconfirmed; no braising timer has started.
+- Immediate guidance: finish onions/celery on medium until softened, approximately 7-10 minutes total since they were added, not an additional 7-10 minutes from this message.
+- Then follow groups 2-5 in order: garlic/paprika 30 seconds; flour 1-2 minutes; gradually add wine and simmer 3-5 minutes; gradually add broth/oregano/pepper and simmer 2-3 minutes.
+- After gravy is ready, pour over browned beef and collected juices, seal tightly with double foil and place in preheated 350 F / 175 C oven for 90 minutes.
+- Potatoes/carrots are planned for after the first 90 minutes, then reseal for 60-90 minutes more and test beef tenderness.
+- These future steps are instructions, not logged as completed. Defer further salt until actual prior use is clarified or final cooked gravy can be tasted.
 
 ## Ingredients
 
