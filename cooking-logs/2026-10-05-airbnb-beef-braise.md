@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message at 2026-10-05T18:48:39-04:00
+**Latest checkpoint:** User message at 2026-10-05T19:01:52-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -14,11 +14,11 @@
 | Ingredients purchased | Confirmed available | User photos show 5.78 lb boneless chuck, low-sodium beef broth, 1 lb baby carrots, celery, Cabernet, garlic, onions and potatoes. User says remaining spices available. |
 | Beef cut into chunks | Confirmed | Photos show chunks. Assistant advised halving the largest to approximately 1 1/2 inches; whether every oversized piece was halved is unknown. |
 | Beef salted | **DONE: user confirmed** | Kosher salt confirmed; **brand and actual quantity added unknown**. Do not instruct another full meat salting. |
-| Beef searing | **IN PROGRESS: user confirmed** | User says "I salted the meat" and "I'm ... searing it." Completion and number of batches are unknown. |
+| Beef searing | **DONE: user reports meat cooked and pan hot at 19:01:52** | Interpreted as browning finished at this recipe stage, not fully braised tenderness. Whether beef has been transferred out of the pan is unknown. |
 | Vegetable chopping | User reports chopped | Photos verify chopped onion and celery; baby carrots remain visible in their bag. Potatoes and garlic are not individually verified as prepared. |
 | Oven preheated to 350 F | Unconfirmed | This has been instructed, not reported complete. |
-| Wine/broth measured | Unconfirmed | Targets are 3/4 cup wine and 2 1/4 cups broth. Availability does not mean measured or added. |
-| Aromatics cooked | Not reported | Next after all beef batches finish. |
+| Wine/broth measured | Not yet established | Wine explicitly unmeasured. User says "beef" in measurement list, interpreted as broth; target is 3/4 cup wine + 2 1/4 cups broth. Neither has been reported added. |
+| Aromatics cooked | Not reported | Current next cooking step after mise en place. |
 | Gravy made | Not reported | No evidence wine, flour or broth have been added. |
 | Tray sealed / entered oven | Not reported | **No braising start time or timer exists yet.** |
 | Potatoes/carrots added | Not reported | Planned after first 90 minutes of covered braising. |
@@ -26,11 +26,23 @@
 
 ## Next action
 
-While user is searing: finish uncrowded beef batches and transfer browned pieces to the roasting tray.
+Turn the burner **off while measuring**; preserve the skillet's brown fond. Transfer browned beef to the roasting tray if not already removed.
 
-After user confirms searing is complete: lower the skillet to medium and cook chopped onions and celery in remaining measured oil for **7-10 minutes**. Then add garlic and paprika for **30 seconds**; continue with flour, wine and broth as written in the current recipe.
+Set the oven to **350 F / 175 C**, but do not log preheating as complete until reported.
 
-Do not jump directly to oven entry or vegetable addition without the intervening gravy stage being completed.
+Prepare separately:
+- Wine: **3/4 cup = 12 measuring tablespoons**.
+- Beef broth: **2 1/4 cups = 36 measuring tablespoons**.
+- Flour: **1/2 cup = 8 level measuring tablespoons**, loose, not packed.
+- Paprika: **1 level measuring tablespoon**.
+- Oregano: **1 level measuring tablespoon**.
+- Black pepper: **1 level measuring teaspoon = 1/3 tablespoon**.
+- Remaining oil allowance: **1 1/2 tablespoons** for aromatics; use less if the skillet already has enough fat to coat the bottom.
+- No further salt until actual prior salt use is established or fully cooked gravy can be tasted.
+
+Then resume **medium heat** and soften onions/celery for **7-10 minutes**. Add garlic and paprika **30 seconds**; flour **1-2 minutes**; gradually add wine and simmer **3-5 minutes**, then broth/oregano/pepper for **2-3 minutes**.
+
+Keep carrots and potatoes aside for the later oven stage. Gravy addition and oven entry are not yet confirmed.
 
 ## Current quantities and decisions
 
@@ -83,6 +95,7 @@ Earlier entries without exact times retain their order rather than inventing a t
 | 18:41 | Kosher salt, no scale; ordinary spoon | Preliminary conservative eating-spoon guidance; superseded by later measuring-spoon clarification. |
 | 18:42 | Proper measuring tablespoons available; exact spoon amounts | Gave last brand-specific table reproduced above. Brand/actual dose remained unconfirmed. |
 | **18:48** | Are these veggies enough? Meat salted and searing; veggies chopped; create branch/history | Onion/celery amounts visually suitable; use full carrot bag. **Salted = complete, searing = underway, onion/celery chopping = visually confirmed.** Created this branch, current recipe and log. |
+| **19:01** | Meat cooked, pan hot; garlic/celery/carrots available; wine/flour and "beef" not measured; requests gravy mise en place/spices | **Searing marked complete** in this stage context. Immediate guidance: burner off while measuring. "Beef" interpreted as beef broth. Cup/tablespoon conversions supplied; onions/celery next, carrots/potatoes later. Aromatics/gravy/oven steps remain unconfirmed. |
 
 ## How to maintain this log
 
