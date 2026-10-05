@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message at 2026-10-05T19:04:05-04:00; cooking progress unchanged from 19:01:52
+**Latest checkpoint:** User message at 2026-10-05T19:16:04-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -18,7 +18,7 @@
 | Vegetable chopping | User reports chopped | Photos verify chopped onion and celery; baby carrots remain visible in their bag. Potatoes and garlic are not individually verified as prepared. |
 | Oven preheated to 350 F | Unconfirmed | This has been instructed, not reported complete. |
 | Wine/broth measured | Not yet established | Wine explicitly unmeasured. User says "beef" in measurement list, interpreted as broth; target is 3/4 cup wine + 2 1/4 cups broth. Neither has been reported added. |
-| Aromatics cooked | Not reported | Current next cooking step after mise en place. |
+| Aromatics cooked | **IN PROGRESS: onions/celery cooking, user confirmed 19:16:04** | Finish until softened, approximately 7-10 minutes total from addition. Garlic/paprika not yet reported added. |
 | Gravy made | Not reported | No evidence wine, flour or broth have been added. |
 | Tray sealed / entered oven | Not reported | **No braising start time or timer exists yet.** |
 | Potatoes/carrots added | Not reported | Planned after first 90 minutes of covered braising. |
@@ -26,7 +26,7 @@
 
 ## Next action
 
-Turn the burner **off while measuring**; preserve the skillet's brown fond. Transfer browned beef to the roasting tray if not already removed.
+**Current stage: onions and celery are cooking.** Keep medium heat, stirring occasionally, until softened with light browning, approximately 7-10 minutes total since addition. User is still preparing groups; measurement completion remains unconfirmed.
 
 Set the oven to **350 F / 175 C**, but do not log preheating as complete until reported.
 
@@ -46,7 +46,7 @@ Set out six containers in this order. These are preparation instructions, not co
 Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
 
 
-Then resume **medium heat** and soften onions/celery for **7-10 minutes**. Add garlic and paprika **30 seconds**; flour **1-2 minutes**; gradually add wine and simmer **3-5 minutes**, then broth/oregano/pepper for **2-3 minutes**.
+Once onions/celery soften: garlic/paprika **30 seconds**; flour **1-2 minutes**; gradually add wine and simmer **3-5 minutes**; gradually add broth/oregano/pepper and simmer **2-3 minutes**. Pour gravy over beef and collected juices, tightly seal with double foil and place in preheated 350 F oven. Start a 90-minute timer only at actual oven entry. After those 90 minutes, add potatoes/carrots, reseal and continue 60-90 minutes; extend if beef is not tender.
 
 Keep carrots and potatoes aside for the later oven stage. Gravy addition and oven entry are not yet confirmed.
 
@@ -102,8 +102,9 @@ Earlier entries without exact times retain their order rather than inventing a t
 | 18:42 | Proper measuring tablespoons available; exact spoon amounts | Gave last brand-specific table reproduced above. Brand/actual dose remained unconfirmed. |
 | **18:48** | Are these veggies enough? Meat salted and searing; veggies chopped; create branch/history | Onion/celery amounts visually suitable; use full carrot bag. **Salted = complete, searing = underway, onion/celery chopping = visually confirmed.** Created this branch, current recipe and log. |
 | **19:01** | Meat cooked, pan hot; garlic/celery/carrots available; wine/flour and "beef" not measured; requests gravy mise en place/spices | **Searing marked complete** in this stage context. Immediate guidance: burner off while measuring. "Beef" interpreted as beef broth. Cup/tablespoon conversions supplied; onions/celery next, carrots/potatoes later. Aromatics/gravy/oven steps remain unconfirmed. |
-
 | **19:04** | Requests ingredients grouped by what can enter pan together | Supplied six groups: onions/celery; garlic/paprika; flour; wine; broth/oregano/pepper; potatoes/carrots for later. This is preparation guidance only; no new completion reported. |
+
+| **19:16** | Onions and celery cooking; preparing groups; asks for steps | **Aromatic cooking marked IN PROGRESS.** Supplied timed sequence through gravy and oven braising; later ingredients, oven preheating/entry and timers remain unconfirmed. |
 
 ## How to maintain this log
 
