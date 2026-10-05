@@ -10,13 +10,16 @@
 
 ## Current cooking checkpoint
 
-At the user's 2026-10-05 18:48:39 America/New_York message:
-- Meat has been salted. Kosher salt brand and actual amount added are unknown.
-- User reports searing is underway, not complete.
-- User reports vegetables are chopped. Photos directly show chopped onions and celery; baby carrots are in their bag. Potato and garlic preparation have not been individually verified.
-- Oven preheating, wine measurement, gravy preparation and oven entry have not been confirmed.
-- Next step after all beef batches finish: soften onion and celery in the searing skillet, then add garlic and build the gravy.
-- Do not tell the user to salt the meat again.
+At the user's 2026-10-05 19:01:52 America/New_York message:
+- Beef searing is complete, based on the user's report that they have cooked the meat and now have a hot pan. This is completion of browning, not confirmation of final braised tenderness.
+- Meat has already been salted; brand and actual salt quantity remain unknown.
+- Onions and celery were chopped in prior photos. User now says garlic, celery and carrots are available; do not infer they have been added to the skillet.
+- Wine and flour are explicitly not measured. User also says "beef" in the measurement list; interpreted in context as beef broth, which still needs measuring.
+- Aromatic cooking, gravy preparation, oven preheating and oven entry are not confirmed.
+- Immediate guidance: turn the burner off during mise en place; transfer beef to the roasting tray if not already there; preserve brown fond.
+- Measure 3/4 cup wine (12 tbsp), 2 1/4 cups broth (36 tbsp), 1/2 cup flour (8 level tbsp), 1 tbsp paprika, 1 tbsp oregano, 1 tsp pepper (1/3 tbsp), and up to 1 1/2 tbsp remaining oil for aromatics.
+- Next cooking step: medium heat, onions and celery for 7-10 minutes, then garlic and paprika for 30 seconds. Keep potatoes/carrots for the later braising stage.
+- Do not add more salt now or assume oven timing has started.
 
 ## Ingredients
 
@@ -65,7 +68,7 @@ These are instructions, **not confirmation of what was actually added**. Because
 ## Method
 
 1. **Preheat:** Set oven to **350 F / 175 C**. Do not assume it is already preheated.
-2. **Sear beef:** This is the user's current step. Brown in uncrowded batches with part of the measured oil, approximately 2-3 minutes on each of two broad sides. Transfer browned pieces and any collected juices to the roasting tray. Meat is already salted.
+2. **Sear beef:** Reported complete at the 19:01:52 checkpoint. Original instructions: Brown in uncrowded batches with part of the measured oil, approximately 2-3 minutes on each of two broad sides. Transfer browned pieces and any collected juices to the roasting tray. Meat is already salted.
 3. **Soften aromatics:** After all beef batches are browned, lower skillet to medium. Add remaining oil, onions and celery. Cook **7-10 minutes**, stirring, until softened with light browning. Use a spoonful of the measured broth to loosen dark brown fond if it threatens to burn.
 4. **Garlic and spices:** Add garlic and paprika; stir **30 seconds**.
 5. **Thicken and deglaze:** Stir in flour for **1-2 minutes**. Gradually stir in the **3/4 cup wine**, scraping up browned bits, and simmer **3-5 minutes**. Gradually add the **2 1/4 cups broth**, then oregano and pepper. Simmer **2-3 minutes** until smooth. Reuse the total measured broth allowance if some was used to loosen fond.
