@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message at 2026-10-05T19:16:04-04:00
+**Latest checkpoint:** User message at 2026-10-05T19:26:46-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -16,7 +16,7 @@
 | Beef salted | **DONE: user confirmed** | Kosher salt confirmed; **brand and actual quantity added unknown**. Do not instruct another full meat salting. |
 | Beef searing | **DONE: user reports meat cooked and pan hot at 19:01:52** | Interpreted as browning finished at this recipe stage, not fully braised tenderness. Whether beef has been transferred out of the pan is unknown. |
 | Vegetable chopping | User reports chopped | Photos verify chopped onion and celery; baby carrots remain visible in their bag. Potatoes and garlic are not individually verified as prepared. |
-| Oven preheated to 350 F | Unconfirmed | This has been instructed, not reported complete. |
+| Oven setting / preheating | **Setting confirmed: 350 F at 19:26:46** | Regular home oven; user in a hurry and asks about raising heat. Preheat completion, mode and tray entry remain unconfirmed. Recommended regular Bake at 350 F. |
 | Wine/broth measured | Not yet established | Wine explicitly unmeasured. User says "beef" in measurement list, interpreted as broth; target is 3/4 cup wine + 2 1/4 cups broth. Neither has been reported added. |
 | Aromatics cooked | **IN PROGRESS: onions/celery cooking, user confirmed 19:16:04** | Finish until softened, approximately 7-10 minutes total from addition. Garlic/paprika not yet reported added. |
 | Gravy made | Not reported | No evidence wine, flour or broth have been added. |
@@ -26,9 +26,9 @@
 
 ## Next action
 
-**Current stage: onions and celery are cooking.** Keep medium heat, stirring occasionally, until softened with light browning, approximately 7-10 minutes total since addition. User is still preparing groups; measurement completion remains unconfirmed.
+**Last reported cooking stage: onions and celery cooking at 19:16:04; no later stage completion reported.** Keep medium heat, stirring occasionally, until softened with light browning, approximately 7-10 minutes total since addition. User is still preparing groups; measurement completion remains unconfirmed.
 
-Set the oven to **350 F / 175 C**, but do not log preheating as complete until reported.
+Oven is reported set to **350 F / 175 C**. Keep this setting on regular Bake. Preheat completion remains unconfirmed. Recommend hot gravy and a tight double-foil seal; oven estimate remains 2.5-3.5 hours, sometimes longer, with a first check/vegetable addition at 90 minutes. Do not infer oven entry from an oven-setting report.
 
 ### Group ingredients by addition time
 
@@ -103,8 +103,9 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **18:48** | Are these veggies enough? Meat salted and searing; veggies chopped; create branch/history | Onion/celery amounts visually suitable; use full carrot bag. **Salted = complete, searing = underway, onion/celery chopping = visually confirmed.** Created this branch, current recipe and log. |
 | **19:01** | Meat cooked, pan hot; garlic/celery/carrots available; wine/flour and "beef" not measured; requests gravy mise en place/spices | **Searing marked complete** in this stage context. Immediate guidance: burner off while measuring. "Beef" interpreted as beef broth. Cup/tablespoon conversions supplied; onions/celery next, carrots/potatoes later. Aromatics/gravy/oven steps remain unconfirmed. |
 | **19:04** | Requests ingredients grouped by what can enter pan together | Supplied six groups: onions/celery; garlic/paprika; flour; wine; broth/oregano/pepper; potatoes/carrots for later. This is preparation guidance only; no new completion reported. |
-
 | **19:16** | Onions and celery cooking; preparing groups; asks for steps | **Aromatic cooking marked IN PROGRESS.** Supplied timed sequence through gravy and oven braising; later ingredients, oven preheating/entry and timers remain unconfirmed. |
+
+| **19:26** | Regular home oven set to 350 F; in a hurry, asks whether hotter would help | Setting **350 F confirmed**. Recommended keeping regular Bake at 350 F with hot gravy and tight foil. Oven-entry time, preheat completion and subsequent skillet progress remain unconfirmed; no timer started. |
 
 ## How to maintain this log
 
