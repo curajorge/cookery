@@ -10,17 +10,17 @@
 
 ## Current cooking checkpoint
 
-At the user's 2026-10-05 19:26:46 America/New_York message:
-- Meat has already been salted and searing was previously reported finished. Salt brand and actual amount added remain unknown.
-- Onions/celery were last reported cooking at 19:16:04; completion and later gravy steps remain unconfirmed.
-- User is preparing the ingredient groups; do not assume all quantities have been measured or that any later group has been added.
-- Garlic/paprika, flour, wine, broth/oregano/pepper additions are not yet reported complete.
-- User confirms oven is **set to 350 F** at 19:26:46 and asks whether to raise heat to cook faster in a home oven. Whether preheating is complete, tray sealing and oven entry remain unconfirmed; no oven start time has been reported.
-- Oven recommendation remains **350 F / 175 C on regular Bake**, appropriate for a home oven. Use hot gravy, a fully preheated oven and a tight foil seal. Do not promise a short braise from higher heat; chuck tenderness still requires time.
-- Then follow groups 2-5 in order: garlic/paprika 30 seconds; flour 1-2 minutes; gradually add wine and simmer 3-5 minutes; gradually add broth/oregano/pepper and simmer 2-3 minutes.
-- After gravy is ready, pour over browned beef and collected juices, seal tightly with double foil and place in preheated 350 F / 175 C oven for 90 minutes.
-- Potatoes/carrots are planned for after the first 90 minutes, then reseal for 60-90 minutes more and test beef tenderness.
-- These future steps are instructions, not logged as completed. Defer further salt until actual prior use is clarified or final cooked gravy can be tasted.
+At the user's 2026-10-05 19:29:47 America/New_York message/photo:
+- Photo shows browned beef, potatoes, baby carrots, onion/celery and thick brown gravy combined in the roasting tray.
+- **Gravy transferred and potatoes/carrots already added: visually confirmed.** This supersedes the earlier plan to add root vegetables after 90 minutes. Do not ask the user to add them again.
+- Specific flour/wine/broth/spice quantities and individual stovetop cooking times remain unconfirmed; the photo does not establish those details.
+- Beef was previously salted; actual salt amount and kosher brand remain unknown.
+- Tray is uncovered in the photo. User has thin/light aluminum foil and asks about covering.
+- Immediate instruction: use **two complete foil layers**, each covering the whole tray and tightly crimped around the rim; if sheets must be joined, fold the overlapping seam to seal. Leave a slight tent over food; no vent holes.
+- Oven was previously reported set to **350 F**; use regular Bake in a preheated oven. Whether preheating is finished is unconfirmed.
+- Oven entry and start time are **not yet reported**.
+- First check is **90 minutes after actual oven entry**. Test beef and vegetables. If vegetables are already tender but beef resists a fork, remove tender vegetables, keep them covered, and reseal the beef to continue in 20-30-minute increments.
+- Overall oven time remains a variable 2.5-3.5 hours estimate. Future checks/timers are instructions, not scheduled or confirmed actions.
 
 ## Ingredients
 
@@ -77,7 +77,7 @@ Set out six containers in this order. These are preparation instructions, not co
 | 3 - Flour | 1/2 cup flour = 8 level measuring tablespoons, loose, not packed | Next, stir 1-2 minutes. |
 | 4 - Wine | 3/4 cup red wine = 12 measuring tablespoons | Next, gradually stir in and simmer 3-5 minutes. |
 | 5 - Broth and late spices | 2 1/4 cups beef broth = 36 measuring tablespoons + 1 level tablespoon oregano + 1 teaspoon black pepper (1/3 tablespoon) | After wine simmers; stir/pour gradually, then simmer 2-3 minutes. |
-| 6 - Later vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Keep aside until after the first 90 minutes of covered oven braising. |
+| 6 - Root vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Already combined in the tray before oven entry in the 19:29 photo. This supersedes the original staged addition plan. |
 
 Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
 
@@ -88,8 +88,8 @@ Wine remains separate from broth so it can simmer first. Flour remains separate 
 3. **Soften aromatics:** After all beef batches are browned, lower skillet to medium. Add remaining oil, onions and celery. Cook **7-10 minutes**, stirring, until softened with light browning. Use a spoonful of the measured broth to loosen dark brown fond if it threatens to burn.
 4. **Garlic and spices:** Add garlic and paprika; stir **30 seconds**.
 5. **Thicken and deglaze:** Stir in flour for **1-2 minutes**. Gradually stir in the **3/4 cup wine**, scraping up browned bits, and simmer **3-5 minutes**. Gradually add the **2 1/4 cups broth**, then oregano and pepper. Simmer **2-3 minutes** until smooth. Reuse the total measured broth allowance if some was used to loosen fond.
-6. **Initial braise:** Pour gravy and aromatics over beef. Cover with two foil layers tightly crimped on all sides. Bake **90 minutes**, starting the timer only after the user confirms oven entry.
-7. **Vegetables:** Carefully open foil away from face; add potatoes and baby carrots and turn into gravy. Follow the salt clarification above before adding salt. Reseal and cook another **60-90 minutes**.
+6. **Initial braise:** Beef, gravy and all vegetables are already combined in the tray. Cover with **two complete layers of thin foil**, each tightly crimped on all sides. Fold any sheet-joining seams closed; leave a slight tent and no vent holes. Bake at **350 F / 175 C** and check at **90 minutes**, starting timing only at actual oven entry.
+7. **Vegetable check:** Potatoes and carrots are **already in the tray**. At the first 90-minute check, open foil away from face and test their tenderness. If vegetables are done but beef is still tough, remove tender vegetables, keep covered, and reseal the beef to continue. Return vegetables when beef is tender and reheat them through.
 8. **Tenderness:** A fork or thin knife should enter meat with little resistance; a chunk should separate easily. Internal temperature commonly reaches **195-205 F / 90-96 C**, but tenderness decides. Continue in **20-30-minute increments** if tough; remove tender vegetables temporarily if becoming too soft.
 9. **Gravy consistency:** Sauce should coat a spoon. If loose, bake uncovered **15-25 minutes**, checking after 10 minutes. Mash about **150 g cooked potato** (roughly one small potato or a few chunks) into the gravy if needed. Add water only if drying out, a small splash at a time.
 10. **Rest:** Rest **10 minutes**, loosely covered; expect little carryover heating. Taste and adjust salt only when fully cooked.
@@ -101,6 +101,8 @@ Browning develops savory flavor, while a tightly sealed tray retains moisture fo
 ## Notes & Adjustments
 
 - Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- 19:29 photo confirms potatoes/carrots added before first oven entry, changing the planned staged addition. Check them at 90 minutes and remove tender vegetables if beef needs longer.
+- Thin/light foil is available instead of heavy-duty: use two complete tightly sealed layers.
 - 19:26 oven question: keep 350 F / 175 C on regular Bake in a home oven. Estimated oven time remains 2.5-3.5 hours, sometimes longer; higher heat cannot guarantee faster tender meat.
 - Use current actual 5.78 lb beef and 1 lb carrot bag instead of restoring old targets.
 - Onion/celery amounts are judged visually suitable; no weights are inferred from photos.
