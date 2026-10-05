@@ -65,6 +65,21 @@ These are instructions, **not confirmation of what was actually added**. Because
 5. Measure wine, broth, flour, oil and spices using proper measuring cups/spoons.
 6. Use an oven-safe deep roasting tray and a skillet for stovetop work. Leave approximately 1 inch below the tray rim after vegetables are added. If needed, divide all contents evenly between two trays.
 
+### Group ingredients by addition time
+
+Set out six containers in this order. These are preparation instructions, not confirmation that the user has grouped or added them.
+
+| Container | Can be measured together | Addition time |
+|---|---|---|
+| 1 - Aromatics | Chopped onions + chopped celery | First, medium heat, 7-10 minutes. Add enough remaining oil to coat skillet, up to 1 1/2 tablespoons if needed. |
+| 2 - Garlic and paprika | About 12 chopped garlic cloves + 1 level tablespoon smoked paprika | After onions/celery soften, stir 30 seconds. |
+| 3 - Flour | 1/2 cup flour = 8 level measuring tablespoons, loose, not packed | Next, stir 1-2 minutes. |
+| 4 - Wine | 3/4 cup red wine = 12 measuring tablespoons | Next, gradually stir in and simmer 3-5 minutes. |
+| 5 - Broth and late spices | 2 1/4 cups beef broth = 36 measuring tablespoons + 1 level tablespoon oregano + 1 teaspoon black pepper (1/3 tablespoon) | After wine simmers; stir/pour gradually, then simmer 2-3 minutes. |
+| 6 - Later vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Keep aside until after the first 90 minutes of covered oven braising. |
+
+Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
+
 ## Method
 
 1. **Preheat:** Set oven to **350 F / 175 C**. Do not assume it is already preheated.
