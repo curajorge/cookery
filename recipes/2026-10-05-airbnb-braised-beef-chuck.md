@@ -10,13 +10,13 @@
 
 ## Current cooking checkpoint
 
-At the user's 2026-10-05 19:16:04 America/New_York message:
+At the user's 2026-10-05 19:26:46 America/New_York message:
 - Meat has already been salted and searing was previously reported finished. Salt brand and actual amount added remain unknown.
-- **Onions and celery are cooking now: IN PROGRESS, user confirmed.**
+- Onions/celery were last reported cooking at 19:16:04; completion and later gravy steps remain unconfirmed.
 - User is preparing the ingredient groups; do not assume all quantities have been measured or that any later group has been added.
 - Garlic/paprika, flour, wine, broth/oregano/pepper additions are not yet reported complete.
-- Oven preheating, tray sealing and oven entry remain unconfirmed; no braising timer has started.
-- Immediate guidance: finish onions/celery on medium until softened, approximately 7-10 minutes total since they were added, not an additional 7-10 minutes from this message.
+- User confirms oven is **set to 350 F** at 19:26:46 and asks whether to raise heat to cook faster in a home oven. Whether preheating is complete, tray sealing and oven entry remain unconfirmed; no oven start time has been reported.
+- Oven recommendation remains **350 F / 175 C on regular Bake**, appropriate for a home oven. Use hot gravy, a fully preheated oven and a tight foil seal. Do not promise a short braise from higher heat; chuck tenderness still requires time.
 - Then follow groups 2-5 in order: garlic/paprika 30 seconds; flour 1-2 minutes; gradually add wine and simmer 3-5 minutes; gradually add broth/oregano/pepper and simmer 2-3 minutes.
 - After gravy is ready, pour over browned beef and collected juices, seal tightly with double foil and place in preheated 350 F / 175 C oven for 90 minutes.
 - Potatoes/carrots are planned for after the first 90 minutes, then reseal for 60-90 minutes more and test beef tenderness.
@@ -101,6 +101,7 @@ Browning develops savory flavor, while a tightly sealed tray retains moisture fo
 ## Notes & Adjustments
 
 - Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- 19:26 oven question: keep 350 F / 175 C on regular Bake in a home oven. Estimated oven time remains 2.5-3.5 hours, sometimes longer; higher heat cannot guarantee faster tender meat.
 - Use current actual 5.78 lb beef and 1 lb carrot bag instead of restoring old targets.
 - Onion/celery amounts are judged visually suitable; no weights are inferred from photos.
 - User wants an easy inexpensive braise, thick gravy, and dependable step-by-step guidance.
