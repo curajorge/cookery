@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message/photo at 2026-10-05T19:29:47-04:00
+**Latest checkpoint:** User question at 2026-10-05T19:31:03-04:00; last assembly photo at 19:29:47
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -28,7 +28,9 @@
 
 **Current stage: assembled beef, gravy, potatoes and carrots in uncovered roasting tray.** Photo confirms thick gravy coats the food. All root vegetables are already in: do not repeat the previous 90-minute vegetable-addition instruction.
 
-Cover with **two complete layers of thin foil**, each fully covering the tray and tightly crimped around the rim. If several sheets are needed, fold the joined seams closed. Leave a slight tent above food; no vent holes.
+User now says gravy is too thick and asks about adding liquid. **Proposed, not confirmed added:** stir in **1/4 cup hot water = 4 measuring tablespoons**, then another 1/4 cup only if it is still paste-like. Target thick but pourable sauce and a small pool at bottom, not food submerged. No added water has been reported.
+
+Then cover with **two complete layers of thin foil**, each fully covering the tray and tightly crimped around the rim. If several sheets are needed, fold the joined seams closed. Leave a slight tent above food; no vent holes.
 
 Place in the preheated **350 F / 175 C regular Bake** oven. First check **90 minutes after actual oven entry**. No oven entry time has been reported, so do not assign a clock time or schedule a reminder yet.
 
@@ -45,7 +47,7 @@ Specific ingredient measurements and salt amount remain unconfirmed. Do not infe
 - Garlic: earlier target **12 cloves**; actual quantity used unconfirmed.
 - Wine: available **Cannonball Cabernet Sauvignon**; practical target **3/4 US cup**.
 - Broth: available **Kettle & Fire low-sodium beef broth, 32 oz carton**; practical target **2 1/4 US cups**, not the whole carton.
-- Total added wine + broth target: **3 US cups**, before simmering/reduction.
+- Original wine + broth target: **3 US cups**, before simmering/reduction. At 19:31 suggested 1/4 cup hot water, another 1/4 cup only if needed, to loosen paste-like gravy; no actual water addition confirmed.
 - Flour: **1/2 US cup**, spooned and leveled.
 - Oil: **1/4 US cup total**, about 2 1/2 tablespoons for searing and 1 1/2 tablespoons for aromatics.
 - Seasoning reference: **1 tablespoon smoked paprika, 1 tablespoon dried oregano, 1 teaspoon black pepper**.
@@ -91,8 +93,9 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **19:04** | Requests ingredients grouped by what can enter pan together | Supplied six groups: onions/celery; garlic/paprika; flour; wine; broth/oregano/pepper; potatoes/carrots for later. This is preparation guidance only; no new completion reported. |
 | **19:16** | Onions and celery cooking; preparing groups; asks for steps | **Aromatic cooking marked IN PROGRESS.** Supplied timed sequence through gravy and oven braising; later ingredients, oven preheating/entry and timers remain unconfirmed. |
 | **19:26** | Regular home oven set to 350 F; in a hurry, asks whether hotter would help | Setting **350 F confirmed**. Recommended keeping regular Bake at 350 F with hot gravy and tight foil. Oven-entry time, preheat completion and subsequent skillet progress remain unconfirmed; no timer started. |
-
 | **19:29** | Photo of assembled tray; asks if it looks good and whether to double thin foil | **Gravy transferred and potatoes/carrots added confirmed visually.** Tray uncovered; oven entry unknown. Recommend two complete tightly crimped foil layers, 350 F, first check 90 minutes after actual entry; remove tender vegetables if beef needs longer. Earlier staged vegetable addition superseded. |
+
+| **19:31** | Says gravy is too thick; asks about adding liquid | Proposed 1/4 cup hot water, stir, then another 1/4 cup only if needed for thick but pourable sauce. **Addition not confirmed.** Foil sealing and oven entry remain unconfirmed. |
 
 ## How to maintain this log
 
