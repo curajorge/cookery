@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User message at 2026-10-05T19:26:46-04:00
+**Latest checkpoint:** User message/photo at 2026-10-05T19:29:47-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -18,37 +18,23 @@
 | Vegetable chopping | User reports chopped | Photos verify chopped onion and celery; baby carrots remain visible in their bag. Potatoes and garlic are not individually verified as prepared. |
 | Oven setting / preheating | **Setting confirmed: 350 F at 19:26:46** | Regular home oven; user in a hurry and asks about raising heat. Preheat completion, mode and tray entry remain unconfirmed. Recommended regular Bake at 350 F. |
 | Wine/broth measured | Not yet established | Wine explicitly unmeasured. User says "beef" in measurement list, interpreted as broth; target is 3/4 cup wine + 2 1/4 cups broth. Neither has been reported added. |
-| Aromatics cooked | **IN PROGRESS: onions/celery cooking, user confirmed 19:16:04** | Finish until softened, approximately 7-10 minutes total from addition. Garlic/paprika not yet reported added. |
-| Gravy made | Not reported | No evidence wine, flour or broth have been added. |
-| Tray sealed / entered oven | Not reported | **No braising start time or timer exists yet.** |
-| Potatoes/carrots added | Not reported | Planned after first 90 minutes of covered braising. |
+| Aromatics / assembly | **Combined into gravy/tray, visually confirmed at 19:29:47** | Specific cook times, garlic preparation and individual spice additions remain unconfirmed. |
+| Gravy made and transferred | **DONE: visually confirmed at 19:29:47** | Thick brown gravy coats beef and vegetables in tray. Actual wine/flour/broth/spice amounts and individual cooking steps are not verified. |
+| Tray sealed / entered oven | **Tray visibly uncovered at 19:29:47; oven entry unconfirmed** | Thin foil available; double-cover and crimp tightly. No oven start time or timer is confirmed. |
+| Potatoes/carrots added | **DONE: visually confirmed before oven entry at 19:29:47** | Supersedes staged addition after 90 minutes. Check vegetable tenderness at first 90-minute oven check; remove tender vegetables if beef needs longer. |
 | Finished / served / leftovers | Not reported | Do not infer completion from elapsed chat time. |
 
 ## Next action
 
-**Last reported cooking stage: onions and celery cooking at 19:16:04; no later stage completion reported.** Keep medium heat, stirring occasionally, until softened with light browning, approximately 7-10 minutes total since addition. User is still preparing groups; measurement completion remains unconfirmed.
+**Current stage: assembled beef, gravy, potatoes and carrots in uncovered roasting tray.** Photo confirms thick gravy coats the food. All root vegetables are already in: do not repeat the previous 90-minute vegetable-addition instruction.
 
-Oven is reported set to **350 F / 175 C**. Keep this setting on regular Bake. Preheat completion remains unconfirmed. Recommend hot gravy and a tight double-foil seal; oven estimate remains 2.5-3.5 hours, sometimes longer, with a first check/vegetable addition at 90 minutes. Do not infer oven entry from an oven-setting report.
+Cover with **two complete layers of thin foil**, each fully covering the tray and tightly crimped around the rim. If several sheets are needed, fold the joined seams closed. Leave a slight tent above food; no vent holes.
 
-### Group ingredients by addition time
+Place in the preheated **350 F / 175 C regular Bake** oven. First check **90 minutes after actual oven entry**. No oven entry time has been reported, so do not assign a clock time or schedule a reminder yet.
 
-Set out six containers in this order. These are preparation instructions, not confirmation that the user has grouped or added them.
+At that check, test both beef and vegetables. If potatoes/carrots are tender but beef is still tough, remove tender vegetables and keep covered. Reseal beef and continue in **20-30-minute increments**, returning vegetables when beef is tender and reheating them through. This adapts the original staged vegetable plan to actual assembly.
 
-| Container | Can be measured together | Addition time |
-|---|---|---|
-| 1 - Aromatics | Chopped onions + chopped celery | First, medium heat, 7-10 minutes. Add enough remaining oil to coat skillet, up to 1 1/2 tablespoons if needed. |
-| 2 - Garlic and paprika | About 12 chopped garlic cloves + 1 level tablespoon smoked paprika | After onions/celery soften, stir 30 seconds. |
-| 3 - Flour | 1/2 cup flour = 8 level measuring tablespoons, loose, not packed | Next, stir 1-2 minutes. |
-| 4 - Wine | 3/4 cup red wine = 12 measuring tablespoons | Next, gradually stir in and simmer 3-5 minutes. |
-| 5 - Broth and late spices | 2 1/4 cups beef broth = 36 measuring tablespoons + 1 level tablespoon oregano + 1 teaspoon black pepper (1/3 tablespoon) | After wine simmers; stir/pour gradually, then simmer 2-3 minutes. |
-| 6 - Later vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Keep aside until after the first 90 minutes of covered oven braising. |
-
-Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
-
-
-Once onions/celery soften: garlic/paprika **30 seconds**; flour **1-2 minutes**; gradually add wine and simmer **3-5 minutes**; gradually add broth/oregano/pepper and simmer **2-3 minutes**. Pour gravy over beef and collected juices, tightly seal with double foil and place in preheated 350 F oven. Start a 90-minute timer only at actual oven entry. After those 90 minutes, add potatoes/carrots, reseal and continue 60-90 minutes; extend if beef is not tender.
-
-Keep carrots and potatoes aside for the later oven stage. Gravy addition and oven entry are not yet confirmed.
+Specific ingredient measurements and salt amount remain unconfirmed. Do not infer them from the photo.
 
 ## Current quantities and decisions
 
@@ -65,8 +51,8 @@ Keep carrots and potatoes aside for the later oven stage. Gravy addition and ove
 - Seasoning reference: **1 tablespoon smoked paprika, 1 tablespoon dried oregano, 1 teaspoon black pepper**.
 - User has no scale at Airbnb. Initially said ordinary eating spoon; later clarified **proper measuring tablespoons are available**. Use flat/level measuring spoons.
 - Thick gravy requested. Keep measured liquid; thicken with flour, reduction and optionally cooked potato.
-- Equipment: deep roasting tray sealed with double foil; stovetop work in skillet.
-- Proposed timing: 350 F / 175 C; first 90 minutes covered, then potatoes/carrots for 60-90 minutes; extend in 20-30-minute increments for tenderness.
+- Equipment: deep roasting tray; thin/light foil available, so use two complete tightly sealed layers. Tray is uncovered in latest photo; stovetop work used a separate skillet.
+- Current timing: 350 F / 175 C; all vegetables already assembled before oven. First check at 90 minutes; remove tender vegetables if beef needs longer, then continue covered in 20-30-minute increments.
 - Oven timing is not started until oven entry is explicitly reported.
 
 ## Salt: unresolved fact, not another instruction to add
@@ -104,8 +90,9 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **19:01** | Meat cooked, pan hot; garlic/celery/carrots available; wine/flour and "beef" not measured; requests gravy mise en place/spices | **Searing marked complete** in this stage context. Immediate guidance: burner off while measuring. "Beef" interpreted as beef broth. Cup/tablespoon conversions supplied; onions/celery next, carrots/potatoes later. Aromatics/gravy/oven steps remain unconfirmed. |
 | **19:04** | Requests ingredients grouped by what can enter pan together | Supplied six groups: onions/celery; garlic/paprika; flour; wine; broth/oregano/pepper; potatoes/carrots for later. This is preparation guidance only; no new completion reported. |
 | **19:16** | Onions and celery cooking; preparing groups; asks for steps | **Aromatic cooking marked IN PROGRESS.** Supplied timed sequence through gravy and oven braising; later ingredients, oven preheating/entry and timers remain unconfirmed. |
-
 | **19:26** | Regular home oven set to 350 F; in a hurry, asks whether hotter would help | Setting **350 F confirmed**. Recommended keeping regular Bake at 350 F with hot gravy and tight foil. Oven-entry time, preheat completion and subsequent skillet progress remain unconfirmed; no timer started. |
+
+| **19:29** | Photo of assembled tray; asks if it looks good and whether to double thin foil | **Gravy transferred and potatoes/carrots added confirmed visually.** Tray uncovered; oven entry unknown. Recommend two complete tightly crimped foil layers, 350 F, first check 90 minutes after actual entry; remove tender vegetables if beef needs longer. Earlier staged vegetable addition superseded. |
 
 ## How to maintain this log
 
