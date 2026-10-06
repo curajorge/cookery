@@ -3,24 +3,21 @@
 **Date:** 2026-10-05
 **Serves:** Target 10-12 portions, enough for 6-8 people with leftovers; actual yield depends on vegetable quantities
 **Prep time:** 45-60 min active | **Cook time:** 2.5-3.5 hours in oven, sometimes longer | **Total:** approximately 3.5-4.75 hours
-**Status:** Draft - cooking in progress
+**Status:** Cooked meat leftovers now being used; final braise time and outcome details not reported
 
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Live state and question history:** cooking-logs/2026-10-05-airbnb-beef-braise.md
 
 ## Current cooking checkpoint
 
-Latest user update at 2026-10-05 22:05:14 America/New_York; latest photo at 22:02:
-- **User reports another 45 minutes of cooking after the potatoes/carrots addition.** Photo shows tray open/out with beef, roots and visibly loose orange-brown sauce. Do not add more liquid.
-- Potatoes/carrots added was explicitly confirmed at 21:11. Current photo verifies both remain in the tray; do not repeat addition.
-- **Beef NOT tender yet: user reports after checking at 22:05.** Vegetable tenderness remains unconfirmed.
-- **Immediate next action:** reseal both foil layers tightly and cook **another 30 minutes at the same 350 F / 175 C**. Keep gravy in tray; do not start separate sauce reduction yet. Lift out potatoes/carrots only if already tender and keep them covered; return to reheat through at finish.
-- At the next check, test one of the largest beef chunks. It should split easily with a fork; if resistant, repeat **20-30 minutes** covered. Oven return and new timer are not yet reported.
-- If beef and vegetables are tender, lift them onto a platter using a slotted spoon/tongs and loosely cover. **Keep the sauce; no need to strain or discard it.**
-- Current finishing guidance replaces relying on a short uncovered oven reduction: ladle sauce into the separate skillet and simmer uncovered, stirring, checking after **10 minutes**, typically **10-20 minutes but as needed** until it coats a spoon. Keep the roasting tray off direct burner heat. If an obvious layer of oil floats on top, skim it with a spoon.
-- If reduction alone is insufficient, mash **2-3 cooked potato pieces** smooth with a little sauce and stir back into the simmering gravy. Do not add dry flour directly. Taste seasoning after reduction.
-- Meat/vegetables can rest loosely covered for about **10 minutes while the sauce finishes**. Spoon gravy over them and serve once tenderness is confirmed.
-- Beef check reported at 22:05: not tender. No subsequent oven return, vegetable removal, solid transfer, sauce reduction, rest or serving is reported yet. Exact earlier salt/flour/wine/broth/spice amounts remain unconfirmed. No assistant reminder scheduled.
+Latest user update and photo at 2026-10-06 15:29:29 America/New_York:
+- **Cooked meat leftovers are now being used in a bagel with cheese: user reported, photo verifies assembly.** User explicitly says no gravy in this sandwich.
+- Current request is condiment/topping pairing, not further braise instructions.
+- Suggested spread for one bagel: **1 tablespoon mayonnaise + 1/2 tablespoon mustard** (Dijon or ordinary yellow). Pickle slices and thinly sliced onion are suggested additions; lettuce/arugula or sauteed onions also fit.
+- Mustard/mayo/topping availability and actual additions are not confirmed. Cheese type, meat portion, sandwich reheating and leftover storage details are not established by the photo.
+- Last overnight braise checkpoint was 22:05 on Oct 5: meat not tender yet; advised another 30 minutes covered at 350 F. The final total cooking time, later tenderness result, sauce reduction and serving details were not reported. Do not invent them or keep issuing that old stage as the current task.
+- Earlier salt/flour/wine/broth/spice amounts remain unconfirmed.
+
 
 ## Ingredients
 
@@ -100,9 +97,14 @@ Wine remains separate from broth so it can simmer first. Flour remains separate 
 
 Browning develops savory flavor, while a tightly sealed tray retains moisture for collagen to soften. Measured liquid, flour and potato starch make a coating gravy. Adding potatoes and carrots later helps them retain their shape.
 
+## Leftover bagel idea
+
+For one bagel with the cooked beef and cheese, mix **1 tablespoon mayonnaise with 1/2 tablespoon mustard** and spread lightly on the cut faces. Dijon or yellow mustard works. Suggested toppings: pickle slices, thin onion slices, lettuce/arugula, or sauteed onions. No gravy requested. These are recommendations, not confirmation of ingredients added or stocked.
+
 ## Notes & Adjustments
 
 - Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- Oct 6 15:29 user uses leftover beef and cheese on a bagel without gravy. Condiment guidance: 1 tbsp mayo + 1/2 tbsp mustard, optionally pickles/onion/greens. Final overnight braise details remain unreported.
 - 22:05 user checked beef and reports not tender yet. Advised another 30 minutes at same 350 F, tightly covered, gravy retained. Root tenderness/removal, oven return and timer reset unconfirmed. Further 20-30-minute covered intervals if needed; sauce finishing waits for tenderness.
 - 22:02 user reports 45 more minutes completed; photo shows loose sauce. Tenderness not yet established. First fork-test; if tender, lift solids out and reduce sauce separately in skillet, optionally thicken with mashed cooked potato. Keep sauce, no straining required. Proposed actions, not confirmed completion.
 - 21:11 user explicitly confirms potatoes/carrots just added; photo verifies. Gravy now loose with sufficient visible liquid. Continue tightly covered at 350 F for 45-60 minutes; thicken only after meat and vegetables are tender. Return/new timer not yet confirmed.
