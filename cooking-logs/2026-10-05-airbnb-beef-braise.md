@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User update at 2026-10-05T22:05:14-04:00; latest photo at 22:02
+**Latest checkpoint:** User update and photo at 2026-10-06T15:29:29-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -22,19 +22,16 @@
 | Gravy made and transferred | **DONE at 19:29; still loose at 22:02** | Photo verifies substantial sauce pooled around food. No more liquid. Once tenderness confirmed, lift solids out and reduce sauce separately; actual reduction not yet reported. |
 | Tray / oven stage | **Further 45 minutes of cooking reported at 22:02, tray now open/out** | Initial oven entry at 19:40, roots added at 21:11. Exact initial duration and actual foil sealing not separately confirmed. User explicitly reports latest 45-minute interval completed. Tenderness not yet reported. |
 | Potatoes/carrots added | **DONE: explicitly confirmed at 21:11 and verified in photo** | User says just added potatoes/carrots after initial braise. Earlier removal ambiguity is historical; current vegetables in tray confirmed. Do not repeat addition. |
-| Tenderness / finished / served / leftovers | **Beef checked and NOT tender: reported at 22:05** | Roots' tenderness remains unconfirmed. Another 30-minute covered interval prescribed, but oven return/new timer not reported. Sauce finish, rest and serving not started/confirmed. |
+| Final braise / leftovers | **Cooked meat leftovers in use on Oct 6 at 15:29** | Last overnight tenderness report at Oct 5 22:05 was not tender. Final total time, later tenderness result and sauce reduction were not reported. Do not invent these details. |
+| Leftover bagel | **Assembling: user report and Oct 6 photo** | Beef + cheese, explicitly no gravy. Cheese type, meat portion and condiment additions unknown. Current request is topping/condiment advice. |
 
 ## Next action
 
-**Current stage: beef checked at 22:05 and user reports not tender.** Latest completed interval was 45 minutes after root addition. Gravy loose in 22:02 photo.
+**Current stage: using cooked leftover meat and cheese in a bagel on Oct 6, explicitly without gravy.** User asks about mustard/mayo and suitable toppings.
 
-**Give another 30 minutes at the same 350 F / 175 C, with both foil layers tightly sealed.** Keep gravy in the tray; do not strain, discard or start separate sauce reduction yet. Remove potatoes/carrots temporarily only if already tender, keep covered, and return to reheat through when beef ready. Vegetable tenderness/removal and oven return/new timer remain unconfirmed.
+Suggested spread for one bagel: **1 tablespoon mayonnaise + 1/2 tablespoon mustard**, Dijon or ordinary yellow. Suggested additions: pickle slices and thin onion slices; lettuce/arugula or sauteed onions are other options. Ingredient availability and actual additions unconfirmed.
 
-After the 30-minute interval, test one of the largest beef chunks. It should split easily with a fork. If resistant, repeat **20-30 minutes** covered until tender; do not promise that this one interval will finish it.
-
-After beef and roots are tender, use the finishing plan already given: lift solids onto loosely covered platter, ladle sauce into separate skillet, skim obvious floating oil if present, simmer uncovered until spoon-coating (check after 10 minutes), optionally mash 2-3 cooked potato pieces into gravy. Season after reduction, let solids rest about 10 minutes while sauce finishes, spoon over and serve.
-
-All subsequent cooking/finishing actions remain unconfirmed. Actual earlier ingredient and extra-broth quantities unknown; no fixed new salt dose and no assistant reminder scheduled.
+Do not continue giving the old overnight braise extension as the immediate next action. Final overnight cooking time/tenderness/gravy reduction remain unreported. Leftover storage and sandwich reheating details have not been supplied.
 
 ## Current quantities and decisions
 
@@ -52,7 +49,7 @@ All subsequent cooking/finishing actions remain unconfirmed. Actual earlier ingr
 - User has no scale at Airbnb. Initially said ordinary eating spoon; later clarified **proper measuring tablespoons are available**. Use flat/level measuring spoons.
 - Thick gravy requested. Keep measured liquid; thicken with flour, reduction and optionally cooked potato.
 - Equipment: deep roasting tray; thin/light foil available, prior guidance two complete sealed layers. Tray currently opened after latest 45-minute interval at 22:02. Use separate skillet for sauce reduction; do not heat roasting tray directly on burner.
-- Current timing: initial oven entry reported by 19:40; roots added 21:11; another 45 minutes reported completed at 22:02. At 22:05 beef still not tender. Next prescribed interval 30 minutes tightly covered at same 350 F; repeat 20-30 minutes if needed. Oven return/new timer not yet reported. Sauce finishing waits for tenderness.
+- Last overnight timing: initial oven entry reported by 19:40 Oct 5; roots added 21:11; another 45 minutes completed at 22:02; meat not tender at 22:05 and 30-minute extension prescribed. Final cook details unreported. Current Oct 6 task is leftover beef-and-cheese bagel pairing.
 
 ## Salt: unresolved fact, not another instruction to add
 
@@ -97,6 +94,7 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **21:11** | Photo after just adding potatoes/carrots; gravy a little runny; asks whether fine and still cover | **Root addition DONE: explicitly reported and photo verified.** Loose gravy acceptable during braise; visible liquid sufficient, no extra liquid now. Reseal both foil layers, return to 350 F for 45-60 minutes, then test meat/roots; continue covered in 20-30-minute increments if tough. Thicken only after tenderness via uncovered reduction or mashed cooked potato; rest 10 minutes. Return/new timer not yet confirmed. |
 | **22:02** | Photo after another 45 minutes; sauce runny; asks whether take out, strain, rest and full finish plan | **Latest 45-minute cooking interval completed: user reported.** Tenderness not confirmed by photo. Fork-test first; if tough, covered 350 F another 20-30 minutes. If tender, lift solids to covered platter, keep sauce, ladle into skillet and simmer uncovered until spoon-coating, check after 10 minutes (roughly 10-20 or as needed); optionally mash 2-3 cooked potato pieces into gravy. Skim obvious floating fat if present; no straining required. Rest solids about 10 minutes while finishing sauce; season after reducing and serve. All finishing actions unconfirmed. |
 | **22:05** | Checked meat, not as tender as expected; asks 20 or 30 more minutes and same temperature | **Beef not tender confirmed by user.** Advised another **30 minutes at same 350 F**, tightly covered with both foil layers, retaining gravy. Remove tender roots temporarily only if ready. Recheck largest beef chunk, repeat 20-30 minutes if still resistant. Oven return, new timer and root removal unconfirmed. Defer gravy reduction/rest/serving until tenderness. |
+| **Oct 6 15:29** | Making a bagel with leftover beef and cheese, explicitly no gravy; asks whether mustard/mayo and what else pairs | **Cooked meat leftovers and sandwich assembly confirmed by user/photo.** Suggested 1 tbsp mayo + 1/2 tbsp Dijon or yellow mustard for one bagel, pickle slices/thin onion, optionally greens or sauteed onions. Availability/additions not confirmed. Final overnight braise time, tenderness result, sauce reduction, storage and sandwich reheating not reported. |
 
 ## How to maintain this log
 
