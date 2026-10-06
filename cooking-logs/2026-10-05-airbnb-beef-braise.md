@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User update at 2026-10-05T19:40:01-04:00; last assembly photo at 19:29:47
+**Latest checkpoint:** User update and photo at 2026-10-05T21:11:21-04:00
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -19,27 +19,25 @@
 | Oven setting / preheating | **Setting confirmed: 350 F at 19:26:46** | Regular home oven; user in a hurry and asks about raising heat. Preheat completion and mode not separately confirmed; tray entry confirmed at 19:40. Recommended regular Bake at 350 F. |
 | Wine/broth measured | Not yet established | Wine explicitly unmeasured. User says "beef" in measurement list, interpreted as broth; target is 3/4 cup wine + 2 1/4 cups broth. Neither has been reported added. |
 | Aromatics / assembly | **Combined into gravy/tray, visually confirmed at 19:29:47** | Specific cook times, garlic preparation and individual spice additions remain unconfirmed. |
-| Gravy made and transferred | **DONE: visually confirmed at 19:29:47** | Thick brown gravy coats beef and vegetables in tray. Actual wine/flour/broth/spice amounts and individual cooking steps are not verified. |
-| Tray sealed / entered oven | **IN OVEN, timer set: user confirmed at 19:40:01** | Exact entry minute and timer duration not separately supplied; context is initial 90-minute braise. Sealing not explicitly reported; prior guidance two complete thin-foil layers. Use user's running timer, not an invented clock time. |
-| Potatoes/carrots added / removal | **Added early at 19:29; removal remains not explicitly verified** | Advised remove at 19:32. At 19:40 user says "potato sauce," possibly transcription of "potatoes out," and asks about adding vegetables at 90 minutes. Finish guidance assumes roots set aside; if still in tray, do not duplicate. |
+| Gravy made and transferred | **DONE at 19:29; now looser at 21:11** | User reports runny gravy; current photo shows sauce pooled around food with sufficient liquid. Actual wine/flour/broth/spice amounts and earlier extra broth not established. Thicken once meat/vegetables tender. |
+| Tray / oven stage | **Initial oven entry and timer reported at 19:40; tray now opened for vegetable addition at 21:11** | Photo shows foil opened and tray out. About 90 minutes between reports; exact initial duration not separately confirmed. Resealing, oven return and new 45-60-minute timer not yet reported. |
+| Potatoes/carrots added | **DONE: explicitly confirmed at 21:11 and verified in photo** | User says just added potatoes/carrots after initial braise. Earlier removal ambiguity is historical; current vegetables in tray confirmed. Do not repeat addition. |
 | Finished / served / leftovers | Not reported | Do not infer completion from elapsed chat time. |
 
 ## Next action
 
-**Current stage: initial oven braise underway; user's timer running.** Confirmed at 19:40:01. Do not infer exact oven-entry minute or prescribe a clock-time alarm. No assistant reminder scheduled.
+**Current stage: potatoes and carrots just added after initial braise, tray open/out in photo.** User explicitly confirms both added at 21:11; photo verifies. Do not advise adding them again.
 
-When the initial **90-minute timer** rings, carefully uncover and add the set-aside **potatoes and carrots together**. Nestle them into the gravy. Onions/celery are already part of the gravy; no new aromatic batch needed. Root removal was not explicitly verified due to ambiguous transcription; if already in tray, do not add duplicates.
+Loose gravy is acceptable during braising. There is sufficient liquid visible: **add no more now**. Reseal both foil layers tightly and return to **350 F / 175 C** for another **45-60 minutes**, then check. Resealing, oven return and new timer have not yet been confirmed; do not assign a check clock time.
 
-If there is still liquid/gravy at the bottom, add no extra liquid. If drying out, add **4 tablespoons broth or hot water**. Reseal the two foil layers tightly and continue at **350 F / 175 C**.
+At the check:
+- Beef should pull apart easily with a fork.
+- Potatoes/carrots should pierce easily.
+- If beef tough, reseal and continue **20-30 minutes at a time**. Remove tender roots temporarily if getting too soft, returning to reheat through at finish.
 
-Check after another **45-60 minutes**:
-- Beef should pull apart easily with a fork; a tough/resistant chunk needs more time.
-- Potatoes and carrots should pierce easily.
-- If beef is tough, reseal and continue **20-30 minutes at a time**. Remove tender roots temporarily if becoming too soft, returning them to reheat through when beef is tender.
+Once meat and vegetables are tender, thicken gravy if needed: uncover **10-15 minutes**, check after 10, and continue only as needed. Alternatively mash a few cooked potato pieces into the sauce. Do not add dry flour directly to the gravy. Rest **10 minutes**, then taste and adjust seasoning.
 
-Once meat and vegetables are tender, gravy should coat a spoon. If too thin, uncover for **10-15 minutes**, checking after 10. If already thick, skip reduction. Rest **10 minutes**, then taste and adjust seasoning.
-
-Actual earlier extra-broth addition and fixed ingredient measurements remain unconfirmed. No new salt dose prescribed.
+Actual earlier extra-broth addition and fixed ingredient measurements remain unconfirmed. No new fixed salt dose prescribed; no assistant reminder scheduled.
 
 ## Current quantities and decisions
 
@@ -56,8 +54,8 @@ Actual earlier extra-broth addition and fixed ingredient measurements remain unc
 - Seasoning reference: **1 tablespoon smoked paprika, 1 tablespoon dried oregano, 1 teaspoon black pepper**.
 - User has no scale at Airbnb. Initially said ordinary eating spoon; later clarified **proper measuring tablespoons are available**. Use flat/level measuring spoons.
 - Thick gravy requested. Keep measured liquid; thicken with flour, reduction and optionally cooked potato.
-- Equipment: deep roasting tray; thin/light foil available, prior guidance two complete tightly sealed layers. Latest photo at 19:29 was uncovered; tray now reported in oven at 19:40. Stovetop work used separate skillet.
-- Current timing: oven braise and user's timer underway by 19:40:01; exact entry minute not supplied. Initial 90-minute timer followed by potatoes/carrots addition, resealing and a 45-60-minute check; then 20-30-minute increments if needed. Keep 350 F / 175 C. Tenderness controls finish.
+- Equipment: deep roasting tray; thin/light foil available, prior guidance two complete tightly sealed layers. Initial oven entry reported 19:40; tray opened for roots at 21:11. Stovetop work used separate skillet.
+- Current timing: initial oven entry reported by 19:40; roots just added at 21:11. Next reseal/return at 350 F / 175 C, check after 45-60 more minutes, then 20-30-minute increments if beef needs longer. Return/new timer unconfirmed. Tenderness controls finish.
 
 ## Salt: unresolved fact, not another instruction to add
 
@@ -99,6 +97,7 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **19:31** | Says gravy is too thick; asks about adding liquid | Proposed 1/4 cup hot water, stir, then another 1/4 cup only if needed for thick but pourable sauce. **Addition not confirmed.** Foil sealing and oven entry remain unconfirmed. |
 | **19:32** | Asks whether potatoes/carrots should have gone in together and whether to take them out; explicitly says tray has NOT entered oven; plans some remaining beef liquid | Original plan was both roots together after beef braises 90 minutes. Advised scoop out and set aside now, then add at 90 minutes. **Removal not confirmed.** Remaining beef liquid interpreted as broth; proposed 4 tablespoons, stir, repeat once only if paste-like. **Liquid addition not confirmed.** No oven start time. |
 | **19:40** | Timer set and tray put in oven; phrase "potato sauce" ambiguous, possibly "potatoes out"; asks full finish steps and whether vegetables/carrots enter at 90 minutes | **Oven braise underway and user timer set confirmed.** Exact start minute/duration not separately supplied. At 90 minutes add set-aside potatoes/carrots together, reseal, keep 350 F, check after another 45-60 minutes. Cook 20-30 minutes longer at a time if beef tough; temporarily remove tender roots if needed. Only add 4 tbsp liquid if bottom drying. Once tender reduce uncovered 10-15 minutes only if thin, rest 10 minutes, taste seasoning. Root removal and earlier broth addition not explicitly verified. No assistant reminder scheduled. |
+| **21:11** | Photo after just adding potatoes/carrots; gravy a little runny; asks whether fine and still cover | **Root addition DONE: explicitly reported and photo verified.** Loose gravy acceptable during braise; visible liquid sufficient, no extra liquid now. Reseal both foil layers, return to 350 F for 45-60 minutes, then test meat/roots; continue covered in 20-30-minute increments if tough. Thicken only after tenderness via uncovered reduction or mashed cooked potato; rest 10 minutes. Return/new timer not yet confirmed. |
 
 ## How to maintain this log
 
