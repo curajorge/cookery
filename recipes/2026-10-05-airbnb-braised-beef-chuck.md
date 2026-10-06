@@ -10,16 +10,15 @@
 
 ## Current cooking checkpoint
 
-Latest user update at 2026-10-05 19:40:01 America/New_York:
-- **Tray is now in the oven and a timer has been set: user confirmed.** Context is the initial 90-minute braise; exact oven-entry time and timer setting were not separately supplied. Follow the user's timer, not an invented clock time.
-- Oven was previously reported set to **350 F**; keep regular Bake at that setting.
-- Beef was salted and seared, and gravy transferred. Actual salt brand/dose and flour/wine/broth/spice quantities remain unconfirmed.
-- Potatoes/carrots were added early in the 19:29 photo. At 19:32 advised to remove and set aside for addition after 90 minutes. User's latest phrase "potato sauce" is ambiguous, possibly "potatoes out"; asking whether to add vegetables at 90 minutes is consistent with holding them aside, but removal is not explicitly verified.
-- **Next action at the 90-minute timer:** add the set-aside potatoes and carrots together, nestle into gravy, reseal the same two foil layers tightly, and continue at 350 F. Onions/celery are already part of the gravy; do not add another batch. If roots were left in, do not duplicate them.
-- Check after another **45-60 minutes**. Beef should separate easily with a fork and potatoes/carrots should pierce easily. If beef remains tough, reseal and continue **20-30 minutes at a time**. Remove tender roots temporarily if becoming too soft.
-- Add **4 tablespoons broth or hot water only if the bottom is drying out**, not merely because the gravy is thick. Earlier extra-broth addition remains unconfirmed.
-- Once tender, reduce gravy uncovered for **10-15 minutes only if too thin**, then rest **10 minutes**, taste and adjust seasoning.
-- Total oven time remains a variable 2.5-3.5 hours estimate, sometimes longer. No assistant reminder has been scheduled.
+Latest user update and photo at 2026-10-05 21:11:21 America/New_York:
+- **Potatoes and carrots now added: user explicitly confirmed and photo verifies both in the tray.** Do not instruct another root-vegetable addition. Earlier removal ambiguity is historical; current state is clear.
+- Photo shows opened foil, beef, potatoes, baby carrots and loose orange-brown gravy pooled around the food. There is sufficient visible braising liquid; **do not add more now**. Tenderness cannot be established from a photo.
+- Initial oven braise and user's timer were reported at 19:40. This is approximately 90 minutes later, consistent with the planned addition point, but exact entry time/duration were not separately supplied.
+- **Next action:** reseal the two foil layers tightly and return to **350 F / 175 C** for another **45-60 minutes**, then test beef and vegetables. Return to oven, resealing and the new timer have not yet been confirmed.
+- Beef should separate easily with a fork; potatoes/carrots should pierce easily. If beef remains tough, reseal and continue **20-30 minutes at a time**. Remove tender roots temporarily if becoming too soft.
+- Looser gravy is acceptable during the covered braise. When meat/vegetables are tender, reduce uncovered **10-15 minutes**, checking after 10 and continuing only if needed. Alternatively mash a few cooked potato pieces into the gravy. Do not add dry flour directly.
+- Rest **10 minutes**, then taste and adjust seasoning. No new fixed salt dose prescribed because actual salt brand/amount remain unknown.
+- Actual flour/wine/broth/spice amounts and earlier extra-broth addition remain unconfirmed. No assistant reminder scheduled.
 
 ## Ingredients
 
@@ -76,7 +75,7 @@ Set out six containers in this order. These are preparation instructions, not co
 | 3 - Flour | 1/2 cup flour = 8 level measuring tablespoons, loose, not packed | Next, stir 1-2 minutes. |
 | 4 - Wine | 3/4 cup red wine = 12 measuring tablespoons | Next, gradually stir in and simmer 3-5 minutes. |
 | 5 - Broth and late spices | 2 1/4 cups beef broth = 36 measuring tablespoons + 1 level tablespoon oregano + 1 teaspoon black pepper (1/3 tablespoon) | After wine simmers; stir/pour gradually, then simmer 2-3 minutes. |
-| 6 - Root vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Added early in the 19:29 photo. At 19:32 advised to scoop out, set aside, and add together after 90 minutes of beef braising; removal not yet confirmed. |
+| 6 - Root vegetables | Potatoes cut into roughly 2-inch chunks + the 1 lb baby-carrot bag | Added after initial braise at 21:11: user confirmed and photo verifies. Do not add another batch. |
 
 Wine remains separate from broth so it can simmer first. Flour remains separate from the garlic/paprika because it has a later addition step. No additional salt in these containers yet.
 
@@ -88,7 +87,7 @@ Wine remains separate from broth so it can simmer first. Flour remains separate 
 4. **Garlic and spices:** Add garlic and paprika; stir **30 seconds**.
 5. **Thicken and deglaze:** Stir in flour for **1-2 minutes**. Gradually stir in the **3/4 cup wine**, scraping up browned bits, and simmer **3-5 minutes**. Gradually add the **2 1/4 cups broth**, then oregano and pepper. Simmer **2-3 minutes** until smooth. Reuse the total measured broth allowance if some was used to loosen fond.
 6. **Initial braise:** User reports tray now in oven and timer set at the 19:40 checkpoint. Earlier guidance was to scoop out potatoes/carrots and hold them for the first 90 minutes; removal is not explicitly verified. Thin foil guidance: two complete layers, tightly crimped all around, joined seams folded closed, slight tent and no holes. Continue initial **90 minutes at 350 F / 175 C**, following the user's timer. Exact oven-entry time is not supplied. Earlier proposed broth adjustment was 4 tablespoons, repeated once only if paste-like; actual addition is unconfirmed.
-7. **Add root vegetables:** After the beef's first **90 minutes**, add the set-aside potatoes and carrots together and nestle them into the gravy. Add **4 tablespoons broth or hot water only if the bottom is drying out**. Reseal tightly and continue cooking, checking after another **45-60 minutes**. If the user leaves them in from the start instead, check their tenderness at 90 minutes and remove tender vegetables temporarily if the beef needs longer. Do not add a second batch or assume removal occurred.
+7. **Root vegetables added:** At 21:11 user confirms potatoes and carrots just added; photo verifies both in tray. Loose gravy is acceptable at this stage and there is sufficient visible liquid: **no more liquid now**. Nestle the roots into gravy, reseal both foil layers tightly and return to **350 F / 175 C** for **45-60 minutes** before checking tenderness. Resealing/return/new timer remain unconfirmed. Do not repeat vegetable addition.
 
 8. **Tenderness:** A fork or thin knife should enter meat with little resistance; a chunk should separate easily. Internal temperature commonly reaches **195-205 F / 90-96 C**, but tenderness decides. Continue in **20-30-minute increments** if tough; remove tender vegetables temporarily if becoming too soft.
 9. **Gravy consistency:** Sauce should coat a spoon. If loose after meat and vegetables are tender, bake uncovered **10-15 minutes**, checking after 10 minutes. Mash about **150 g cooked potato** (roughly one small potato or a few chunks) into the gravy if needed. Add water only if drying out, a small splash at a time.
@@ -101,6 +100,7 @@ Browning develops savory flavor, while a tightly sealed tray retains moisture fo
 ## Notes & Adjustments
 
 - Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- 21:11 user explicitly confirms potatoes/carrots just added; photo verifies. Gravy now loose with sufficient visible liquid. Continue tightly covered at 350 F for 45-60 minutes; thicken only after meat and vegetables are tender. Return/new timer not yet confirmed.
 - 19:40 user confirms tray in oven and timer set. Exact oven-entry time/timer setting not separately given. Finish guidance: roots at 90 minutes, reseal, check after 45-60 more minutes; continue covered in 20-30-minute increments if beef is tough. No assistant reminder scheduled.
 - 19:32 user confirms tray has not entered oven and asks whether to remove potatoes/carrots. Advised to scoop out and add together after 90 minutes of beef braising; removal remains unconfirmed.
 - 19:32 user plans to add remaining beef liquid, interpreted as broth. Proposed 1/4 cup (4 tablespoons), another 1/4 cup only if needed for thick but pourable gravy. Actual addition unconfirmed; replaces rather than supplements the earlier water suggestion.
