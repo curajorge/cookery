@@ -10,16 +10,17 @@
 
 ## Current cooking checkpoint
 
-Latest user update and photo at 2026-10-05 22:02:14 America/New_York:
+Latest user update at 2026-10-05 22:05:14 America/New_York; latest photo at 22:02:
 - **User reports another 45 minutes of cooking after the potatoes/carrots addition.** Photo shows tray open/out with beef, roots and visibly loose orange-brown sauce. Do not add more liquid.
 - Potatoes/carrots added was explicitly confirmed at 21:11. Current photo verifies both remain in the tray; do not repeat addition.
-- **Tenderness remains unconfirmed.** First test a beef chunk: it should separate easily with a fork. Pierce a potato and carrot; both should be tender.
-- If beef is tough, reseal and continue **20-30 minutes at 350 F / 175 C**, removing tender roots temporarily if needed.
+- **Beef NOT tender yet: user reports after checking at 22:05.** Vegetable tenderness remains unconfirmed.
+- **Immediate next action:** reseal both foil layers tightly and cook **another 30 minutes at the same 350 F / 175 C**. Keep gravy in tray; do not start separate sauce reduction yet. Lift out potatoes/carrots only if already tender and keep them covered; return to reheat through at finish.
+- At the next check, test one of the largest beef chunks. It should split easily with a fork; if resistant, repeat **20-30 minutes** covered. Oven return and new timer are not yet reported.
 - If beef and vegetables are tender, lift them onto a platter using a slotted spoon/tongs and loosely cover. **Keep the sauce; no need to strain or discard it.**
 - Current finishing guidance replaces relying on a short uncovered oven reduction: ladle sauce into the separate skillet and simmer uncovered, stirring, checking after **10 minutes**, typically **10-20 minutes but as needed** until it coats a spoon. Keep the roasting tray off direct burner heat. If an obvious layer of oil floats on top, skim it with a spoon.
 - If reduction alone is insufficient, mash **2-3 cooked potato pieces** smooth with a little sauce and stir back into the simmering gravy. Do not add dry flour directly. Taste seasoning after reduction.
 - Meat/vegetables can rest loosely covered for about **10 minutes while the sauce finishes**. Spoon gravy over them and serve once tenderness is confirmed.
-- No actual fork-test result, solid transfer, sauce reduction, rest or serving is reported yet. Exact earlier salt/flour/wine/broth/spice amounts remain unconfirmed. No assistant reminder scheduled.
+- Beef check reported at 22:05: not tender. No subsequent oven return, vegetable removal, solid transfer, sauce reduction, rest or serving is reported yet. Exact earlier salt/flour/wine/broth/spice amounts remain unconfirmed. No assistant reminder scheduled.
 
 ## Ingredients
 
@@ -90,7 +91,7 @@ Wine remains separate from broth so it can simmer first. Flour remains separate 
 6. **Initial braise:** User reports tray now in oven and timer set at the 19:40 checkpoint. Earlier guidance was to scoop out potatoes/carrots and hold them for the first 90 minutes; removal is not explicitly verified. Thin foil guidance: two complete layers, tightly crimped all around, joined seams folded closed, slight tent and no holes. Continue initial **90 minutes at 350 F / 175 C**, following the user's timer. Exact oven-entry time is not supplied. Earlier proposed broth adjustment was 4 tablespoons, repeated once only if paste-like; actual addition is unconfirmed.
 7. **Root vegetables added:** At 21:11 user confirms potatoes and carrots just added; photo verifies both in tray. Loose gravy is acceptable at this stage and there is sufficient visible liquid: **no more liquid now**. Nestle the roots into gravy, reseal both foil layers tightly and return to **350 F / 175 C** for **45-60 minutes** before checking tenderness. At 22:02 user reports the following 45 minutes of cooking completed; photo shows tray opened. Tenderness still requires a fork test. Do not repeat vegetable addition.
 
-8. **Tenderness:** A fork or thin knife should enter meat with little resistance; a chunk should separate easily. Internal temperature commonly reaches **195-205 F / 90-96 C**, but tenderness decides. Continue in **20-30-minute increments** if tough; remove tender vegetables temporarily if becoming too soft.
+8. **Tenderness:** At 22:05 user reports beef is not tender. Current instruction: another **30 minutes at 350 F / 175 C**, tightly covered with both foil layers, retaining gravy. Remove roots temporarily only if already tender. Then check one of the largest beef chunks. A fork or thin knife should enter meat with little resistance; a chunk should separate easily. Internal temperature commonly reaches **195-205 F / 90-96 C**, but tenderness decides. Continue in **20-30-minute increments** if tough; remove tender vegetables temporarily if becoming too soft.
 9. **Finish the gravy separately, once tender:** Lift meat and vegetables onto a platter with a slotted spoon/tongs and loosely cover. Keep all sauce; no need to strain or discard it. Ladle sauce into the separate skillet, skim an obvious floating fat layer if present, and simmer **uncovered**, stirring, until it coats a spoon. Check after **10 minutes**; expect roughly **10-20 minutes**, longer if needed. Do not heat this roasting tray directly on a burner. If still thin, mash **2-3 cooked potato pieces** smooth with some sauce and stir back into simmering gravy. Do not add dry flour directly.
 10. **Rest and serve:** Meat/vegetables rest loosely covered for about **10 minutes while sauce finishes**. Taste the reduced gravy and adjust seasoning, spoon it over meat and vegetables, and serve. No fixed new salt amount prescribed because previous dose is unknown.
 
@@ -102,6 +103,7 @@ Browning develops savory flavor, while a tightly sealed tray retains moisture fo
 ## Notes & Adjustments
 
 - Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- 22:05 user checked beef and reports not tender yet. Advised another 30 minutes at same 350 F, tightly covered, gravy retained. Root tenderness/removal, oven return and timer reset unconfirmed. Further 20-30-minute covered intervals if needed; sauce finishing waits for tenderness.
 - 22:02 user reports 45 more minutes completed; photo shows loose sauce. Tenderness not yet established. First fork-test; if tender, lift solids out and reduce sauce separately in skillet, optionally thicken with mashed cooked potato. Keep sauce, no straining required. Proposed actions, not confirmed completion.
 - 21:11 user explicitly confirms potatoes/carrots just added; photo verifies. Gravy now loose with sufficient visible liquid. Continue tightly covered at 350 F for 45-60 minutes; thicken only after meat and vegetables are tender. Return/new timer not yet confirmed.
 - 19:40 user confirms tray in oven and timer set. Exact oven-entry time/timer setting not separately given. Finish guidance: roots at 90 minutes, reseal, check after 45-60 more minutes; continue covered in 20-30-minute increments if beef is tough. No assistant reminder scheduled.
