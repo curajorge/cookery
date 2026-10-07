@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User update at 2026-10-07T15:33:49-04:00; last photo Oct 6
+**Latest checkpoint:** User update at 2026-10-07T15:40:17-04:00; last photo Oct 6
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -25,17 +25,17 @@
 | Final braise / leftovers | **Cooked meat leftovers in use on Oct 6 at 15:29** | Last overnight tenderness report at Oct 5 22:05 was not tender. Final total time, later tenderness result and sauce reduction were not reported. Do not invent these details. |
 | Leftover bagel | **Eaten/enjoyed: user reports phenomenal on Oct 7** | Beef + cheese, explicitly no gravy in Oct 6 assembly. Actual condiments were not specified; do not infer mustard/mayo use. |
 | Gravy flavor | **Very tasty: user reports on Oct 7** | Final reduction method and consistency not provided. |
-| Gravy soup | **Planning on Oct 7: beef stock available** | User requests brothy soup and weight ratios. Current stock brand/sodium level and actual gravy amount unknown. No soup additions/heating confirmed. |
+| Gravy soup | **Planning: 240 g beef stock reported available at Oct 7 15:40** | User requests brothy soup and weight ratios. Adjusted target 160 g gravy + 240 g stock. Current stock brand/sodium and actual gravy amount unknown. No soup additions/heating confirmed. |
 
 ## Next action
 
-**Current task: make a small soup from leftover gravy and available beef stock.** User reports sandwich phenomenal and gravy very tasty. At 15:33 asks for weights and possible mustard/pickle juice/spices; earlier mug guidance superseded.
+**Current task: make a small gravy soup with only 240 g beef stock available**, reported at Oct 7 15:40. User requests adjustment.
 
-Starting ratio by weight: **1 gravy : 1.5 beef stock**. Example small batch **200 g gravy + 300 g stock**; add stock in **50 g increments** if still thick.
+Preserve ratio **1 gravy : 1.5 stock by weight**: **160 g gravy + 240 g stock**. Suggested finishing **2.4 g mustard** (Dijon or yellow), **1-2 grinds black pepper**, and **2-4 g pickle juice only if more tang wanted after tasting**.
 
-Heat gravy/stock together in saucepan, stirring; bring to a boil, then simmer **5 minutes**. Optional already-cooked meat/vegetable pieces can be heated through in the soup if available. Stir in **3 g mustard** (Dijon or yellow) and **1-2 grinds black pepper**. Taste hot; add **3-5 g pickle juice only if more tang wanted**. Taste before adding salt because gravy and stock already seasoned.
+Heat gravy/stock together, stirring; bring to boil then simmer **5 minutes**. Heat optional already-cooked beef/vegetable pieces through if using. Stir in mustard/pepper, taste hot before pickle juice or salt. If still too thick, thin with **20-30 g hot water at a time only as needed**; no extra stock assumed available.
 
-No actual measurements, stock addition, seasonings, heating or serving confirmed. Current stock brand/sodium level unknown; do not assume it is the original low-sodium broth. Leftover storage unreported. Final overnight braise time/tenderness/reduction remain unreported; current task is soup, not the old braise extension.
+240 g stock is reported available, not confirmed added. Gravy/seasoning measurements, heating and serving remain proposed. Stock brand/sodium and leftover storage unknown. Final overnight braise time/tenderness/reduction remain unreported; current task soup.
 
 ## Current quantities and decisions
 
@@ -54,7 +54,7 @@ No actual measurements, stock addition, seasonings, heating or serving confirmed
 - Original braise target was thick gravy. On Oct 7 user wants to dilute the tasty leftover gravy into a brothy soup with beef stock; this new goal supersedes thickening instructions for the soup.
 - Equipment: deep roasting tray; thin/light foil available, prior guidance two complete sealed layers. Tray currently opened after latest 45-minute interval at 22:02. Use separate skillet for sauce reduction; do not heat roasting tray directly on burner.
 - Last overnight timing: initial oven entry reported by 19:40 Oct 5; roots added 21:11; another 45 minutes completed at 22:02; meat not tender at 22:05 and 30-minute extension prescribed. Final cook details unreported. Bagel enjoyed by Oct 7; current task leftover gravy soup.
-- Soup starting ratio: gravy:stock **1:1.5 by weight**, sample **200 g + 300 g**, then 50 g more stock at a time if needed. Suggested finishing 3 g mustard and pepper; optional 3-5 g pickle juice after tasting. Additions unconfirmed.
+- Current soup ratio: gravy:stock **1:1.5 by weight**. Limited stock **240 g reported available**, so adjusted target **160 g gravy + 240 g stock**; finishing 2.4 g mustard and pepper, optional 2-4 g pickle juice after tasting. If more thinning needed, 20-30 g hot water at a time; no extra stock assumed. Additions unconfirmed.
 
 ## Salt: unresolved fact, not another instruction to add
 
@@ -102,6 +102,7 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **Oct 6 15:29** | Making a bagel with leftover beef and cheese, explicitly no gravy; asks whether mustard/mayo and what else pairs | **Cooked meat leftovers and sandwich assembly confirmed by user/photo.** Suggested 1 tbsp mayo + 1/2 tbsp Dijon or yellow mustard for one bagel, pickle slices/thin onion, optionally greens or sauteed onions. Availability/additions not confirmed. Final overnight braise time, tenderness result, sauce reduction, storage and sandwich reheating not reported. |
 | **Oct 7 15:32** | Sandwich phenomenal; gravy very tasty; beef stock available, wants a small soup | Sandwich enjoyment and gravy flavor user-confirmed. Initial mug guidance 1 gravy:1 stock then thin to preference, later superseded by requested gram guidance. Final sandwich condiments and soup additions unknown. |
 | **Oct 7 15:33** | Requests weighing, ingredient ratios and what to add; asks mustard, pickle juice, spices | Proposed **1 gravy:1.5 stock by weight**, sample 200 g + 300 g, more stock 50 g at a time if needed. Bring to boil stirring then simmer 5 minutes; finish with 3 g mustard and 1-2 grinds pepper, optional 3-5 g pickle juice if more tang wanted after tasting. Salt only after tasting. Optional already-cooked beef/veg pieces if available. Actual quantities/additions/heating unconfirmed. |
+| **Oct 7 15:40** | Only 240 beef stock available; asks adjustment (grams in current weighing context) | **Stock available 240 g user-reported.** Preserve 1:1.5 ratio with **160 g gravy + 240 g stock**; **2.4 g mustard**, 1-2 grinds pepper, optional 2-4 g pickle juice after tasting. Same boil/stir then 5-minute simmer; if more thinning needed, hot water 20-30 g at a time. Stock/other ingredient additions and heating not confirmed. |
 
 ## How to maintain this log
 
