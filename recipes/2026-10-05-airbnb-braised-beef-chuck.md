@@ -10,12 +10,12 @@
 
 ## Current cooking checkpoint
 
-Latest user update at 2026-10-07 15:33:49 America/New_York:
+Latest user update at 2026-10-07 15:40:17 America/New_York:
 - User says the leftover beef-and-cheese bagel was **phenomenal**, and the gravy is **very tasty**. Actual sandwich condiments were not specified; do not assume the proposed mustard/mayo were used.
-- Current task: turn leftover gravy into a small, brothy soup using available **beef stock**. Current stock brand/sodium level and gravy quantity are not specified.
+- Current task: turn leftover gravy into a small, brothy soup using available **beef stock**. User reports **240 g beef stock available** at 15:40. Current stock brand/sodium level and actual gravy quantity remain unspecified.
 - User now requests **measurements by weight**. Earlier mug guidance is superseded for this soup.
-- Suggested starting ratio: **1 part gravy : 1.5 parts beef stock by weight**. Example: **200 g gravy + 300 g stock**. Add stock in **50 g increments** if still thicker than desired.
-- Suggested finishing seasonings for that example: **3 g mustard** (Dijon or yellow) and **1-2 grinds black pepper**. Optional **3-5 g pickle juice**, only after tasting if more tang is wanted. Salt only after tasting the hot soup.
+- Current adjusted starting ratio: **1 part gravy : 1.5 parts beef stock by weight**. With the reported **240 g stock available**, use **160 g gravy**. If still too thick after heating, use **20-30 g hot water at a time only as needed**; no extra stock assumed available.
+- Suggested finishing seasonings for the adjusted batch: **2.4 g mustard** (Dijon or yellow) and **1-2 grinds black pepper**. Optional **2-4 g pickle juice**, only after tasting if more tang is wanted. Salt only after tasting the hot soup.
 - Heat gravy and stock together, stirring; bring to a boil, then simmer **5 minutes**. Stir in mustard, taste and add optional pickle juice/pepper. Small pieces of already-cooked leftover meat/vegetables are optional if available.
 - Soup measurements, seasoning additions, heating and serving are proposed, not confirmed. Leftover storage details remain unreported.
 - Original braise's final cooking time, later tenderness result, sauce reduction and actual salt/flour/wine/broth/spice amounts remain unreported.
@@ -105,25 +105,26 @@ For one bagel with the cooked beef and cheese, mix **1 tablespoon mayonnaise wit
 
 ## Leftover gravy soup
 
-For a brothy soup, start with **1 part gravy : 1.5 parts beef stock by weight**. This is a starting ratio, since the gravy's current thickness is not measured.
+For a brothy soup, start with **1 part gravy : 1.5 parts beef stock by weight**. User reports **240 g stock available** at Oct 7 15:40; the adjusted batch below preserves that ratio. Gravy's current thickness is not measured.
 
-| Ingredient | Small batch |
+| Ingredient | Adjusted small batch |
 |---|---|
-| Leftover gravy | **200 g** |
-| Beef stock | **300 g**, plus **50 g at a time** if needed to thin |
-| Dijon or yellow mustard | **3 g**, suggested finishing seasoning |
+| Leftover gravy | **160 g** |
+| Beef stock | **240 g**, reported available; addition not confirmed |
+| Dijon or yellow mustard | **2.4 g**, suggested finishing seasoning |
 | Black pepper | **1-2 grinds**, to taste |
-| Pickle juice | **3-5 g optional**, after tasting |
+| Pickle juice | **2-4 g optional**, after tasting |
 | Already-cooked leftover beef/vegetables | Optional small pieces if available; quantity not prescribed |
 
 1. Stir gravy and stock together in a saucepan. Bring to a boil while stirring, then reduce heat and simmer **5 minutes**. If adding cooked beef/vegetable pieces, heat them through in the soup.
-2. Stir in mustard and pepper. Taste hot; add pickle juice only if more tang is wanted. Add salt only if needed after tasting.
-3. If still too thick, stir in additional stock in **50 g increments**, reheating as needed. Stop when brothy enough and serve.
+2. Stir in mustard and pepper. Taste hot; add pickle juice only if more tang wanted. Add salt only if needed after tasting.
+3. If still too thick, stir in **20-30 g hot water at a time only as needed**, since no extra stock is assumed available. Stop when brothy enough and serve.
 
-These are proposed quantities, not confirmation of what the user added. Current stock type/sodium and leftover storage details are unknown.
+These are proposed quantities, not confirmation of additions. Stock availability 240 g is user-reported; current stock type/sodium and leftover storage details remain unknown.
 
 ## Notes & Adjustments
 
+- Oct 7 15:40 user reports only 240 g stock available. Current soup batch adjusted to 160 g gravy + 240 g stock, 2.4 g mustard, optional 2-4 g pickle juice. Additions/heating remain unconfirmed.
 - For the original Oct 5 Airbnb braise, practical measurements took precedence without a scale. On Oct 7 the user requests weights for leftover soup.
 - Oct 7: bagel reported phenomenal and gravy very tasty. Current soup plan: gravy:stock 1:1.5 by weight, e.g. 200 g + 300 g, finishing 3 g mustard and pepper, optional 3-5 g pickle juice after tasting. Actual additions not yet reported.
 - Oct 6 15:29 user uses leftover beef and cheese on a bagel without gravy. Condiment guidance: 1 tbsp mayo + 1/2 tbsp mustard, optionally pickles/onion/greens. Final overnight braise details remain unreported.
