@@ -10,18 +10,20 @@
 
 ## Current cooking checkpoint
 
-Latest user update and photo at 2026-10-06 15:29:29 America/New_York:
-- **Cooked meat leftovers are now being used in a bagel with cheese: user reported, photo verifies assembly.** User explicitly says no gravy in this sandwich.
-- Current request is condiment/topping pairing, not further braise instructions.
-- Suggested spread for one bagel: **1 tablespoon mayonnaise + 1/2 tablespoon mustard** (Dijon or ordinary yellow). Pickle slices and thinly sliced onion are suggested additions; lettuce/arugula or sauteed onions also fit.
-- Mustard/mayo/topping availability and actual additions are not confirmed. Cheese type, meat portion, sandwich reheating and leftover storage details are not established by the photo.
-- Last overnight braise checkpoint was 22:05 on Oct 5: meat not tender yet; advised another 30 minutes covered at 350 F. The final total cooking time, later tenderness result, sauce reduction and serving details were not reported. Do not invent them or keep issuing that old stage as the current task.
-- Earlier salt/flour/wine/broth/spice amounts remain unconfirmed.
+Latest user update at 2026-10-07 15:33:49 America/New_York:
+- User says the leftover beef-and-cheese bagel was **phenomenal**, and the gravy is **very tasty**. Actual sandwich condiments were not specified; do not assume the proposed mustard/mayo were used.
+- Current task: turn leftover gravy into a small, brothy soup using available **beef stock**. Current stock brand/sodium level and gravy quantity are not specified.
+- User now requests **measurements by weight**. Earlier mug guidance is superseded for this soup.
+- Suggested starting ratio: **1 part gravy : 1.5 parts beef stock by weight**. Example: **200 g gravy + 300 g stock**. Add stock in **50 g increments** if still thicker than desired.
+- Suggested finishing seasonings for that example: **3 g mustard** (Dijon or yellow) and **1-2 grinds black pepper**. Optional **3-5 g pickle juice**, only after tasting if more tang is wanted. Salt only after tasting the hot soup.
+- Heat gravy and stock together, stirring; bring to a boil, then simmer **5 minutes**. Stir in mustard, taste and add optional pickle juice/pepper. Small pieces of already-cooked leftover meat/vegetables are optional if available.
+- Soup measurements, seasoning additions, heating and serving are proposed, not confirmed. Leftover storage details remain unreported.
+- Original braise's final cooking time, later tenderness result, sauce reduction and actual salt/flour/wine/broth/spice amounts remain unreported.
 
 
 ## Ingredients
 
-Practical cup and spoon measurements are the current cooking instructions because the user has no scale. Gram values below are original recipe references or approximate conversions, not actual measured amounts. Package weights remain exact as printed.
+Practical cup and spoon measurements below describe the original Oct 5 braise, when the user had no scale. The Oct 7 leftover soup uses weight measurements in its separate section. Gram values below are original recipe references or approximate conversions, not actual measured amounts. Package weights remain exact as printed.
 
 | Ingredient | Gram reference or known package amount | Practical quantity / current evidence |
 |---|---|---|
@@ -101,9 +103,29 @@ Browning develops savory flavor, while a tightly sealed tray retains moisture fo
 
 For one bagel with the cooked beef and cheese, mix **1 tablespoon mayonnaise with 1/2 tablespoon mustard** and spread lightly on the cut faces. Dijon or yellow mustard works. Suggested toppings: pickle slices, thin onion slices, lettuce/arugula, or sauteed onions. No gravy requested. These are recommendations, not confirmation of ingredients added or stocked.
 
+## Leftover gravy soup
+
+For a brothy soup, start with **1 part gravy : 1.5 parts beef stock by weight**. This is a starting ratio, since the gravy's current thickness is not measured.
+
+| Ingredient | Small batch |
+|---|---|
+| Leftover gravy | **200 g** |
+| Beef stock | **300 g**, plus **50 g at a time** if needed to thin |
+| Dijon or yellow mustard | **3 g**, suggested finishing seasoning |
+| Black pepper | **1-2 grinds**, to taste |
+| Pickle juice | **3-5 g optional**, after tasting |
+| Already-cooked leftover beef/vegetables | Optional small pieces if available; quantity not prescribed |
+
+1. Stir gravy and stock together in a saucepan. Bring to a boil while stirring, then reduce heat and simmer **5 minutes**. If adding cooked beef/vegetable pieces, heat them through in the soup.
+2. Stir in mustard and pepper. Taste hot; add pickle juice only if more tang is wanted. Add salt only if needed after tasting.
+3. If still too thick, stir in additional stock in **50 g increments**, reheating as needed. Stop when brothy enough and serve.
+
+These are proposed quantities, not confirmation of what the user added. Current stock type/sodium and leftover storage details are unknown.
+
 ## Notes & Adjustments
 
-- Practical measurements take precedence during this Airbnb cook; do not require a scale.
+- For the original Oct 5 Airbnb braise, practical measurements took precedence without a scale. On Oct 7 the user requests weights for leftover soup.
+- Oct 7: bagel reported phenomenal and gravy very tasty. Current soup plan: gravy:stock 1:1.5 by weight, e.g. 200 g + 300 g, finishing 3 g mustard and pepper, optional 3-5 g pickle juice after tasting. Actual additions not yet reported.
 - Oct 6 15:29 user uses leftover beef and cheese on a bagel without gravy. Condiment guidance: 1 tbsp mayo + 1/2 tbsp mustard, optionally pickles/onion/greens. Final overnight braise details remain unreported.
 - 22:05 user checked beef and reports not tender yet. Advised another 30 minutes at same 350 F, tightly covered, gravy retained. Root tenderness/removal, oven return and timer reset unconfirmed. Further 20-30-minute covered intervals if needed; sauce finishing waits for tenderness.
 - 22:02 user reports 45 more minutes completed; photo shows loose sauce. Tenderness not yet established. First fork-test; if tender, lift solids out and reduce sauce separately in skillet, optionally thicken with mashed cooked potato. Keep sauce, no straining required. Proposed actions, not confirmed completion.
