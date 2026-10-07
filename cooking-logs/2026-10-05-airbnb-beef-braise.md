@@ -3,7 +3,7 @@
 **Repository:** curajorge/cookery
 **Branch:** cooking/2026-10-05-airbnb-beef-braise
 **Recipe:** recipes/2026-10-05-airbnb-braised-beef-chuck.md
-**Latest checkpoint:** User update and photo at 2026-10-06T15:29:29-04:00
+**Latest checkpoint:** User update at 2026-10-07T15:33:49-04:00; last photo Oct 6
 **Clock basis:** America/New_York timestamps supplied in conversation context; these are not a claim about the Airbnb's local timezone.
 **Purpose:** Keep the live cooking state and question history so subsequent "what next?" answers use confirmed progress.
 
@@ -23,15 +23,19 @@
 | Tray / oven stage | **Further 45 minutes of cooking reported at 22:02, tray now open/out** | Initial oven entry at 19:40, roots added at 21:11. Exact initial duration and actual foil sealing not separately confirmed. User explicitly reports latest 45-minute interval completed. Tenderness not yet reported. |
 | Potatoes/carrots added | **DONE: explicitly confirmed at 21:11 and verified in photo** | User says just added potatoes/carrots after initial braise. Earlier removal ambiguity is historical; current vegetables in tray confirmed. Do not repeat addition. |
 | Final braise / leftovers | **Cooked meat leftovers in use on Oct 6 at 15:29** | Last overnight tenderness report at Oct 5 22:05 was not tender. Final total time, later tenderness result and sauce reduction were not reported. Do not invent these details. |
-| Leftover bagel | **Assembling: user report and Oct 6 photo** | Beef + cheese, explicitly no gravy. Cheese type, meat portion and condiment additions unknown. Current request is topping/condiment advice. |
+| Leftover bagel | **Eaten/enjoyed: user reports phenomenal on Oct 7** | Beef + cheese, explicitly no gravy in Oct 6 assembly. Actual condiments were not specified; do not infer mustard/mayo use. |
+| Gravy flavor | **Very tasty: user reports on Oct 7** | Final reduction method and consistency not provided. |
+| Gravy soup | **Planning on Oct 7: beef stock available** | User requests brothy soup and weight ratios. Current stock brand/sodium level and actual gravy amount unknown. No soup additions/heating confirmed. |
 
 ## Next action
 
-**Current stage: using cooked leftover meat and cheese in a bagel on Oct 6, explicitly without gravy.** User asks about mustard/mayo and suitable toppings.
+**Current task: make a small soup from leftover gravy and available beef stock.** User reports sandwich phenomenal and gravy very tasty. At 15:33 asks for weights and possible mustard/pickle juice/spices; earlier mug guidance superseded.
 
-Suggested spread for one bagel: **1 tablespoon mayonnaise + 1/2 tablespoon mustard**, Dijon or ordinary yellow. Suggested additions: pickle slices and thin onion slices; lettuce/arugula or sauteed onions are other options. Ingredient availability and actual additions unconfirmed.
+Starting ratio by weight: **1 gravy : 1.5 beef stock**. Example small batch **200 g gravy + 300 g stock**; add stock in **50 g increments** if still thick.
 
-Do not continue giving the old overnight braise extension as the immediate next action. Final overnight cooking time/tenderness/gravy reduction remain unreported. Leftover storage and sandwich reheating details have not been supplied.
+Heat gravy/stock together in saucepan, stirring; bring to a boil, then simmer **5 minutes**. Optional already-cooked meat/vegetable pieces can be heated through in the soup if available. Stir in **3 g mustard** (Dijon or yellow) and **1-2 grinds black pepper**. Taste hot; add **3-5 g pickle juice only if more tang wanted**. Taste before adding salt because gravy and stock already seasoned.
+
+No actual measurements, stock addition, seasonings, heating or serving confirmed. Current stock brand/sodium level unknown; do not assume it is the original low-sodium broth. Leftover storage unreported. Final overnight braise time/tenderness/reduction remain unreported; current task is soup, not the old braise extension.
 
 ## Current quantities and decisions
 
@@ -46,10 +50,11 @@ Do not continue giving the old overnight braise extension as the immediate next 
 - Flour: **1/2 US cup**, spooned and leveled.
 - Oil: **1/4 US cup total**, about 2 1/2 tablespoons for searing and 1 1/2 tablespoons for aromatics.
 - Seasoning reference: **1 tablespoon smoked paprika, 1 tablespoon dried oregano, 1 teaspoon black pepper**.
-- User has no scale at Airbnb. Initially said ordinary eating spoon; later clarified **proper measuring tablespoons are available**. Use flat/level measuring spoons.
-- Thick gravy requested. Keep measured liquid; thicken with flour, reduction and optionally cooked potato.
+- Original Oct 5 braise: no scale at Airbnb, later clarified proper measuring tablespoons available. On Oct 7 user requests weights for leftover soup; use grams for that new task.
+- Original braise target was thick gravy. On Oct 7 user wants to dilute the tasty leftover gravy into a brothy soup with beef stock; this new goal supersedes thickening instructions for the soup.
 - Equipment: deep roasting tray; thin/light foil available, prior guidance two complete sealed layers. Tray currently opened after latest 45-minute interval at 22:02. Use separate skillet for sauce reduction; do not heat roasting tray directly on burner.
-- Last overnight timing: initial oven entry reported by 19:40 Oct 5; roots added 21:11; another 45 minutes completed at 22:02; meat not tender at 22:05 and 30-minute extension prescribed. Final cook details unreported. Current Oct 6 task is leftover beef-and-cheese bagel pairing.
+- Last overnight timing: initial oven entry reported by 19:40 Oct 5; roots added 21:11; another 45 minutes completed at 22:02; meat not tender at 22:05 and 30-minute extension prescribed. Final cook details unreported. Bagel enjoyed by Oct 7; current task leftover gravy soup.
+- Soup starting ratio: gravy:stock **1:1.5 by weight**, sample **200 g + 300 g**, then 50 g more stock at a time if needed. Suggested finishing 3 g mustard and pepper; optional 3-5 g pickle juice after tasting. Additions unconfirmed.
 
 ## Salt: unresolved fact, not another instruction to add
 
@@ -95,6 +100,8 @@ Earlier entries without exact times retain their order rather than inventing a t
 | **22:02** | Photo after another 45 minutes; sauce runny; asks whether take out, strain, rest and full finish plan | **Latest 45-minute cooking interval completed: user reported.** Tenderness not confirmed by photo. Fork-test first; if tough, covered 350 F another 20-30 minutes. If tender, lift solids to covered platter, keep sauce, ladle into skillet and simmer uncovered until spoon-coating, check after 10 minutes (roughly 10-20 or as needed); optionally mash 2-3 cooked potato pieces into gravy. Skim obvious floating fat if present; no straining required. Rest solids about 10 minutes while finishing sauce; season after reducing and serve. All finishing actions unconfirmed. |
 | **22:05** | Checked meat, not as tender as expected; asks 20 or 30 more minutes and same temperature | **Beef not tender confirmed by user.** Advised another **30 minutes at same 350 F**, tightly covered with both foil layers, retaining gravy. Remove tender roots temporarily only if ready. Recheck largest beef chunk, repeat 20-30 minutes if still resistant. Oven return, new timer and root removal unconfirmed. Defer gravy reduction/rest/serving until tenderness. |
 | **Oct 6 15:29** | Making a bagel with leftover beef and cheese, explicitly no gravy; asks whether mustard/mayo and what else pairs | **Cooked meat leftovers and sandwich assembly confirmed by user/photo.** Suggested 1 tbsp mayo + 1/2 tbsp Dijon or yellow mustard for one bagel, pickle slices/thin onion, optionally greens or sauteed onions. Availability/additions not confirmed. Final overnight braise time, tenderness result, sauce reduction, storage and sandwich reheating not reported. |
+| **Oct 7 15:32** | Sandwich phenomenal; gravy very tasty; beef stock available, wants a small soup | Sandwich enjoyment and gravy flavor user-confirmed. Initial mug guidance 1 gravy:1 stock then thin to preference, later superseded by requested gram guidance. Final sandwich condiments and soup additions unknown. |
+| **Oct 7 15:33** | Requests weighing, ingredient ratios and what to add; asks mustard, pickle juice, spices | Proposed **1 gravy:1.5 stock by weight**, sample 200 g + 300 g, more stock 50 g at a time if needed. Bring to boil stirring then simmer 5 minutes; finish with 3 g mustard and 1-2 grinds pepper, optional 3-5 g pickle juice if more tang wanted after tasting. Salt only after tasting. Optional already-cooked beef/veg pieces if available. Actual quantities/additions/heating unconfirmed. |
 
 ## How to maintain this log
 
