@@ -3,7 +3,7 @@
 **Date:** 2026-10-08
 **Serves:** 4-6 with sides
 **Prep time:** 10-15 min | **Cook time:** about 2 hr covered + 15-20 min uncovered, longer if needed | **Total:** about 2 hr 30-45 min
-**Status:** Draft - preparation not yet reported
+**Status:** Draft - faster oven option proposed; preparation not yet reported
 **Branch:** cooking/2026-10-08-airbnb-pork-ribs
 **Live history:** cooking-logs/2026-10-08-airbnb-pork-ribs.md
 
@@ -16,6 +16,8 @@ User update/photo at 2026-10-08 19:23:47 America/New_York:
 - Scale was available in the Oct 7 cook; ingredient guidance uses grams. No oven setting, membrane removal, seasoning, foil wrapping or oven entry for these ribs has been reported.
 - This is a new cook: do not carry over old meat salting, timers, oven settings or tenderness results as completed steps.
 - A 375 F covered bake for about 2 hours is a researched starting point, not a guaranteed tenderness deadline. Test before the uncovered finish and extend covered cooking as needed.
+
+- Latest update at 2026-10-08T19:28:06-04:00: family is in a hurry and asks whether one hour is feasible. Proposed faster 400 F option below; one-hour tenderness is not promised. No prep or oven entry has been reported.
 
 ## Ingredients
 
@@ -51,6 +53,19 @@ Quantities below are the proposed full-package recipe, not confirmation of addit
 6. Once tender, remove foil and spoon a little tray juice over the ribs. Pour/ladle excess liquid into a separate heatproof container if necessary so ribs are not sitting in a deep pool. Bake **uncovered at the same 375 F** for **15-20 minutes**, checking at 10 minutes for darkening, until the coating gains color.
 7. Rest **10 minutes**, loosely covered, then slice/serve. Expect small carryover, roughly **2-5 F**, variable; do not rely on carryover to soften tough meat.
 
+## Faster oven option proposed Oct 8 19:28
+
+User asks for approximately one hour. For these St. Louis spare ribs, one hour is not a reliable tenderness deadline. A faster oven approach is an adaptation of Fresh Fork Market / Clark Pope's foil-wrapped 400 F spare-rib method; allow about two hours including preparation, finish and rest, with longer cooking if needed.
+
+- Keep the same ingredient weights and 60 g water. Remove membrane if present; cut into 3-4-rib sections as needed to arrange one layer, no stacking.
+- Preheat regular Bake to **400 F / 205 C**. Seal with two complete thin-foil layers.
+- Bake covered **90 minutes from actual oven entry**, then test thick meat between bones with a thin knife/skewer. Time is a checkpoint, not proof of tenderness.
+- If resistant, reseal and continue covered **15-20 minutes**, recheck, repeat as needed.
+- Once tender, uncover, baste lightly and finish at the same 400 F for **10-15 minutes**, checking for darkening. Rest **10 minutes**.
+- The source uses 80 minutes covered plus 10-15 minutes open; this proposal uses a 90-minute first check and the existing pantry coating/water instead of the source's vinegar/barbecue sauce.
+- A pressure cooker could get closer to one hour; equipment availability and capacity are unconfirmed. No pressure-cooker procedure selected.
+- This is proposed guidance, not confirmation that temperature, seasoning or cutting has changed.
+
 ## Quick Rationale
 
 A tight foil seal retains moisture while connective tissue softens; the uncovered finish colors the surface. Mustard, garlic and paprika give a savory coating without requiring a barbecue sauce or a long marinade.
@@ -60,6 +75,8 @@ A tight foil seal retains moisture while connective tissue softens; the uncovere
 - [Trisha Yearwood / Food Network, Barbecued Pork Ribs](https://www.foodnetwork.com/recipes/trisha-yearwood/barbecued-pork-ribs-2302551): covered 375 F, two-hour starting bake.
 - [Cooking LSL, Oven Baked St Louis Style Ribs](https://cookinglsl.com/oven-baked-st-louis-style-ribs-recipe/): foil method, membrane removal, uncovered finish and rib tenderness temperature range.
 - [National Pork Board, Pork Ribs](https://pork.org/cuts/pork-ribs/): St. Louis cut identification.
+- [Fresh Fork Market / Clark Pope, Oven-Roasted Ribs](https://freshforkmarket.com/recipes/oven-roasted-ribs/): faster 400 F foil-wrapped spare-rib option.
+- [James Beard Foundation, Salt and Pepper Spareribs](https://www.jamesbeard.org/recipes/salt-and-pepper-spareribs): one hour not sufficient for larger spare ribs; tenderness determines finish.
 - Current recipe seasoning weights, added water, no-marinade approach and same-temperature uncovered finish are an adaptation for the user's pantry and equipment, not a verbatim source recipe.
 
 ## Notes & Adjustments
