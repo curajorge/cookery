@@ -2,8 +2,25 @@
 
 This section supersedes the archived discussion below. Keep responses brief while Jorge cooks.
 
+## Resume here in a new conversation
+- Repository: curajorge/cookery. Working branch: cooking/2026-11-14-rosemary-cold-brew-competition. Continue editing this file on this branch; do not merge unless asked.
+- Latest agreed next action: start the two coffee batches below. User has not yet reported the actual brew start time or confirmed ingredients are in the vessels.
+- Tomorrow: filter both batches, combine and weigh actual concentrate yield, then make ONE test drink using 40 g concentrate + 8 g lime + 12 g syrup + 60 g shaking ice. Tare between ingredients, shake 10–15 seconds, strain over fresh ice, taste and record adjustments before scaling service.
+- Service: keep coffee, lime juice and syrup separate. Weigh each directly into ice in the shaker. Working batch is THREE small tastes: 120 g coffee + 24 g lime + 36 g syrup + 180 g shaking ice, subject to tomorrow's taste.
+- User has 20 cups. Final count depends on actual filtered yield and tested coffee dose; do not guarantee 20 servings. The original ALL DAY ratio is unknown.
+- Still to record: brew start time; actual coffee/water used; syrup completion; filtered yield; test feedback; final serving recipe.
+
+## Start coffee now
+| Vessel | Ground coffee (g) | Cold filtered water (g) |
+|---|---:|---:|
+| Two-quart container | 200 | 1,000 |
+| One-liter container | 100 | 500 |
+| Total | 300 | 1,500 |
+
+Grind medium-coarse. Combine each batch and stir until all grounds are wet. Leave stirring room; do not tightly pack a filter basket. Cover and refrigerate 18–20 hours from the actual start. Tomorrow strain, then paper-filter through rinsed V60 filters, combine and weigh. Keep concentrate undiluted for the first taste.
+
 ## Coffee
-- Current working plan for more servings: 300 g Panther Colombia Mejor, washed, medium-light (label supplied by user), with 1,500 g cold filtered water (1:5). Actual preparation not yet confirmed.
+- Agreed plan for more servings: 300 g Panther Colombia Mejor, washed, medium-light (label supplied by user), with 1,500 g cold filtered water (1:5). Actual preparation not yet confirmed.
 - Vessel: purchased 2-US-quart container, approximately 1,893 ml. Existing 1-liter cold-brew vessel also available.
 - Medium-coarse grind; wet all grounds, cover, refrigerate 18–20 hr from actual start.
 - Tomorrow strain then filter through rinsed V60 paper in batches; weigh concentrate.
@@ -45,6 +62,7 @@ Actual coffee start time, syrup completion and yields are NOT yet confirmed.
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- User requested an organized handoff for a future conversation and reconfirmed the split-coffee plan: 200/1,000 g in the two-quart vessel and 100/500 g in the one-liter vessel. Added start-now table, tomorrow's single-test steps, and outstanding measurements. No brewing or tasting marked complete.
 - User shaker fit test: 225 g ice; 474 g total after adding water; approximately 312 g liquid drained after shaking. Added water calculated as 249 g. Working plan now three small tastes per shake (360 g total contents at provisional ratio). Do not infer exact capacity or standardized dilution from drained amount.
 - Latest user correction: no premixed liquid service batch. Add coffee, lime and syrup separately by weight to ice in shaker, taring between each; two/three portions pending measured shaker capacity.
 - Nov 15: Increased agreed brew from original 120/600 g to 250/1,250 g using two-quart vessel.
