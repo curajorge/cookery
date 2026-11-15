@@ -4,23 +4,32 @@ This section supersedes the archived discussion below. Keep responses brief whil
 
 ## Resume here in a new conversation
 - Repository: curajorge/cookery. Working branch: cooking/2026-11-14-rosemary-cold-brew-competition. Continue editing this file on this branch; do not merge unless asked.
-- Latest agreed next action: start the two coffee batches below. User has not yet reported the actual brew start time or confirmed ingredients are in the vessels.
+- Both coffee batches are now started, confirmed Sunday Nov 15: 200 g batch at 5:15 p.m.; 100 g batch at 5:25 p.m. All cooking times are Miami local time.
+- Next action: strain and filter after 18–20 hours, then weigh yield and taste.
 - Tomorrow: filter both batches, combine and weigh actual concentrate yield, then make ONE test drink using 40 g concentrate + 8 g lime + 12 g syrup + 60 g shaking ice. Tare between ingredients, shake 10–15 seconds, strain over fresh ice, taste and record adjustments before scaling service.
 - Service: keep coffee, lime juice and syrup separate. Weigh each directly into ice in the shaker. Working batch is THREE small tastes: 120 g coffee + 24 g lime + 36 g syrup + 180 g shaking ice, subject to tomorrow's taste.
 - User has 20 cups. Final count depends on actual filtered yield and tested coffee dose; do not guarantee 20 servings. The original ALL DAY ratio is unknown.
-- Still to record: brew start time; actual coffee/water used; syrup completion; filtered yield; test feedback; final serving recipe.
+- Still to record: any deviations from agreed water amounts; syrup completion; filtered yield; test feedback; final serving recipe.
 
-## Start coffee now
+## Coffee batches — started
 | Vessel | Ground coffee (g) | Cold filtered water (g) |
 |---|---:|---:|
 | Two-quart container | 200 | 1,000 |
 | One-liter container | 100 | 500 |
 | Total | 300 | 1,500 |
 
-Grind medium-coarse. Combine each batch and stir until all grounds are wet. Leave stirring room; do not tightly pack a filter basket. Cover and refrigerate 18–20 hours from the actual start. Tomorrow strain, then paper-filter through rinsed V60 filters, combine and weigh. Keep concentrate undiluted for the first taste.
+Preparation method: medium-coarse grind; wet all grounds and stir, leaving room and avoiding tightly packed filter baskets. Cover and refrigerate 18–20 hours. Tomorrow strain, then paper-filter through rinsed V60 filters, combine and weigh. Keep concentrate undiluted for the first taste.
+
+## Actual brew log
+| Batch | Brew start, Sunday Nov 15 (Miami time) | Planned duration |
+|---|---|---|
+| 200 g coffee, planned 1,000 g water | 5:15 p.m. | 18–20 hours |
+| 100 g coffee, planned 500 g water | 5:25 p.m. | 18–20 hours |
+
+User confirmed both batches started; no separate water-weight corrections reported. Filtering and tasting are not yet done.
 
 ## Coffee
-- Agreed plan for more servings: 300 g Panther Colombia Mejor, washed, medium-light (label supplied by user), with 1,500 g cold filtered water (1:5). Actual preparation not yet confirmed.
+- Agreed plan for more servings: 300 g Panther Colombia Mejor, washed, medium-light (label supplied by user), with 1,500 g cold filtered water (1:5). Both batches started; times recorded above.
 - Vessel: purchased 2-US-quart container, approximately 1,893 ml. Existing 1-liter cold-brew vessel also available.
 - Medium-coarse grind; wet all grounds, cover, refrigerate 18–20 hr from actual start.
 - Tomorrow strain then filter through rinsed V60 paper in batches; weigh concentrate.
@@ -58,10 +67,11 @@ Only coffee gets any additional dilution water if tasting supports it; do NOT se
 User now has 20 cups, ten-ounce size discussed. Plan one separate test tomorrow before finalizing service ratio/count.
 Limes and lemons are on hand. Garnish: rosemary plus dried lemon wheel. Black-and-white illustrated judging card created in conversation.
 Competition Tuesday Nov 17 around noon; departure Monday around 6–7 p.m., hotel refrigeration available.
-Actual coffee start time, syrup completion and yields are NOT yet confirmed.
+Coffee starts are confirmed above. Syrup completion, filtered yields and tasting results remain unconfirmed.
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- Nov 15: User confirmed both coffee batches started: 200 g at 5:15 p.m., 100 g at 5:25 p.m., Miami local time. Logged the actual brew starts and retained the 18–20-hour refrigerated steep plan.
 - User questioned whether video shows equal coffee/syrup portions. Re-inspected pours at 4–10 seconds: amber liquid and dark liquid each visibly measured into a jigger, but capacity/fill levels remain obscured. Do not assert equal volumes or weights, or claim 40 g coffee / 12 g syrup was extracted from the reel. That is our untested starting formula. Planned syrup (200 g sugar + 200 g water, before straining/evaporation losses) covers 21 tastes at 12 g each (252 g); revise only after testing. Total coffee brewed does not set the final coffee-to-syrup ratio.
 - User requested an organized handoff for a future conversation and reconfirmed the split-coffee plan: 200/1,000 g in the two-quart vessel and 100/500 g in the one-liter vessel. Added start-now table, tomorrow's single-test steps, and outstanding measurements. No brewing or tasting marked complete.
 - User shaker fit test: 225 g ice; 474 g total after adding water; approximately 312 g liquid drained after shaking. Added water calculated as 249 g. Working plan now three small tastes per shake (360 g total contents at provisional ratio). Do not infer exact capacity or standardized dilution from drained amount.
