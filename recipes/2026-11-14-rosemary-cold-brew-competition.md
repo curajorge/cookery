@@ -1,3 +1,53 @@
+# Active prep plan — updated Sunday Nov 15
+
+This section supersedes the archived discussion below. Keep responses brief while Jorge cooks.
+
+## Coffee
+- Agreed dose: 250 g Panther Colombia Mejor, washed, medium-light (label supplied by user).
+- Brewing water: 1,250 g cold filtered water (1:5).
+- Vessel: purchased 2-US-quart container, approximately 1,893 ml. Existing 1-liter cold-brew vessel also available.
+- Medium-coarse grind; wet all grounds, cover, refrigerate 18–20 hr from actual start.
+- Tomorrow strain then filter through rinsed V60 paper in batches; weigh concentrate.
+- Keep UNDILUTED until a shaken test. Prior automatic addition of half the concentrate weight in water is withdrawn.
+- Expected yield 750–875 g is an estimate only.
+- User now asks about 300 g: not confirmed. Recommendation remains 250 g for stirring/headspace; 300 g requires 1,500 g water and leaves less space once grounds are added. Concentration is identical at 1:5.
+
+## Syrup
+| Ingredient | Grams |
+|---|---:|
+| White cane sugar | 200 |
+| Water | 200 |
+| Fresh washed rosemary | 6 |
+
+Dissolve sugar in water with gentle heat, around 85°C; remove heat, add rosemary, cover 10 minutes. Taste a cooled diluted spoonful; extend 5 minutes only if needed. Strain, cool in an ice-water bath, transfer to clean sealed jar and refrigerate.
+User measured syrup jar capacity as 435 g water near the top (~435 ml); this syrup fits because syrup density differs from water. User owns 2–3 more such jars.
+No separate syrup pilot or three-sample test required. Make the components once; adjust finished drink later.
+
+## Next-day taste and service
+Provisional test: 40 g concentrate + 12 g syrup + 8 g fresh lime + 60 g shaking ice; shake 10–15 seconds, strain and taste. Not ALL DAY's published proportions.
+User reports ALL DAY reel shows shaking. Exact proportions/coffee strength not established.
+Bring shaker; shake portions and strain over fresh ice. Shaker capacity pending before deciding two/three drinks per shake.
+Final extra water, syrup/lime amounts, portion size and serving count remain pending. Earlier counts based on automatically added water no longer apply.
+Transport coffee and measured syrup separately, chilled. Squeeze/weigh lime into an empty jar at office Tuesday; mix agreed ingredients in cleaned two-quart vessel if they fit, then shake portions.
+Only coffee gets any additional dilution water if tasting supports it; do NOT separately dilute finished syrup.
+10 oz cups are acceptable, paper or clear, preferably cold-drink rated. Purchase not confirmed.
+Limes and lemons are on hand. Garnish: rosemary plus dried lemon wheel. Black-and-white illustrated judging card created in conversation.
+Competition Tuesday Nov 17 around noon; departure Monday around 6–7 p.m., hotel refrigeration available.
+Actual coffee start time, syrup completion and yields are NOT yet confirmed.
+A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
+
+## Change log
+- Nov 15: Increased agreed brew from original 120/600 g to 250/1,250 g using two-quart vessel.
+- Switched selected bean from earlier Panther East Coast/Counter Culture candidates to Panther Colombia Mejor.
+- Increased syrup to 200/200/6 g.
+- Removed fixed pre-dilution and replaced stirred-only service with shaken testing/service.
+- User requested short actionable prep steps and ongoing branch commits.
+- 300 g dose is a question, not an accepted change.
+
+---
+
+# Archived planning notes — historical, not current instructions
+
 # Rosemary Cold-Brew Limeade — Competition Working Recipe
 
 **Date:** 2026-11-14 (Saturday planning)
