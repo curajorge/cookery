@@ -34,9 +34,9 @@ Bring shaker; shake portions and strain over fresh ice. All weights below are gr
 | Fresh lime juice | 8 | 16 | 24 |
 | Shaking ice | 60 | 120 | 180 |
 
-This ratio is provisional until tomorrow's test. Tare between additions. After confirming the ratio, premix only the liquid ingredients, stir, and weigh 60 g premix per taste into shaker (120 g for two, 180 g for three); add corresponding shaking ice. Shake 10–15 seconds, strain over fresh serving ice. Multiple portions require adequate shaker headspace; use smaller batches if crowded. These are small tastes, not full ten-ounce drinks.
+This ratio is provisional until tomorrow's test. USER CORRECTION: keep coffee concentrate, syrup and freshly squeezed lime juice in separate containers; do not premix the service liquids. Weigh the shaking ice into the shaker, place shaker with ice on scale and tare. Add coffee concentrate to its target, tare; add lime juice to its target, tare; add syrup to its target. Shake 10–15 seconds and strain evenly into cups over fresh serving ice. Target two or three tastes per shake for quick service. User will measure and report shaker liquid capacity; do not finalize batch size until ice and adequate shaking headspace are accounted for. These are small tastes, not full ten-ounce drinks.
 Final extra water, syrup/lime amounts, portion size and serving count remain pending. Earlier counts based on automatically added water no longer apply.
-Transport coffee and measured syrup separately, chilled. Squeeze/weigh lime into an empty jar at office Tuesday; mix agreed ingredients in cleaned two-quart vessel if they fit, then shake portions.
+Transport coffee and syrup separately, chilled. Squeeze/strain lime juice at the office Tuesday into its own container. Keep all three ingredients separate throughout service and dose directly into the shaker on the scale.
 Only coffee gets any additional dilution water if tasting supports it; do NOT separately dilute finished syrup.
 User now has 20 cups, ten-ounce size discussed. Plan one separate test tomorrow before finalizing service ratio/count.
 Limes and lemons are on hand. Garnish: rosemary plus dried lemon wheel. Black-and-white illustrated judging card created in conversation.
@@ -45,6 +45,7 @@ Actual coffee start time, syrup completion and yields are NOT yet confirmed.
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- Latest user correction: no premixed liquid service batch. Add coffee, lime and syrup separately by weight to ice in shaker, taring between each; two/three portions pending measured shaker capacity.
 - Nov 15: Increased agreed brew from original 120/600 g to 250/1,250 g using two-quart vessel.
 - Switched selected bean from earlier Panther East Coast/Counter Culture candidates to Panther Colombia Mejor.
 - Increased syrup to 200/200/6 g.
