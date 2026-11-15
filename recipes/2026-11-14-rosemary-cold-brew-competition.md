@@ -5,7 +5,8 @@ This section supersedes the archived discussion below. Keep responses brief whil
 ## Resume here in a new conversation
 - Repository: curajorge/cookery. Working branch: cooking/2026-11-14-rosemary-cold-brew-competition. Continue editing this file on this branch; do not merge unless asked.
 - Both coffee batches are now started, confirmed Sunday Nov 15: 200 g batch at 5:15 p.m.; 100 g batch at 5:25 p.m. All cooking times are Miami local time.
-- Next action: strain and filter after 18–20 hours, then weigh yield and taste.
+- Current next action: prepare rosemary syrup using the steps below. User requested to begin; actual heating/infusion start is not yet reported.
+- Coffee remains steeping; strain and filter after 18–20 hours, then weigh yield and taste.
 - Tomorrow: filter both batches, combine and weigh actual concentrate yield, then make ONE test drink using 40 g concentrate + 8 g lime + 12 g syrup + 60 g shaking ice. Tare between ingredients, shake 10–15 seconds, strain over fresh ice, taste and record adjustments before scaling service.
 - Service: keep coffee, lime juice and syrup separate. Weigh each directly into ice in the shaker. Working batch is THREE small tastes: 120 g coffee + 24 g lime + 36 g syrup + 180 g shaking ice, subject to tomorrow's taste.
 - User has 20 cups. Final count depends on actual filtered yield and tested coffee dose; do not guarantee 20 servings. The original ALL DAY ratio is unknown.
@@ -44,7 +45,13 @@ User confirmed both batches started; no separate water-weight corrections report
 | Water | 200 |
 | Fresh washed rosemary | 6 |
 
-Dissolve sugar in water with gentle heat, around 85°C; remove heat, add rosemary, cover 10 minutes. Taste a cooled diluted spoonful; extend 5 minutes only if needed. Strain, cool in an ice-water bath, transfer to clean sealed jar and refrigerate.
+1. Rinse rosemary, shake off excess water, and weigh 6 g tender sprigs (leaves and tender stems; exclude thick woody stems). Keep garnish sprigs separate.
+2. Combine 200 g white cane sugar and 200 g water in a small saucepan. Heat gently, stirring until sugar dissolves; approximately 80–85°C if using a thermometer. Avoid prolonged boiling so the concentration stays close to 1:1 by weight.
+3. Remove from heat, add the 6 g rosemary, cover, and steep 10 minutes. Record actual infusion start time when reported.
+4. Taste a cooled spoonful diluted with a little water. If rosemary is too faint, steep 5 more minutes; otherwise strain out rosemary at 10 minutes. Record actual total steep.
+5. Cool the strained syrup in an ice-water bath, keeping bath water out. Transfer to a clean sealed pouring container and refrigerate. Weigh finished syrup in a tared container and record the actual yield.
+
+Status: preparation instructions issued; actual quantities used, heating/infusion start, completion, and yield not yet reported. Lime stays separate for tomorrow's test and office service.
 User measured syrup jar capacity as 435 g water near the top (~435 ml); this syrup fits because syrup density differs from water. User owns 2–3 more such jars.
 No separate syrup pilot or three-sample test required. Make the components once; adjust finished drink later.
 
@@ -71,6 +78,7 @@ Coffee starts are confirmed above. Syrup completion, filtered yields and tasting
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- Nov 15: User moved on to syrup and requested ongoing repo documentation. Saved actionable 200 g sugar / 200 g water / 6 g rosemary method; 10-minute covered off-heat infusion, optional 5-minute extension after cooled diluted taste. Actual execution and yield still pending.
 - Nov 15: User confirmed both coffee batches started: 200 g at 5:15 p.m., 100 g at 5:25 p.m., Miami local time. Logged the actual brew starts and retained the 18–20-hour refrigerated steep plan.
 - User questioned whether video shows equal coffee/syrup portions. Re-inspected pours at 4–10 seconds: amber liquid and dark liquid each visibly measured into a jigger, but capacity/fill levels remain obscured. Do not assert equal volumes or weights, or claim 40 g coffee / 12 g syrup was extracted from the reel. That is our untested starting formula. Planned syrup (200 g sugar + 200 g water, before straining/evaporation losses) covers 21 tastes at 12 g each (252 g); revise only after testing. Total coffee brewed does not set the final coffee-to-syrup ratio.
 - User requested an organized handoff for a future conversation and reconfirmed the split-coffee plan: 200/1,000 g in the two-quart vessel and 100/500 g in the one-liter vessel. Added start-now table, tomorrow's single-test steps, and outstanding measurements. No brewing or tasting marked complete.
