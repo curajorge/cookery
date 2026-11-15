@@ -78,6 +78,7 @@ Coffee starts are confirmed above. Syrup completion, filtered yields and tasting
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- User reports syrup temperature '130' at 10 minutes; interpreted provisionally as 130°F (~54°C), units not explicitly confirmed. Advised no reheating yet: continue the same rosemary infusion covered, off heat, for the proposed extra 5 minutes. Initial heating temperature remains unreported.
 - Syrup tasting: user reports mild rosemary at 10 minutes. Recommended extending the same infusion by 5 minutes, covered and off heat, then retasting cooled and lightly diluted. Extension and final flavor not yet confirmed.
 - Nov 15: User moved on to syrup and requested ongoing repo documentation. Saved actionable 200 g sugar / 200 g water / 6 g rosemary method; 10-minute covered off-heat infusion, optional 5-minute extension after cooled diluted taste. Actual execution and yield still pending.
 - Nov 15: User confirmed both coffee batches started: 200 g at 5:15 p.m., 100 g at 5:25 p.m., Miami local time. Logged the actual brew starts and retained the 18–20-hour refrigerated steep plan.
