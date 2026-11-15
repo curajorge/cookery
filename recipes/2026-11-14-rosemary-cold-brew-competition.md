@@ -51,7 +51,7 @@ User confirmed both batches started; no separate water-weight corrections report
 4. Taste a cooled spoonful diluted with a little water. If rosemary is too faint, steep 5 more minutes; otherwise strain out rosemary at 10 minutes. Record actual total steep.
 5. Cool the strained syrup in an ice-water bath, keeping bath water out. Transfer to a clean sealed pouring container and refrigerate. Weigh finished syrup in a tared container and record the actual yield.
 
-Status: preparation instructions issued; actual quantities used, heating/infusion start, completion, and yield not yet reported. Lime stays separate for tomorrow's test and office service.
+Status: syrup infusion underway. User reports rosemary flavor is not strong after 10 minutes. Advised to keep the SAME rosemary in, covered and off heat, for 5 more minutes (15 minutes total), then taste a cooled, lightly diluted spoonful. No extra rosemary has been recommended or confirmed added yet. Exact start time, actual ingredient weights/temperature, final steep duration, straining, and yield remain unreported. Lime stays separate for tomorrow's test and office service.
 User measured syrup jar capacity as 435 g water near the top (~435 ml); this syrup fits because syrup density differs from water. User owns 2–3 more such jars.
 No separate syrup pilot or three-sample test required. Make the components once; adjust finished drink later.
 
@@ -78,6 +78,7 @@ Coffee starts are confirmed above. Syrup completion, filtered yields and tasting
 A separate optional 10 g AeroPress taste was requested; exclude it from this competition recipe and do not assume it was performed.
 
 ## Change log
+- Syrup tasting: user reports mild rosemary at 10 minutes. Recommended extending the same infusion by 5 minutes, covered and off heat, then retasting cooled and lightly diluted. Extension and final flavor not yet confirmed.
 - Nov 15: User moved on to syrup and requested ongoing repo documentation. Saved actionable 200 g sugar / 200 g water / 6 g rosemary method; 10-minute covered off-heat infusion, optional 5-minute extension after cooled diluted taste. Actual execution and yield still pending.
 - Nov 15: User confirmed both coffee batches started: 200 g at 5:15 p.m., 100 g at 5:25 p.m., Miami local time. Logged the actual brew starts and retained the 18–20-hour refrigerated steep plan.
 - User questioned whether video shows equal coffee/syrup portions. Re-inspected pours at 4–10 seconds: amber liquid and dark liquid each visibly measured into a jigger, but capacity/fill levels remain obscured. Do not assert equal volumes or weights, or claim 40 g coffee / 12 g syrup was extracted from the reel. That is our untested starting formula. Planned syrup (200 g sugar + 200 g water, before straining/evaporation losses) covers 21 tastes at 12 g each (252 g); revise only after testing. Total coffee brewed does not set the final coffee-to-syrup ratio.
