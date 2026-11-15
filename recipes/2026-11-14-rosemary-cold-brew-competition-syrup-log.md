@@ -15,8 +15,14 @@ Companion to the working cold-brew recipe. This log contains syrup development d
 - Next taste: improved but still too mild. Proposed 2 g additional lightly bruised fresh rosemary (8 g total if followed), gently warming to 65–70°C, then a covered off-heat infusion. Actual addition and rewarming were not separately confirmed.
 - Latest report: still mild at 8 minutes, interpreted as this second infusion.
 
-## Current next step
-Extend this second infusion to 15 minutes total: 7 more minutes, covered and off heat. Do not add more rosemary yet. Taste a cooled spoonful at that point and record whether the aroma is sufficient or becoming woody/bitter.
+## Final infusion feedback and next step
+User confirmed the infusion is done: rosemary is still milder than desired but acceptable for now. Keep this batch for the next-day complete-drink test; user has plenty of rosemary available and is willing to make another batch if that taste warrants it. No further additions or longer steeping are planned for this batch.
 
-## Pending
-Actual rosemary total, final steep duration, final flavor, straining and finished syrup weight remain unconfirmed. This is an iterative test formula, not a verified original cafe recipe.
+If not already done, strain out all rosemary, cool promptly in an ice-water bath, then seal and refrigerate. Weigh finished syrup in a tared container when convenient.
+
+Next-day test remains provisional: 40 g coffee concentrate + 8 g fresh lime juice + 12 g this syrup + 60 g shaking ice. Shake 10–15 seconds and strain over fresh ice. Evaluate rosemary aroma alongside sweetness before changing the syrup: if sweetness is right but rosemary weak, consider a stronger rosemary infusion rather than simply increasing syrup quantity.
+
+## Confirmed and pending
+- Confirmed: infusion finished; flavor mild but accepted for the complete-drink test.
+- Pending: independently reported actual rosemary total and final steep duration; straining/cooling/refrigeration confirmation; finished syrup weight; next-day drink feedback.
+- This is an iterative test formula, not a verified original cafe recipe.
