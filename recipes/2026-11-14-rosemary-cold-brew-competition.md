@@ -161,3 +161,22 @@ Keep the coffee identifiable, citrus refreshing, and rosemary aromatic without d
 | Syrup recipe / steep time / filtered yield | Pending |
 | Winning ratio | Pending |
 | Final batch weight / serving size / count | Pending |
+
+## Sunday Nov 15 — sources and proposed pilot (not performed)
+
+User asked whether to test a small syrup batch and whether our ratios came from a recipe/book.
+Clarification: the exact drink ratio and rosemary mass/infusion were our proposed formulation, not a published ALL DAY recipe or verified book formula.
+Sources checked:
+- ALL DAY menu confirms cold brew and rosemary limeade, no proportions: https://www.alldaymia.com/menu
+- Amy Traynor / Moody Mixologist rosemary syrup uses equal volumes sugar and water, 3–6 sprigs, and a heated infusion: https://www.moodymixologist.com/blog/rosemary-simple-syrup-recipe
+- Prima Coffee cold brew lemonade uses 20–30 g syrup, 1–2 fl oz lemon, 4–5 fl oz each water and coffee; syrup recipe is 100 g sugar / 110 g water: https://prima-coffee.com/blog/article/5-delightful-iced-coffee-drinks-summer/32495
+These support the general approach, not our exact formula. Equal volumes of sugar/water are not equal weights. Published lemon recipes and unspecified coffee strengths cannot establish the correct ratio for our lime and 1:5 brew.
+
+Proposed first syrup trial: 100 g sugar + 100 g water + 3 g washed fresh tender rosemary sprigs; dissolve sugar around 85°C, remove heat, add rosemary, cover 10 minutes, taste a cooled diluted sample, strain if suitable or extend in 5-minute increments and record. This smaller pilot supersedes the earlier 150/150/4.5 g batch for initial testing only; final quantity remains pending. Do not call this a source-exact recipe.
+
+With actual cold brew ready, compare three samples:
+A: 20 g concentrate + 10 g water + 4 g lime + 4 g syrup.
+B: 20 g concentrate + 10 g water + 4 g lime + 6 g syrup.
+C: 20 g concentrate + 10 g water + 4 g lime + 8 g syrup.
+Uses 60 g concentrate total. Serve equally cold and confirm winning ratio with proportional ice. Syrup amount changes both sweetness and rosemary; if sweetness is right but herb strength is wrong, reformulate herb infusion separately rather than adding sweetness.
+No pilot or tasting results yet.
