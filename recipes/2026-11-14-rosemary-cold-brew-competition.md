@@ -3,14 +3,13 @@
 This section supersedes the archived discussion below. Keep responses brief while Jorge cooks.
 
 ## Coffee
-- Agreed dose: 250 g Panther Colombia Mejor, washed, medium-light (label supplied by user).
-- Brewing water: 1,250 g cold filtered water (1:5).
+- Current working plan for more servings: 300 g Panther Colombia Mejor, washed, medium-light (label supplied by user), with 1,500 g cold filtered water (1:5). Actual preparation not yet confirmed.
 - Vessel: purchased 2-US-quart container, approximately 1,893 ml. Existing 1-liter cold-brew vessel also available.
 - Medium-coarse grind; wet all grounds, cover, refrigerate 18–20 hr from actual start.
 - Tomorrow strain then filter through rinsed V60 paper in batches; weigh concentrate.
 - Keep UNDILUTED until a shaken test. Prior automatic addition of half the concentrate weight in water is withdrawn.
-- Expected yield 750–875 g is an estimate only.
-- User now asks about 300 g: not confirmed. Recommendation remains 250 g for stirring/headspace; 300 g requires 1,500 g water and leaves less space once grounds are added. Concentration is identical at 1:5.
+- Working yield estimate for 300/1,500 g: approximately 900 g filtered concentrate, not guaranteed. Weigh actual yield. Twenty service tastes plus one test at 40 g concentrate require 840 g.
+- Cannot guarantee 300 g grounds + 1,500 g water will fit comfortably in the two-quart vessel, particularly with a filter insert. Recommended split: 200 g coffee + 1,000 g water in the two-quart vessel; 100 g coffee + 500 g water in the existing one-liter vessel. Leave room to stir and ensure any filter basket is not tightly packed. Combine filtered yields.
 
 ## Syrup
 | Ingredient | Grams |
@@ -25,12 +24,21 @@ No separate syrup pilot or three-sample test required. Make the components once;
 
 ## Next-day taste and service
 Provisional test: 40 g concentrate + 12 g syrup + 8 g fresh lime + 60 g shaking ice; shake 10–15 seconds, strain and taste. Not ALL DAY's published proportions.
-User reports ALL DAY reel shows shaking. Exact proportions/coffee strength not established.
-Bring shaker; shake portions and strain over fresh ice. Shaker capacity pending before deciding two/three drinks per shake.
+Uploaded ALL DAY reel inspected frame by frame: three jigger additions, shaking with ice, straining over fresh ice, rosemary garnish; no separate water addition visible. Caption identifies coffee concentrate, rosemary cane syrup, lime. Exact jigger capacity, fill levels, proportions and coffee strength cannot be established.
+Bring shaker; shake portions and strain over fresh ice. All weights below are grams, including syrup (not volume conversions).
+
+| Ingredient | 1 taste | 2 tastes | 3 tastes |
+|---|---:|---:|---:|
+| Concentrate | 40 | 80 | 120 |
+| Rosemary syrup | 12 | 24 | 36 |
+| Fresh lime juice | 8 | 16 | 24 |
+| Shaking ice | 60 | 120 | 180 |
+
+This ratio is provisional until tomorrow's test. Tare between additions. After confirming the ratio, premix only the liquid ingredients, stir, and weigh 60 g premix per taste into shaker (120 g for two, 180 g for three); add corresponding shaking ice. Shake 10–15 seconds, strain over fresh serving ice. Multiple portions require adequate shaker headspace; use smaller batches if crowded. These are small tastes, not full ten-ounce drinks.
 Final extra water, syrup/lime amounts, portion size and serving count remain pending. Earlier counts based on automatically added water no longer apply.
 Transport coffee and measured syrup separately, chilled. Squeeze/weigh lime into an empty jar at office Tuesday; mix agreed ingredients in cleaned two-quart vessel if they fit, then shake portions.
 Only coffee gets any additional dilution water if tasting supports it; do NOT separately dilute finished syrup.
-10 oz cups are acceptable, paper or clear, preferably cold-drink rated. Purchase not confirmed.
+User now has 20 cups, ten-ounce size discussed. Plan one separate test tomorrow before finalizing service ratio/count.
 Limes and lemons are on hand. Garnish: rosemary plus dried lemon wheel. Black-and-white illustrated judging card created in conversation.
 Competition Tuesday Nov 17 around noon; departure Monday around 6–7 p.m., hotel refrigeration available.
 Actual coffee start time, syrup completion and yields are NOT yet confirmed.
@@ -42,7 +50,8 @@ A separate optional 10 g AeroPress taste was requested; exclude it from this com
 - Increased syrup to 200/200/6 g.
 - Removed fixed pre-dilution and replaced stirred-only service with shaken testing/service.
 - User requested short actionable prep steps and ongoing branch commits.
-- 300 g dose is a question, not an accepted change.
+- Latest working scale: 300/1,500 g to target 20 small service tastes plus one test; actual brew still unconfirmed. Recommend splitting between existing vessels; no guarantee of fit in two-quart vessel alone.
+- Recorded video observations and provisional gram-based shaker batches; exact original recipe remains unknown.
 
 ---
 
