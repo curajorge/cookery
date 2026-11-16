@@ -13,6 +13,14 @@ Keep ingredients separate. Weigh ice into shaker; tare, add coffee, tare, add li
 
 The flavor was approved after adding lime and syrup to the first shaken sample; its exact melted-ice dilution was not measured. Continue the planned fresh-ice shaking method consistently.
 
+## Measured coffee and testing allowance
+User reports 781 g coffee concentrate and asks to allow 80 g for testing. Treat 781 g as the available amount before this requested allowance; do not subtract the earlier tasting separately unless clarified.
+- Available for service after allowance: 781 - 80 = 701 g.
+- At the locked 40 g coffee dose: 17 complete drinks, with 21 g coffee left.
+- Fifteen service drinks use 600 g coffee, leaving 101 g after the testing allowance.
+- Seventeen drinks would additionally require 306 g syrup and 204 g lime juice. Those stocks remain unmeasured.
+- The 80 g is a planning allowance, not confirmed consumption. The service target remains 15 unless changed.
+
 ## Stock planning — target 15 service drinks
 User reduced the serving target to 15 drinks, separate from the test already tasted. Prepare five shaker batches of three using the locked formula.
 
@@ -25,7 +33,7 @@ User reduced the serving target to 15 drinks, separate from the test already tas
 
 Additional fresh serving ice is needed for the cups. The first tasting used approximately 40 g concentrate, 12 g lime and 18 g syrup if instructed adjustments were followed. Total including that test would be 640 g coffee, 192 g lime and 288 g syrup (plus ice).
 
-The original 300 g coffee / 1,500 g brew-water plan and 200 g sugar / 200 g water syrup plan are expected to cover this target, but actual filtered yields and remaining stock weights have not been reported. Confirm at least 600 g concentrate and 270 g syrup remain; obtain 180 g fresh lime juice for service. Do not mark the inventory or 15 portions as confirmed until measured. Earlier 20-drink planning is superseded.
+Coffee stock is now reported as 781 g; after the requested 80 g testing allowance, the 701 g service allocation covers the 600 g needed for 15 drinks. Syrup stock is not yet weighed: confirm 270 g remains, and obtain 180 g fresh lime juice. Earlier 20-drink planning is superseded.
 
 ## Earlier tasting history
 
