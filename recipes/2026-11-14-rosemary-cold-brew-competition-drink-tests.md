@@ -13,8 +13,19 @@ Keep ingredients separate. Weigh ice into shaker; tare, add coffee, tare, add li
 
 The flavor was approved after adding lime and syrup to the first shaken sample; its exact melted-ice dilution was not measured. Continue the planned fresh-ice shaking method consistently.
 
-## Stock planning
-For 20 service tastes, reserve 800 g concentrate + 240 g lime juice + 360 g syrup. The first tasting used approximately 40 g concentrate, 12 g lime and 18 g syrup if the instructed adjustments were followed. Total for those 20 plus that test: 840 g concentrate, 252 g lime, 378 g syrup. Actual filtered coffee and syrup yields remain unreported, so 20 remaining servings are not guaranteed. Calculate capacity from remaining measured stocks at the locked ratio.
+## Stock planning — target 15 service drinks
+User reduced the serving target to 15 drinks, separate from the test already tasted. Prepare five shaker batches of three using the locked formula.
+
+| Ingredient | Needed for 15 service tastes |
+|---|---:|
+| Filtered coffee concentrate | 600 g |
+| Fresh lime juice | 180 g |
+| Rosemary syrup | 270 g |
+| Shaking ice | 900 g |
+
+Additional fresh serving ice is needed for the cups. The first tasting used approximately 40 g concentrate, 12 g lime and 18 g syrup if instructed adjustments were followed. Total including that test would be 640 g coffee, 192 g lime and 288 g syrup (plus ice).
+
+The original 300 g coffee / 1,500 g brew-water plan and 200 g sugar / 200 g water syrup plan are expected to cover this target, but actual filtered yields and remaining stock weights have not been reported. Confirm at least 600 g concentrate and 270 g syrup remain; obtain 180 g fresh lime juice for service. Do not mark the inventory or 15 portions as confirmed until measured. Earlier 20-drink planning is superseded.
 
 ## Earlier tasting history
 
