@@ -1,5 +1,7 @@
 # Locked serving recipe — rosemary cold brew
 
+**Final fresh test approved as perfect.** For complete repeat-preparation instructions, start with [the final recipe](2026-11-14-rosemary-cold-brew-competition-final-recipe.md).
+
 User approved the adjusted flavor: 'Ok that's better. Let's lock in.' This is the current serving formula and supersedes earlier 40/8/12 g proposals in other planning notes. All measurements are weights in grams.
 
 | Ingredient | 1 tasting drink | 2 tasting drinks | 3 tasting drinks |
@@ -11,7 +13,7 @@ User approved the adjusted flavor: 'Ok that's better. Let's lock in.' This is th
 
 Keep ingredients separate. Weigh ice into shaker; tare, add coffee, tare, add lime, tare, add syrup. Shake 10–15 seconds and strain evenly into cups over fresh ice. Three drinks use 210 g liquid ingredients + 180 g shaking ice = 390 g total contents, below the user's tested working load. These are tasting portions, not full ten-ounce drinks.
 
-The flavor was approved after adding lime and syrup to the first shaken sample; its exact melted-ice dilution was not measured. Continue the planned fresh-ice shaking method consistently.
+The flavor was first approved after adding lime and syrup to the initial sample, then the user made the final fresh test and reported it was perfect. Final repeat method: 40 g coffee + 12 g lime + 18 g syrup + 60 g shaking ice; shake 15 seconds and strain over fresh ice. Exact ice-melt mass was not measured.
 
 ## Measured coffee and testing allowance
 User reports 781 g coffee concentrate and asks to allow 80 g for testing. Treat 781 g as the available amount before this requested allowance; do not subtract the earlier tasting separately unless clarified.
