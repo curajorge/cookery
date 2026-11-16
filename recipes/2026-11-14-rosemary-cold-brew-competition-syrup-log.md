@@ -1,5 +1,7 @@
 # Rosemary syrup — latest tasting log
 
+**Finished-drink update:** final fresh drink approved as perfect at 40 g coffee / 12 g lime / 18 g this syrup. See [the final recipe](2026-11-14-rosemary-cold-brew-competition-final-recipe.md) for repeat preparation.
+
 Companion to the working cold-brew recipe. This log contains syrup development details only; newer entries supersede earlier proposed infusion endpoints.
 
 ## Base formula
@@ -20,9 +22,9 @@ User confirmed the infusion is done: rosemary is still milder than desired but a
 
 If not already done, strain out all rosemary, cool promptly in an ice-water bath, then seal and refrigerate. Weigh finished syrup in a tared container when convenient.
 
-Next-day test remains provisional: 40 g coffee concentrate + 8 g fresh lime juice + 12 g this syrup + 60 g shaking ice. Shake 10–15 seconds and strain over fresh ice. Evaluate rosemary aroma alongside sweetness before changing the syrup: if sweetness is right but rosemary weak, consider a stronger rosemary infusion rather than simply increasing syrup quantity.
+The initial 40/8/12 g drink test was too coffee-heavy. The final approved fresh drink uses 40 g concentrate + 12 g lime + 18 g this syrup + 60 g shaking ice; shake 15 seconds, strain over fresh ice. User reported it was perfect. No replacement syrup batch is currently needed based on flavor.
 
 ## Confirmed and pending
 - Confirmed: infusion finished; flavor mild but accepted for the complete-drink test.
-- Pending: independently reported actual rosemary total and final steep duration; straining/cooling/refrigeration confirmation; finished syrup weight; next-day drink feedback.
+- Pending: independently reported actual rosemary total and final steep duration; straining/cooling/refrigeration confirmation; finished syrup weight. Finished-drink feedback is now confirmed as perfect.
 - This is an iterative test formula, not a verified original cafe recipe.
